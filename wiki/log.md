@@ -16,3 +16,11 @@ Append-only record of all operations.
 - Created `wiki/log.md`
 
 **Classification method**: Dropped pins identified by GPS coordinate bounding box. Named places identified by keyword matching against place names and saved notes.
+
+---
+
+## 2026-05-18 — Scope defined
+
+- Trip scope set to Utah and Arizona only
+- Updated `CLAUDE.md` with Scope section
+- Updated `wiki/index.md` to note scope

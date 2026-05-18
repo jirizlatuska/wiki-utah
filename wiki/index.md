@@ -4,6 +4,12 @@
 
 ---
 
+## Scope
+
+This wiki covers a trip to **Utah and Arizona**. Colorado and New Mexico may be added later by explicit instruction.
+
+---
+
 ## Pages
 
 | Page | Description |
