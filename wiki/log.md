@@ -19,6 +19,17 @@ Append-only record of all operations.
 
 ---
 
+## 2026-05-18 — Itinerary: Leg 1 added
+
+**Source**: User planning notes
+
+**What changed**:
+- Created `wiki/itinerary.md` — arrival at PHX, Leg 1 to Saguaro NP
+- Created `wiki/saguaro-national-park.md` — two districts, camping options, key facts
+- Updated `wiki/index.md`
+
+---
+
 ## 2026-05-18 — Scope defined
 
 - Trip scope set to Utah and Arizona only

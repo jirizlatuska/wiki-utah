@@ -14,6 +14,8 @@ This wiki covers a trip to **Utah and Arizona**. Colorado and New Mexico may be 
 
 | Page | Description |
 |------|-------------|
+| [[itinerary]] | Planned route — arrival at PHX, Leg 1: Saguaro NP |
+| [[saguaro-national-park]] | Two-district park near Tucson; first overnight stop |
 | [[points-of-interest-overview]] | Summary counts of all saved Google Maps locations by state (Utah: 134, Arizona: 33) |
 | [[utah-points-of-interest]] | All 134 Utah saved locations — named places grouped by region + 71 dropped pins |
 | [[arizona-points-of-interest]] | All 33 Arizona saved locations — named places grouped by region + 18 dropped pins |
