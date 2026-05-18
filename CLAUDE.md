@@ -86,6 +86,10 @@ When the user asks you to lint or audit the wiki:
 - Check that all pages follow the page format above
 - Report findings as a numbered list with suggested fixes
 
+## Scope
+
+The trip covers **Utah and Arizona** only. When processing sources or answering questions, ignore locations outside these two states unless the user explicitly adds another state (e.g. Colorado, New Mexico).
+
 ## Rules
 
 - Never modify anything in the `raw/` folder
