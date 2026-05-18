@@ -1,0 +1,18 @@
+# Wiki Log
+
+Append-only record of all operations.
+
+---
+
+## 2026-05-18 — Initial ingest: Google Maps Takeout
+
+**Source**: `takeout-20260518T231412Z-3-001.zip`
+
+**What changed**:
+- Created `wiki/index.md`
+- Created `wiki/points-of-interest-overview.md` — summary table of Utah (134) and Arizona (33) POIs
+- Created `wiki/utah-points-of-interest.md` — 63 named Utah places grouped by region + 71 dropped pins
+- Created `wiki/arizona-points-of-interest.md` — 15 named Arizona places grouped by region + 18 dropped pins
+- Created `wiki/log.md`
+
+**Classification method**: Dropped pins identified by GPS coordinate bounding box. Named places identified by keyword matching against place names and saved notes.
