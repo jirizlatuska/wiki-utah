@@ -42,9 +42,12 @@ Two main approaches; most people do a one-way loop:
 
 ---
 
-## The Spire
+## Morliver Peak ("The Spire")
 
-*(Needs verification — likely refers to a specific formation in or near Cathedral Valley or the Caineville/Factory Butte area. User to confirm.)*
+- Prominent rock spire near Hanksville, UT
+- Google Plus Code: 95V9+H4, Hanksville, UT 84734
+- Natural stop when driving through Hanksville between Goblin Valley and Cathedral Valley
+- (Source: user planning notes; trail/access details need verification)
 
 ---
 
