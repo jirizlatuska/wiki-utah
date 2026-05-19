@@ -19,6 +19,19 @@ Append-only record of all operations.
 
 ---
 
+## 2026-05-18 — Legs 7–10 added: Capitol Reef, Henry Mountains, Hole in the Rock Road
+
+**Source**: User planning notes
+
+**What changed**:
+- Created `wiki/capitol-reef-area.md` — Cathedral Valley, Moonscape Overlook, Upper Muley Twist; "The Spire" flagged for clarification
+- Created `wiki/henry-mountains.md` — Mount Pennell, Bull Creek Pass, bison herd
+- Created `wiki/hole-in-the-rock-road.md` — Peek-a-Boo, Spooky, Zebra, Devil's Garden, historic crossing
+- Updated `wiki/itinerary.md` — Legs 7–10
+- Updated `wiki/index.md`
+
+---
+
 ## 2026-05-18 — Leg 5b added: Smoky Mountain Road → Escalante → Boulder
 
 **Source**: User planning notes

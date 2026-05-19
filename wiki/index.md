@@ -23,6 +23,9 @@ This wiki covers a trip to **Utah and Arizona**. Colorado and New Mexico may be 
 | [[kanab-area]] | Coral Pink Sand Dunes, Cottonwood Canyon Road, Grosvenor Arch, Kodachrome Basin |
 | [[coyote-buttes]] | CBS permit July 30; The Wave lottery July 31–Aug 1; Stateline Campground |
 | [[smoky-mountain-road]] | Kaiparowits Plateau dirt road Big Water → Escalante → Boulder (~Aug 2); Calf Creek Falls; Devil's Garden |
+| [[capitol-reef-area]] | Cathedral Valley (Temples of Sun & Moon), Moonscape Overlook, Upper Muley Twist Canyon |
+| [[henry-mountains]] | Mount Pennell, Bull Creek Pass, free-roaming bison herd |
+| [[hole-in-the-rock-road]] | Escalante slot canyons — Peek-a-Boo, Spooky, Zebra; Devil's Garden; historic crossing |
 | [[goblin-valley]] | Goblin Valley State Park Aug 3–4; Little Wild Horse Canyon; Wedge Overlook |
 | [[points-of-interest-overview]] | Summary counts of all saved Google Maps locations by state (Utah: 134, Arizona: 33) |
 | [[utah-points-of-interest]] | All 134 Utah saved locations — named places grouped by region + 71 dropped pins |

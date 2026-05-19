@@ -106,6 +106,50 @@
 
 ---
 
+## Leg 7 — Capitol Reef: Cathedral Valley & Caineville
+
+- **Dates**: ~August 5
+- **Drive**: Goblin Valley → UT-24 west → Caineville Badlands / Moonscape Overlook → Cathedral Valley loop (Hartnet Road or Cathedral Road, ~58 mi unpaved)
+- **Camp**: Cathedral Valley Campground (Capitol Reef NP, primitive, 6 sites) or dispersed BLM
+- **Key stops**: Factory Butte, Moonscape Overlook, Temple of the Sun & Moon, Glass Mountain, Upper Cathedral Valley Overlook
+- **Note**: Hartnet Ford may be impassable after rain — have Cathedral Road (west approach) as fallback
+- See [[capitol-reef-area]]
+
+---
+
+## Leg 8 — Henry Mountains / Mount Pennell
+
+- **Dates**: ~August 6
+- **Drive**: Hanksville area → Bull Creek Pass Road through Henry Mountains
+- **Camp**: McMillan Springs BLM campground (~10,000 ft, cooler) or dispersed
+- **Key stops**: Mount Pennell, Bull Creek Pass views, bison herd
+- **Note**: Be off exposed ridges before noon — afternoon thunderstorms guaranteed in July/August
+- See [[henry-mountains]]
+
+---
+
+## Leg 9 — Notom-Bullfrog Road → Upper Muley Twist Canyon
+
+- **Dates**: ~August 7
+- **Drive**: Henry Mountains → Notom-Bullfrog Road south → Burr Trail → Strike Valley
+- **Camp**: Cedar Mesa Campground (Capitol Reef NP, primitive) or dispersed Burr Trail area
+- **Key stops**: Waterpocket Fold views from Notom Road, Strike Valley Overlook, Upper Muley Twist Canyon
+- Morning start for Muley Twist narrows
+- See [[capitol-reef-area]]
+
+---
+
+## Leg 10 — Hole in the Rock Road & Escalante Slot Canyons
+
+- **Dates**: ~August 8–9
+- **Drive**: Burr Trail → Boulder → UT-12 west → Escalante → Hole-in-the-Rock Road south
+- **Camp**: Calf Creek (BLM) or dispersed along HITR Road
+- **Key stops**: Devil's Garden, Peek-a-Boo Slot, Spooky Gulch, Zebra Canyon, Dance Hall Rock
+- Morning-only for all slot canyons; afternoon free for driving further south or rest
+- See [[hole-in-the-rock-road]]
+
+---
+
 ## Related pages
 
 - [[saguaro-national-park]]
