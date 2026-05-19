@@ -19,6 +19,19 @@ Append-only record of all operations.
 
 ---
 
+## 2026-05-18 — Legs 11–12 and departure added
+
+**Source**: User planning notes
+
+**What changed**:
+- Created `wiki/bryce-canyon.md` — Option A fork; Kodachrome Basin camp; Navajo Loop
+- Created `wiki/white-rim-road.md` — Option B fork; Shafer Trail; Black Crack; permit warning
+- Created `wiki/sedona-return.md` — final days; Cathedral Rock, Slide Rock, Fay Canyon; PHX Aug 16
+- Updated `wiki/itinerary.md` — Legs 11–12, departure
+- Updated `wiki/index.md`
+
+---
+
 ## 2026-05-18 — Legs 7–10 added: Capitol Reef, Henry Mountains, Hole in the Rock Road
 
 **Source**: User planning notes

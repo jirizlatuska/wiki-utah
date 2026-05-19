@@ -150,6 +150,40 @@
 
 ---
 
+## Leg 11 — FORK: Bryce Canyon OR White Rim Road (~Aug 10–12)
+
+Choose based on weather, temperature, and energy. Both are viable from the Escalante/Capitol Reef area.
+
+### Option A — Bryce Canyon
+- **Drive**: Escalante → UT-12 west → Bryce Canyon NP → Kodachrome Basin SP (camp)
+- Higher elevation = cooler; good after the heat of Capitol Reef
+- See [[bryce-canyon]]
+
+### Option B — White Rim Road (Canyonlands)
+- **Drive**: Escalante → UT-24 → Hanksville → US-191 north → Dead Horse Point → Shafer Trail descent
+- 2-day, ~100-mile 4WD loop; 1 night camping on the road
+- **Permit required** — check recreation.gov for cancellations now; walk-up possible but competitive
+- See [[white-rim-road]]
+
+---
+
+## Leg 12 — Sedona (~Aug 13–15)
+
+- **Drive**: From Bryce: US-89 south → Flagstaff → Sedona (~5.5 hrs). From Moab/Canyonlands: US-191 south → Flagstaff → Sedona (~7–8 hrs)
+- **Purpose**: paved roads, no mud/flood risk — safe buffer before the flight
+- **Camp**: Cave Springs or Manzanita (Coconino NF, Oak Creek Canyon) — reserve in advance; motel as fallback
+- **Key stops**: Cathedral Rock (saved), Fay Canyon (saved), Slide Rock State Park (swimming), Devil's Bridge
+- See [[sedona-return]]
+
+---
+
+## Departure
+
+- **Date**: August 16
+- **Airport**: PHX — ~2 hrs from Sedona via AZ-179 → I-17
+
+---
+
 ## Related pages
 
 - [[saguaro-national-park]]
