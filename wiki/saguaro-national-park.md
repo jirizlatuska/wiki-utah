@@ -36,7 +36,7 @@ Reserve in advance — popular site, especially October–April.
 
 - Nearest city: Tucson, AZ (~15 min from either district entrance)
 - Drive from PHX: ~2 hours
-- Best time to visit: October–April (summer heat is extreme; 100°F+ common)
+- **Trip dates**: July 23–24 — peak summer; expect 100°F+ during the day; hike early morning only
 - Entry fee: $25/vehicle (as of recent years — needs verification)
 - No gas or food inside the park
 

@@ -19,6 +19,16 @@ Append-only record of all operations.
 
 ---
 
+## 2026-05-18 — Trip dates set: July 23 – August 16
+
+**Source**: User planning notes
+
+**What changed**:
+- `wiki/itinerary.md` — added dates (25 days), season notes (extreme heat, monsoon/flash flood risk)
+- `wiki/saguaro-national-park.md` — noted July 23–24 visit, heat advisory
+
+---
+
 ## 2026-05-18 — Camping and vehicle details confirmed
 
 **Source**: User planning notes
