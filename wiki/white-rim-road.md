@@ -23,9 +23,10 @@ White Rim Road circles the White Rim sandstone bench ~1,200 ft below the Island 
 
 **Permit confirmed** — overnight camping on White Rim Road.
 
-- **Entry**: Shafer Trail
-- **Camp**: White Crack Campsite
-- **Exit**: Mineral Bottom Road
+- **Dates**: August 11–12
+- **Entry**: Shafer Trail (August 11)
+- **Camp**: White Crack Campsite (night of August 11)
+- **Exit**: Mineral Bottom Road (August 12)
 
 ---
 

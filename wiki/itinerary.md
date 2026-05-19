@@ -150,13 +150,13 @@
 
 ---
 
-## Leg 11 — White Rim Road, Canyonlands (~Aug 10–12)
+## Leg 11 — White Rim Road, Canyonlands (Aug 11–12)
 
 **Permit confirmed**: entry Shafer Trail, camp White Crack, exit Mineral Bottom Road.
 
 - **Drive in**: Hole in the Rock area → UT-24 → Hanksville → US-191 north → Dead Horse Point → Shafer Trail descent
-- Day 1: Shafer Trail down → White Rim bench → White Crack Campsite
-- Day 2: White Crack → Mineral Bottom Road exit → US-313 → Moab area
+- Aug 11: Shafer Trail down → White Rim bench → White Crack Campsite
+- Aug 12: White Crack → Mineral Bottom Road exit → US-313 → Moab area
 - Bryce Canyon ([[bryce-canyon]]) remains an option if something changes with the permit
 - See [[white-rim-road]]
 

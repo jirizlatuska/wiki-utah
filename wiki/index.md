@@ -28,7 +28,7 @@ This wiki covers a trip to **Utah and Arizona**. Colorado and New Mexico may be 
 | [[hole-in-the-rock-road]] | Escalante slot canyons — Peek-a-Boo, Spooky, Zebra; Devil's Garden; historic crossing |
 | [[goblin-valley]] | Goblin Valley State Park Aug 3–4; Little Wild Horse Canyon; Wedge Overlook |
 | [[bryce-canyon]] | Option A fork ~Aug 10–12: hoodoo amphitheaters; Kodachrome Basin camp |
-| [[white-rim-road]] | Canyonlands 100-mile 4WD loop ~Aug 10–12; **permit confirmed** — Shafer in, White Crack camp, Mineral Bottom out |
+| [[white-rim-road]] | Canyonlands 100-mile 4WD loop **Aug 11–12**; permit confirmed — Shafer in, White Crack camp, Mineral Bottom out |
 | [[sedona-return]] | Final days Aug 13–15: Cathedral Rock, Slide Rock, Fay Canyon; fly PHX Aug 16 |
 | [[points-of-interest-overview]] | Summary counts of all saved Google Maps locations by state (Utah: 134, Arizona: 33) |
 | [[utah-points-of-interest]] | All 134 Utah saved locations — named places grouped by region + 71 dropped pins |
