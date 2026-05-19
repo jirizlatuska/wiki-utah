@@ -19,6 +19,15 @@ Append-only record of all operations.
 
 ---
 
+## 2026-05-19 — Added Wave lottery contingency and Aug 10 positioning day
+
+**Source**: User planning notes
+
+**What changed**:
+- `wiki/itinerary.md` — Leg 5 expanded with Wave lottery timing and free-day options if not won; Leg 10b added as positioning day Escalante → Dead Horse Point (Aug 10)
+
+---
+
 ## 2026-05-19 — White Rim Road permit confirmed
 
 **Source**: User planning notes

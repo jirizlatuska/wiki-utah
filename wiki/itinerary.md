@@ -79,9 +79,20 @@
 
 - **Dates**: July 30 – August 1
 - **Camp**: Stateline Campground (BLM, House Rock Valley Road)
-- July 30: **Coyote Buttes South** (permit confirmed)
-- July 31 & Aug 1: **The Wave / Coyote Buttes North** (lottery pending)
+- **July 30**: Coyote Buttes South (permit confirmed)
+- **July 31**: The Wave / Coyote Buttes North lottery day 1 — result known evening of July 30
+- **Aug 1**: The Wave / Coyote Buttes North lottery day 2 — result known evening of July 31
 - See [[coyote-buttes]]
+
+### If Wave lottery not won (~likely)
+
+Results come ~2 days ahead, so by the evening of July 31 at the latest the outcome is clear. This frees up August 1–2 as unscheduled days. Options from Stateline/House Rock area:
+
+- **Wire Pass / Buckskin Gulch** (morning only — already nearby): premier slot canyon, one of the longest in the world; accessible from Wire Pass trailhead on House Rock Road
+- **Paria Canyon day hike**: White House trailhead on US-89; scenic intro to the Paria drainage
+- **Drive Cottonwood Canyon Road**: if skipped earlier (Leg 4) and conditions are dry, this is the time
+- **Rest day** at Stateline — the child may appreciate a slower pace after the intensity of earlier legs
+- Depart early for Smoky Mountain Road (Leg 5b) with more time to explore along the way
 
 ---
 
@@ -147,6 +158,15 @@
 - **Key stops**: Devil's Garden, Peek-a-Boo Slot, Spooky Gulch, Zebra Canyon, Dance Hall Rock
 - Morning-only for all slot canyons; afternoon free for driving further south or rest
 - See [[hole-in-the-rock-road]]
+
+---
+
+## Leg 10b — Positioning Day: Escalante → Moab area (Aug 10)
+
+- **Drive**: Escalante → UT-12 east → Torrey → UT-24 → Hanksville → US-191 north → Moab → US-313 → Dead Horse Point area (~230 miles, ~4.5 hrs)
+- **Camp**: Dead Horse Point State Park campground (reservable) or dispersed BLM near Moab
+- **Purpose**: position for Aug 11 Shafer Trail entry; stock up on water and fuel in Moab (last services before White Rim)
+- Dead Horse Point overlook worth doing the afternoon of arrival — impressive preview of the canyon you'll drive through the next two days
 
 ---
 
