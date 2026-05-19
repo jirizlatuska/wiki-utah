@@ -21,13 +21,11 @@ White Rim Road circles the White Rim sandstone bench ~1,200 ft below the Island 
 
 ## Permit
 
-**Advance permit required** — Canyonlands White Rim Road overnight permit via recreation.gov.
+**Permit confirmed** — overnight camping on White Rim Road.
 
-- Permits open **4 months in advance**
-- For August 10–12 dates, permits opened ~April 10, 2026 — **likely already taken**
-- Check for cancellations on recreation.gov closer to the date
-- Walk-up/same-day permits: a small number held back; available at the Island in the Sky visitor center starting at 8am day-of — competitive in summer
-- **Action needed**: check recreation.gov for availability now
+- **Entry**: Shafer Trail
+- **Camp**: White Crack Campsite
+- **Exit**: Mineral Bottom Road
 
 ---
 

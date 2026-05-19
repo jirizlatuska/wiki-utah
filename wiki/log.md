@@ -19,6 +19,17 @@ Append-only record of all operations.
 
 ---
 
+## 2026-05-19 — White Rim Road permit confirmed
+
+**Source**: User planning notes
+
+**What changed**:
+- `wiki/white-rim-road.md` — permit confirmed; Shafer Trail entry, White Crack campsite, Mineral Bottom Road exit
+- `wiki/itinerary.md` — Leg 11 updated; Bryce Canyon demoted to fallback
+- `wiki/index.md` — updated
+
+---
+
 ## 2026-05-18 — Legs 11–12 and departure added
 
 **Source**: User planning notes

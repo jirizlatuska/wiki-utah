@@ -150,19 +150,14 @@
 
 ---
 
-## Leg 11 — FORK: Bryce Canyon OR White Rim Road (~Aug 10–12)
+## Leg 11 — White Rim Road, Canyonlands (~Aug 10–12)
 
-Choose based on weather, temperature, and energy. Both are viable from the Escalante/Capitol Reef area.
+**Permit confirmed**: entry Shafer Trail, camp White Crack, exit Mineral Bottom Road.
 
-### Option A — Bryce Canyon
-- **Drive**: Escalante → UT-12 west → Bryce Canyon NP → Kodachrome Basin SP (camp)
-- Higher elevation = cooler; good after the heat of Capitol Reef
-- See [[bryce-canyon]]
-
-### Option B — White Rim Road (Canyonlands)
-- **Drive**: Escalante → UT-24 → Hanksville → US-191 north → Dead Horse Point → Shafer Trail descent
-- 2-day, ~100-mile 4WD loop; 1 night camping on the road
-- **Permit required** — check recreation.gov for cancellations now; walk-up possible but competitive
+- **Drive in**: Hole in the Rock area → UT-24 → Hanksville → US-191 north → Dead Horse Point → Shafer Trail descent
+- Day 1: Shafer Trail down → White Rim bench → White Crack Campsite
+- Day 2: White Crack → Mineral Bottom Road exit → US-313 → Moab area
+- Bryce Canyon ([[bryce-canyon]]) remains an option if something changes with the permit
 - See [[white-rim-road]]
 
 ---
