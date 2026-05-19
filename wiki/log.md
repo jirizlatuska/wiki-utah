@@ -19,6 +19,18 @@ Append-only record of all operations.
 
 ---
 
+## 2026-05-18 — Leg 2 added: Apache Trail → Meteor Crater
+
+**Source**: User planning notes
+
+**What changed**:
+- Created `wiki/apache-trail.md` — AZ-88 stops, Tonto NF camping, Arizona-Sonora Desert Museum
+- Created `wiki/meteor-crater-area.md` — Homolovi, Little Painted Desert, Petrified Forest, Meteor Crater, Coal Mine Canyon, Tuba City dino tracks, Bearizona, Sunset Crater/Wupatki
+- Updated `wiki/itinerary.md` — Leg 2 summary
+- Updated `wiki/index.md`
+
+---
+
 ## 2026-05-18 — Trip dates set: July 23 – August 16
 
 **Source**: User planning notes

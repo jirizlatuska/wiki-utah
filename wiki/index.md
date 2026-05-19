@@ -14,8 +14,10 @@ This wiki covers a trip to **Utah and Arizona**. Colorado and New Mexico may be 
 
 | Page | Description |
 |------|-------------|
-| [[itinerary]] | Planned route — arrival at PHX, Leg 1: Saguaro NP |
+| [[itinerary]] | Planned route — PHX arrival, Leg 1: Saguaro NP, Leg 2: Apache Trail → Meteor Crater |
 | [[saguaro-national-park]] | Two-district park near Tucson; first overnight stop |
+| [[apache-trail]] | AZ-88 scenic byway; Tonto NF camping; Tonto cliff dwellings; Arizona-Sonora Desert Museum |
+| [[meteor-crater-area]] | Homolovi ruins, Little Painted Desert, Petrified Forest, Meteor Crater, Coal Mine Canyon, Tuba City dino tracks |
 | [[points-of-interest-overview]] | Summary counts of all saved Google Maps locations by state (Utah: 134, Arizona: 33) |
 | [[utah-points-of-interest]] | All 134 Utah saved locations — named places grouped by region + 71 dropped pins |
 | [[arizona-points-of-interest]] | All 33 Arizona saved locations — named places grouped by region + 18 dropped pins |

@@ -43,6 +43,17 @@
 
 ---
 
+## Leg 2 — Apache Trail → Meteor Crater area
+
+- **Dates**: ~July 24–27 (rough, TBD)
+- **Drive**: Tucson → Apache Trail (AZ-88) → Roosevelt Lake → US-60 north → Winslow/Meteor Crater area
+- **Camp**: Tonto National Forest sites along Apache Trail / Roosevelt Lake; see [[apache-trail]]
+- **Key stops**: Arizona-Sonora Desert Museum (Tucson), Apache Trail viewpoints, Tonto National Monument, Homolovi Ruins, Little Painted Desert, Meteor Crater
+- **Geology/history emphasis**: volcanic, prehistoric, petroglyph sites along the way
+- See [[apache-trail]] and [[meteor-crater-area]] for details
+
+---
+
 ## Related pages
 
 - [[saguaro-national-park]]
