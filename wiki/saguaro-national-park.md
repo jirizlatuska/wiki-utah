@@ -21,11 +21,14 @@ Saguaro NP is divided into two districts, both within easy reach of Tucson:
 
 ## Camping
 
-- **Rincon Mountain District** has backcountry campsites (permit required; no drive-in camping within the park itself)
-- **Gilbert Ray Campground** (Pima County, adjacent to the West district) is the nearest drive-in campsite option — reservable in advance
-- Dispersed camping on BLM land nearby is another option
+**Planned**: Gilbert Ray Campground — Pima County park adjacent to the Tucson Mountain District (West).
 
-**Note**: Confirm campsite reservation well in advance — both district campsites book up. (Needs verification)
+- Tent camping, SUV (no trailer)
+- Reservable at the Pima County parks reservation system (needs verification)
+- Sites have picnic tables and fire rings; restrooms on site (needs verification)
+- No hookups needed
+
+Reserve in advance — popular site, especially October–April.
 
 ---
 

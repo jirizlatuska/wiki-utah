@@ -19,6 +19,16 @@ Append-only record of all operations.
 
 ---
 
+## 2026-05-18 — Camping and vehicle details confirmed
+
+**Source**: User planning notes
+
+**What changed**:
+- `wiki/saguaro-national-park.md` — confirmed Gilbert Ray Campground, tent + SUV, no hookups needed
+- `wiki/itinerary.md` — added vehicle/gear section (SUV, tent, no trailer); updated Leg 1 camp details
+
+---
+
 ## 2026-05-18 — Itinerary: Leg 1 added
 
 **Source**: User planning notes
