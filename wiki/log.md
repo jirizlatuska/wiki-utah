@@ -19,6 +19,21 @@ Append-only record of all operations.
 
 ---
 
+## 2026-05-18 — Legs 3–6 added
+
+**Source**: User planning notes
+
+**What changed**:
+- Created `wiki/monument-valley-goosenecks.md`
+- Created `wiki/page-area.md`
+- Created `wiki/kanab-area.md` — includes time budget table; Cottonwood Canyon Road monsoon caveat
+- Created `wiki/coyote-buttes.md` — CBS permit confirmed Jul 30; Wave lottery Jul 31–Aug 1; Stateline camp
+- Created `wiki/goblin-valley.md` — Aug 3–4; Little Wild Horse Canyon; Wedge Overlook
+- Updated `wiki/itinerary.md` — Legs 3–6
+- Updated `wiki/index.md`
+
+---
+
 ## 2026-05-18 — Leg 2 added: Apache Trail → Meteor Crater
 
 **Source**: User planning notes
