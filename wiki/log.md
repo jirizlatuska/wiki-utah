@@ -19,6 +19,17 @@ Append-only record of all operations.
 
 ---
 
+## 2026-05-18 — Leg 5b added: Smoky Mountain Road → Escalante → Boulder
+
+**Source**: User planning notes
+
+**What changed**:
+- Created `wiki/smoky-mountain-road.md` — Kaiparowits route, Devil's Garden, Calf Creek Falls, Anasazi Museum, BLM 300 flagged for verification
+- Updated `wiki/itinerary.md` — inserted Leg 5b between Coyote Buttes and Goblin Valley
+- Updated `wiki/index.md`
+
+---
+
 ## 2026-05-18 — Legs 3–6 added
 
 **Source**: User planning notes

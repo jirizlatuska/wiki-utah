@@ -85,6 +85,17 @@
 
 ---
 
+## Leg 5b — Smoky Mountain Road → Escalante → Boulder
+
+- **Date**: ~August 2
+- **Drive**: Stateline → US-89 west to Big Water → Smoky Mountain Road (BLM 300, ~78 mi dirt) → Escalante → UT-12 → Boulder
+- **Camp**: Calf Creek (BLM, no reservations) or Escalante Petrified Forest SP
+- **Key stops**: Devil's Garden hoodoos (Escalante), Calf Creek Falls, Anasazi State Park Museum (Boulder)
+- **Note**: Full day of driving; early start required. Road impassable if wet — check conditions at Escalante Visitor Center or before leaving Big Water.
+- See [[smoky-mountain-road]]
+
+---
+
 ## Leg 6 — Goblin Valley
 
 - **Dates**: ~August 3–4
