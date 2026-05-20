@@ -2,7 +2,7 @@
 
 **Summary**: Table of contents for the Utah trip knowledge base.
 
-**Last updated**: 2026-05-19.
+**Last updated**: 2026-05-20.
 
 ---
 
@@ -12,6 +12,7 @@
 |------|-------------|
 | [[itinerary]] | Complete 6-leg loop from Phoenix — all waypoints and key stops |
 | [[permits]] | Permit booking strategy for White Pocket, Coyote Buttes South, and White Rim Road |
+| [[kids]] | Child-friendly highlights: dinosaurs, live animals, best hikes, and train ride for a 7-year-old |
 
 ---
 

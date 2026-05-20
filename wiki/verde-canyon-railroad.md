@@ -22,6 +22,10 @@ The canyon is a bald eagle wintering area (November–March — needs verificati
 - Departs from Clarkdale, AZ — near North Broadway per the KMZ waypoint (source: Leg 6 KMZ)
 - Runs year-round but check schedule for seasonal variations (needs verification)
 
+## For kids
+
+The train is one of the best child-friendly activities on the entire return leg. A 7-year-old who has endured long car days will find it a welcome change of pace. The open-air cars allow kids to stand and watch the canyon walls go by; the 680-foot tunnel is a highlight. The round trip of ~4 hours is long enough to feel like an adventure but short enough that children don't lose interest. Wildlife along the Verde River (herons, eagles in winter, otters) provides things to spot. Book in advance. See [[kids]] for the full children's overview.
+
 ## Context on the trip
 
 On Leg 6, this is a half-day activity from the Sedona/Cottonwood area before heading south toward [[organ-pipe-cactus-nm]].

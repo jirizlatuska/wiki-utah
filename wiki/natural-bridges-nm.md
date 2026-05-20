@@ -27,6 +27,10 @@ An 8.6-mile loop trail connects all three bridges with canyon hikes and ladders 
 - No water available in the campground (needs verification)
 - The bridge loop hike requires descending and ascending canyon walls via steep trails and fixed ladders — allow a full day
 
+## For kids
+
+Natural bridges are conceptually satisfying for children — a river wore through solid rock. Owachomo Bridge is the most accessible (shortest descent, needs verification) and a good target if time or energy is limited. The junior ranger program is worth picking up at the visitor center (needs verification). After dark, the monument's extreme darkness makes it an outstanding place for a child to see the Milky Way for the first time. See [[kids]] for the full children's overview.
+
 ## Dark sky viewing
 
 The monument is in one of the darkest corners of the lower 48 states. The viewpoint near the visitor center is excellent for Milky Way photography on moonless nights.

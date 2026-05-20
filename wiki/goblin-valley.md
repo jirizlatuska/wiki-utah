@@ -22,6 +22,10 @@ Goblin Valley is the end of Leg 3 and start of Leg 4 (source: both KMZ files ref
 - The park is also a gateway to the San Rafael Swell backcountry
 - Little Wildhorse Canyon, a narrow slot canyon, is approximately 5 miles north of Goblin Valley (needs verification — listed as a nearby hike)
 
+## For kids
+
+Goblin Valley is one of the top stops on the whole trip for a 7-year-old. Unlike almost every other protected landscape, children are explicitly allowed to climb freely on the formations — no trail, no ropes, no "do not touch" signs. The goblins are the right scale to be climbable and explorable without being overwhelming. Plan at least 2 hours; kids routinely don't want to leave. The campground at the park is also excellent. See [[kids]] for the full children's overview.
+
 ## Little Wildhorse Canyon
 
 A popular slot canyon hike in the San Rafael Swell, accessible from a trailhead near Goblin Valley. Can be done as a loop with Bell Canyon (approximately 8 miles; needs verification). Excellent narrows with no permit required.

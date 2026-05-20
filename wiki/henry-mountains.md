@@ -24,6 +24,10 @@ Mt. Pennell is the end point of Leg 4 (source: Leg 4 KMZ — "Mt. Pennell Lookou
 
 A free-roaming herd of approximately 300–400 bison lives in the Henry Mountains year-round (needs verification). They were transplanted from Yellowstone in 1941 (needs verification). Unlike most U.S. bison, these animals range freely on public BLM land. Hunting is permitted by lottery to manage the herd (needs verification).
 
+## For kids
+
+Seeing wild bison from inside a vehicle is the main child-friendly draw here. The herd roams freely and sightings are common on the lower mountain roads — it is not unusual to round a bend and find bison on or beside the road. This is qualitatively different from a zoo or a fenced ranch; the scale of a bison at close range is striking for adults and children alike. No need to leave the vehicle for a good sighting. See [[kids]] for the full children's overview.
+
 ## Road conditions
 
 Roads into the Henrys range from maintained gravel to rough 4WD tracks. The upper roads are typically closed by snow from November through April (needs verification). The McMillan Spring Road can be impassable in wet conditions.

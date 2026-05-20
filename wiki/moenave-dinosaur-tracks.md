@@ -16,6 +16,10 @@ The Moenave Dinosaur Tracks are located just west of Tuba City on US-160 and mar
 - Located roadside on US-160; easy to spot
 - Open year-round; guides are usually present during daylight hours (needs verification)
 
+## For kids
+
+One of the best stops on the entire trip for a child. The guides walk directly onto the sandstone and crouch beside individual tracks, showing how the animal was running or walking. The footprints are large and unmistakable — easy for a 7-year-old to understand. The format (outdoor, informal, hands-on) holds attention far better than a museum exhibit. Allow 30–60 minutes. See [[kids]] for the full children's overview.
+
 ## Context on the trip
 
 Tuba City is the last full-service town before the long stretch into the Vermilion Cliffs and Kanab country. It's the logical place to fuel up, buy groceries, and check tire pressure before Leg 2.

@@ -18,6 +18,10 @@ The park is divided into a hike/picnic area and a separate OHV area. Camping is 
 - Campground reservations available at reserveamerica.com (needs verification)
 - Best visited at sunrise or sunset when the sand color is most vivid
 
+## For kids
+
+Sand dunes are universally appealing to children — no explanation needed. Running up and rolling down pink dunes is simple, physical fun. It requires no hiking skill and no interpretation. Good stop to break up the driving day between [[kanab]] and [[bryce-canyon]]. Bring a change of clothes; the sand gets everywhere. See [[kids]] for the full children's overview.
+
 ## Context on the trip
 
 This is a relatively short stop on Leg 2 — worth an hour or two for the colors and a walk in the dunes, but not a full day destination. It sits just off US-89 on the way between Kanab and Bryce Canyon.

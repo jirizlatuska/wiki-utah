@@ -19,6 +19,10 @@ Bryce Canyon is technically not a canyon but a series of natural amphitheaters c
 - **Inspiration Point** — excellent for sunrise
 - **Rainbow Point** — southern end of the park; highest elevation
 
+## For kids
+
+Bryce works well for children because the hoodoos are visually bizarre and easy to understand ("the rain carved them"). The Queen's Garden trail descends into the formations and gives a child the sense of being surrounded by a forest of stone spires — different from any view from the rim. Prairie dog colonies near the visitor center are reliably entertaining. Check at the visitor center for the junior ranger program (needs verification). See [[kids]] for the full children's overview.
+
 ## Practical notes
 
 - National Park entrance fee applies; America the Beautiful pass accepted

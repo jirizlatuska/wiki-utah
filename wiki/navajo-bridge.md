@@ -16,6 +16,10 @@ Navajo Bridge crosses the Colorado River gorge at Marble Canyon, about 467 feet 
 - California condors are frequently seen soaring above the gorge — Marble Canyon is one of the most reliable condor-viewing spots in the country (needs verification)
 - The river below is the start of Grand Canyon rafting trips through Marble Canyon
 
+## For kids
+
+California condors are the main attraction for children here. The birds are enormous — wingspan up to 9.5 feet (needs verification) — and they roost on the bridge structure itself, sometimes just a few meters above the pedestrian walkway. A 7-year-old standing next to a condor perched on the railing is a memorable encounter. Bring binoculars for birds soaring in the gorge below. The walkway is safe with railings. See [[kids]] for the full children's overview.
+
 ## Practical notes
 
 From here, US-89A heads west toward the Vermilion Cliffs and the turnoff for [[white-pocket]] and [[coyote-buttes-south]]. This is a key navigation junction — the turn onto House Rock Valley Road (BLM 1065) is about 30 miles west of the bridge (needs verification).

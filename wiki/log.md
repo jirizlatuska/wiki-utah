@@ -70,3 +70,24 @@ Leg 6 destinations:
 - `wiki/kitt-peak.md`
 
 **Notes**: KMZ files contain route/waypoint data only. Factual claims about locations are drawn from general knowledge and marked "(needs verification)" throughout. Trip-specific dates are not yet set.
+
+---
+
+## 2026-05-20 — Added child-friendly activity information
+
+**Reason**: Traveling with a 7-year-old; requested coverage of dinosaur tracks, live animals, and age-appropriate activities.
+
+**Pages created**:
+- `wiki/kids.md` — aggregator page covering dinosaurs, wildlife, best stops ranked for kids, suitable hikes, train ride, and difficulty notes
+
+**Pages updated** (added "For kids" section to each):
+- `wiki/moenave-dinosaur-tracks.md`
+- `wiki/goblin-valley.md`
+- `wiki/henry-mountains.md`
+- `wiki/navajo-bridge.md`
+- `wiki/bryce-canyon.md`
+- `wiki/verde-canyon-railroad.md`
+- `wiki/coral-pink-sand-dunes.md`
+- `wiki/natural-bridges-nm.md`
+
+**Index updated**: Added `[[kids]]` to core pages table.
