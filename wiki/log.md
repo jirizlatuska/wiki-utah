@@ -91,3 +91,17 @@ Leg 6 destinations:
 - `wiki/natural-bridges-nm.md`
 
 **Index updated**: Added `[[kids]]` to core pages table.
+
+---
+
+## 2026-05-20 — Created printable trip brochure
+
+**File**: `brochure/brochure.html`
+
+**Format**: A4 landscape, two-sided tri-fold (6 panels)
+- Sheet 1 outside: cover illustration (canyon moonscape), inside-flap intro, route-at-a-glance back panel
+- Sheet 2 inside: Legs 1–3 detail, Legs 4–6 detail, wildlife & family highlights panel
+
+**Illustrations**: All CSS/SVG inline — no external image dependencies. Scenes include Bryce hoodoos at dusk, Apache Trail desert road, Natural Bridges night sky, and Henry Mountains bison.
+
+**To print**: Open `brochure/brochure.html` in a browser → File → Print → A4 landscape, no margins. Print sheet 1, flip paper, print sheet 2, then fold in thirds.
