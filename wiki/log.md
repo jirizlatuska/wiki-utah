@@ -105,3 +105,15 @@ Leg 6 destinations:
 **Illustrations**: All CSS/SVG inline — no external image dependencies. Scenes include Bryce hoodoos at dusk, Apache Trail desert road, Natural Bridges night sky, and Henry Mountains bison.
 
 **To print**: Open `brochure/brochure.html` in a browser → File → Print → A4 landscape, no margins. Print sheet 1, flip paper, print sheet 2, then fold in thirds.
+
+---
+
+## 2026-05-20 — Czech brochure and travel diary for child
+
+**Files added**:
+- `brochure/brochure-cz.html` — full Czech translation of the trip brochure; same 2-sheet tri-fold layout; language adapted for a 7-year-old; all SVG illustrations retained
+- `brochure/diary.html` — Czech travel diary handout for the child; 6 A4 portrait pages:
+  - Page 1: Cover with name field and self-portrait drawing space
+  - Pages 2–4: Paired leg diary entries (Legs 1+2, 3+4, 5+6) with date, weather picker, drawing box, per-leg spotter checklist, sentence completions, and star rating
+  - Page 5: Animal spotter table (12 species, fill-in where/what columns, score tally)
+  - Page 6: Awards page — Best Place, Biggest WOW, Best Animal, Best Food, Biggest Surprise, Longest Ride — plus final reflection and overall trip star rating
