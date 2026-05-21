@@ -12,7 +12,7 @@
 |------|-------------|
 | [[itinerary]] | Complete 6-leg loop from Phoenix — all waypoints and key stops |
 | [[schedule]] | Day-by-day calendar Jul 23 – Aug 16, 2026: campgrounds, permit dates, and unresolved gaps |
-| [[permits]] | Permit booking: CBS July 30, White Rim Road Aug 10–11, White Pocket TBD |
+| [[permits]] | Permit booking: CBS July 30, White Rim Road Aug 10–11 (White Pocket needs no permit) |
 | [[kids]] | Child-friendly highlights: dinosaurs, live animals, best hikes, and train ride for a 7-year-old |
 
 ---

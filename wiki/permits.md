@@ -1,26 +1,10 @@
 # Permits
 
-**Summary**: Three stops on this trip require advance permits; all are booked through Recreation.gov and have strict daily quotas.
+**Summary**: Two stops on this trip require advance permits booked through Recreation.gov: Coyote Buttes South (July 30) and White Rim Road (Aug 10–11). White Pocket does not require a permit.
 
 **Sources**: `raw/` KMZ route files (location identification); user schedule (2026-05-20); permit details need verification against current Recreation.gov listings.
 
 **Last updated**: 2026-05-20.
-
----
-
-## White Pocket
-
-**Trip leg**: [[itinerary]] Leg 2
-**Location**: Vermilion Cliffs National Monument, AZ
-**Permit unit**: White Pocket Day Use
-
-White Pocket is a surreal swirling sandstone formation in the Vermilion Cliffs. Access requires a high-clearance 4WD vehicle on deep sand. The site has a small daily visitor quota allocated by lottery.
-
-- Booking: Recreation.gov — search "Vermilion Cliffs White Pocket" (needs verification)
-- Lottery windows open several months in advance (needs verification)
-- No camping on-site; nearest camping is Stateline Campground or BLM dispersed
-
-See also: [[navajo-bridge]], [[cottonwood-canyon-road]]
 
 ---
 

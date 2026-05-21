@@ -1,6 +1,6 @@
 # White Pocket
 
-**Summary**: A remote, swirling sandstone formation in the Vermilion Cliffs requiring a permit and high-clearance 4WD; one of the most visually striking landscapes in the American Southwest.
+**Summary**: A remote, swirling sandstone formation in the Vermilion Cliffs requiring high-clearance 4WD; no permit needed — just show up. One of the most visually striking landscapes in the American Southwest.
 
 **Sources**: `raw/Directions from Moenave Dinosaur Tracks...to Stateline Campground.kmz`
 
@@ -11,14 +11,6 @@
 ## Overview
 
 White Pocket sits in the southern Paria Plateau within Vermilion Cliffs National Monument. The rock here is Navajo Sandstone that has been folded, contorted, and partially bleached, creating brain-like swirls of cream, pink, and red that are unlike anything else in the region. There is no trail — visitors walk directly on the slickrock.
-
-## Permit
-
-White Pocket is one of the three permit stops on this trip. See [[permits]] for full booking details.
-
-- Permit required to visit (needs verification on exact quota and system)
-- Booked through Recreation.gov (needs verification)
-- Lottery-based system
 
 ## Access
 
@@ -35,7 +27,6 @@ No camping at White Pocket itself. Nearest BLM dispersed camping is along House 
 ## Related pages
 
 - [[itinerary]]
-- [[permits]]
 - [[navajo-bridge]]
 - [[coyote-buttes-south]]
 - [[kanab]]

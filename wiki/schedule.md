@@ -24,7 +24,7 @@
 | 0/1 | 23–24. 7. | Čt | 1 | ✅ Gilbert Ray Campground | Arrive PHX 19:00; drive to camp in the dark |
 | 1/2 | 24–25. 7. | Pá | 1 | 🕳️ **unspecified** | [[apache-trail]], Roosevelt Dam, [[mogollon-rim]] |
 | 2/3 | 25–26. 7. | So | 1 | ✅ Coal Mine Canyon (rim) | [[meteor-crater]], [[coal-mine-canyon]] |
-| 3/4 | 26–27. 7. | Ne | 1→2 | 🕳️ **unspecified** | [[moenave-dinosaur-tracks]], [[navajo-bridge]]; White Pocket area? |
+| 3/4 | 26–27. 7. | Ne | 1→2 | 🕳️ **unspecified** | [[moenave-dinosaur-tracks]], [[navajo-bridge]]; [[white-pocket]] day visit (no permit) |
 | 4/5 | 27–28. 7. | Po | 2 | ✅ Coral Pink Sand Dunes CG | [[kanab]] resupply, [[coral-pink-sand-dunes]] |
 | 5/6 | 28–29. 7. | Út | 2 | ✅ Kodachrome Basin SP | [[bryce-canyon]], [[kodachrome-basin]], Grosvenor Arch |
 | 6/7 | 29–30. 7. | St | 2→3 | ✅ Stateline Campground | [[cottonwood-canyon-road]], arrive Stateline |
@@ -60,10 +60,10 @@ After Apache Trail and Roosevelt Dam, heading toward the Mogollon Rim. Likely so
 - Needs verification and booking if NF campground
 
 ### Gap B — Night 26/27 July (night 3/4)
-After Moenave Dinosaur Tracks and Navajo Bridge. Heading toward White Pocket / Kanab area.
-- If White Pocket permit won for July 27: could camp BLM dispersed near House Rock Valley Road
-- Otherwise: Lee's Ferry Campground (NPS, near Navajo Bridge); or drive straight to Kanab area
-- **Flag**: Was the White Pocket permit actually won? If so, for which date? This affects routing for days 3–4.
+After Moenave Dinosaur Tracks and Navajo Bridge. White Pocket is a day visit (no permit required — just drive in on 4WD). Night needs a camp.
+- Option: Lees Ferry Campground (NPS, near Navajo Bridge) — good if White Pocket visit is on July 27 morning
+- Option: BLM dispersed along House Rock Valley Road (near White Pocket trailhead)
+- Option: drive through to Kanab area if doing White Pocket early that day
 
 ### Gap C — Night 8/9 August (night 16/17)
 After two nights in the Henry Mountains, heading toward Moab/Dead Horse Point. Long driving day (~4 hours).

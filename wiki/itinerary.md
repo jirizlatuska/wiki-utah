@@ -19,6 +19,7 @@ For the full day-by-day calendar with campgrounds, see [[schedule]].
 Three stops require advance permits — see [[permits]] for booking details.
 
 **Confirmed permit dates**: CBS Paw Hole 30. 7., White Rim Road 10.–11. 8.
+**No permit needed**: White Pocket (free access, 4WD only)
 
 ---
 
@@ -48,7 +49,7 @@ Three stops require advance permits — see [[permits]] for booking details.
 | Stop | Notes |
 |------|-------|
 | [[navajo-bridge]] | Twin spans over the Colorado at Marble Canyon |
-| [[white-pocket]] | **Permit required** — lottery via Recreation.gov |
+| [[white-pocket]] | No permit required; high-clearance 4WD on deep sand |
 | [[kanab]] | Last town with full services before Grand Staircase |
 | [[coral-pink-sand-dunes]] | State park; OHV area and short hike |
 | [[bryce-canyon]] | Hoodoo amphitheaters; entry fee, busy in summer |
@@ -129,11 +130,10 @@ Three stops require advance permits — see [[permits]] for booking details.
 
 ## Permit summary
 
-| Permit | Leg | Booking | Notes |
-|--------|-----|---------|-------|
-| White Pocket | 2 | Recreation.gov lottery | See [[permits]] |
-| Coyote Buttes South | 3 | Recreation.gov lottery | See [[permits]] |
-| White Rim Road | 5 | Recreation.gov permit | See [[permits]] |
+| Permit | Date | Notes |
+|--------|------|-------|
+| Coyote Buttes South | 30. 7. 2026 | Recreation.gov lottery — confirmed; see [[permits]] |
+| White Rim Road | 10.–11. 8. 2026 | Recreation.gov permit — confirmed; see [[permits]] |
 
 ---
 
