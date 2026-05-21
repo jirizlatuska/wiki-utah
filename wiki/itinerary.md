@@ -1,18 +1,24 @@
 # Utah Trip Itinerary
 
-**Summary**: Complete loop from Phoenix covering southern Utah, the Colorado Plateau, and canyon country across approximately 14–18 days.
+**Summary**: Complete loop from Phoenix covering southern Utah, the Colorado Plateau, and canyon country — July 23 to August 16, 2026 (25 days, 24 nights).
 
-**Sources**: All six KMZ route files in `raw/`.
+**Sources**: All six KMZ route files in `raw/`; user schedule (2026-05-20).
 
-**Last updated**: 2026-05-19.
+**Last updated**: 2026-05-20.
 
 ---
 
 ## Overview
 
+**Departure**: Thursday 23. 7. 2026, arrive PHX 19:00
+**Return flight**: Sunday 16. 8. 2026, depart PHX 09:00
+
 A clockwise loop departing and returning to Phoenix Sky Harbor (PHX). The route threads through Navajo and Hopi land, the Vermilion Cliffs, Grand Staircase–Escalante, Capitol Reef country, the Henry Mountains, Canyonlands, and Monument Valley before looping back through the Grand Canyon and Sonoran Desert.
 
+For the full day-by-day calendar with campgrounds, see [[schedule]].
 Three stops require advance permits — see [[permits]] for booking details.
+
+**Confirmed permit dates**: CBS Paw Hole 30. 7., White Rim Road 10.–11. 8.
 
 ---
 

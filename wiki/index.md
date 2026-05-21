@@ -11,7 +11,8 @@
 | Page | Description |
 |------|-------------|
 | [[itinerary]] | Complete 6-leg loop from Phoenix — all waypoints and key stops |
-| [[permits]] | Permit booking strategy for White Pocket, Coyote Buttes South, and White Rim Road |
+| [[schedule]] | Day-by-day calendar Jul 23 – Aug 16, 2026: campgrounds, permit dates, and unresolved gaps |
+| [[permits]] | Permit booking: CBS July 30, White Rim Road Aug 10–11, White Pocket TBD |
 | [[kids]] | Child-friendly highlights: dinosaurs, live animals, best hikes, and train ride for a 7-year-old |
 
 ---

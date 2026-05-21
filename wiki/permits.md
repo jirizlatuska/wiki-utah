@@ -2,9 +2,9 @@
 
 **Summary**: Three stops on this trip require advance permits; all are booked through Recreation.gov and have strict daily quotas.
 
-**Sources**: `raw/` KMZ route files (location identification); permit details need verification against current Recreation.gov listings.
+**Sources**: `raw/` KMZ route files (location identification); user schedule (2026-05-20); permit details need verification against current Recreation.gov listings.
 
-**Last updated**: 2026-05-19.
+**Last updated**: 2026-05-20.
 
 ---
 
@@ -27,6 +27,7 @@ See also: [[navajo-bridge]], [[cottonwood-canyon-road]]
 ## Coyote Buttes South (Paw Hole)
 
 **Trip leg**: [[itinerary]] Leg 3
+**Permit date**: **30. 7. 2026 (Thursday)** — confirmed
 **Location**: Paria Canyon–Vermilion Cliffs Wilderness, AZ/UT border
 **Permit unit**: Coyote Buttes South
 
@@ -44,6 +45,7 @@ See also: [[coyote-buttes-south]]
 ## White Rim Road
 
 **Trip leg**: [[itinerary]] Leg 5
+**Permit dates**: **10. 8. 2026 (Monday)** — White Crack camp; **11. 8. 2026 (Tuesday)** — Mineral Bottom exit — confirmed
 **Location**: Canyonlands National Park — Island in the Sky District, UT
 **Permit unit**: White Rim Road Motorized
 
@@ -65,11 +67,13 @@ See also: [[white-rim-road]], [[muley-point]]
 
 ## Booking strategy
 
-Because two of the three permits (White Pocket and CBS) are lottery-based, the trip dates must be built around permit wins rather than the other way around. Recommended approach:
+Coyote Buttes South (July 30) and White Rim Road (Aug 10–11) are confirmed. White Pocket date is not yet set — see gaps in [[schedule]].
 
-1. Enter lotteries for both White Pocket and CBS for the same general window
-2. Once a permit is won, lock in surrounding nights and book White Rim Road for a compatible window
-3. Non-permit legs are flexible and can be planned around permit dates
+The CBS permit anchors Segment 3 to the July 30 date. All segment 3 campground bookings should be made with that fixed point in mind.
+
+White Rim Road entry is via Shafer Trail on August 10; exit via Mineral Bottom on August 11. The night of August 9 (Wild Horse SP / Dead Horse Point) is the staging camp before the descent.
+
+See [[schedule]] for the full day-by-day calendar and unresolved gaps.
 
 ---
 

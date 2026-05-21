@@ -94,6 +94,26 @@ Leg 6 destinations:
 
 ---
 
+## 2026-05-20 — Added detailed trip schedule
+
+**Source**: User-provided day-by-day schedule with campground names and segment durations.
+
+**Pages created**:
+- `wiki/schedule.md` — 24-night calendar (Jul 23 – Aug 16, 2026) with confirmed campgrounds, permit dates, four flagged gaps (nights 1/2, 3/4, 16/17, 20/21), timing note for Aug 13 Verde Canyon Railroad, and decision note on Monument Valley vs Muley Point for night 20/21
+
+**Pages updated**:
+- `wiki/itinerary.md` — added specific travel dates, flight times, reference to [[schedule]], confirmed permit dates
+- `wiki/permits.md` — added confirmed permit dates (CBS July 30; White Rim Aug 10–11); updated booking strategy to reflect confirmed permits
+- `wiki/index.md` — added [[schedule]] to core pages table
+
+**Key findings from parsing the schedule**:
+- "Wild Horse State Park" (night Aug 9/10) is almost certainly Dead Horse Point State Park — needs user confirmation
+- Night 16/17 (Aug 8/9) is a transit gap between Henry Mountains and Dead Horse Point area
+- Aug 13 Verde Canyon Railroad (13:00 Clarkdale) makes Monument Valley (not Muley Point) the preferred camp for night 20/21
+- Grand Canyon Desert View may fit better on Aug 14 morning than Aug 13
+
+---
+
 ## 2026-05-20 — Created printable trip brochure
 
 **File**: `brochure/brochure.html`
