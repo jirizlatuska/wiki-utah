@@ -1,10 +1,10 @@
 # Trip Schedule — Day by Day
 
-**Summary**: Full calendar for the Utah loop, July 23 – August 16, 2026, with confirmed campgrounds, permit dates, and flagged gaps.
+**Summary**: Full calendar for the Utah loop, July 23 – August 16, 2026. All overnight gaps resolved.
 
-**Sources**: User-provided schedule (2026-05-20); KMZ route files in `raw/`.
+**Sources**: User-provided schedule (2026-05-20, updated 2026-05-21); KMZ route files in `raw/`.
 
-**Last updated**: 2026-05-20.
+**Last updated**: 2026-05-21.
 
 ---
 
@@ -22,12 +22,12 @@
 | Night | Date | Day | Segment | Campground | Key activity |
 |-------|------|-----|---------|-----------|-------------|
 | 0/1 | 23–24. 7. | Čt | 1 | ✅ Gilbert Ray Campground | Arrive PHX 19:00; drive to camp in the dark |
-| 1/2 | 24–25. 7. | Pá | 1 | 🕳️ **unspecified** | [[apache-trail]], Roosevelt Dam, [[mogollon-rim]] |
+| 1/2 | 24–25. 7. | Pá | 1 | ✅ Christopher Creek CG (Tonto NF, near Payson) | [[apache-trail]], Roosevelt Dam, [[mogollon-rim]] |
 | 2/3 | 25–26. 7. | So | 1 | ✅ Coal Mine Canyon (rim) | [[meteor-crater]], [[coal-mine-canyon]] |
-| 3/4 | 26–27. 7. | Ne | 1→2 | 🕳️ **unspecified** | [[moenave-dinosaur-tracks]], [[navajo-bridge]]; [[white-pocket]] day visit (no permit) |
-| 4/5 | 27–28. 7. | Po | 2 | ✅ Coral Pink Sand Dunes CG | [[kanab]] resupply, [[coral-pink-sand-dunes]] |
-| 5/6 | 28–29. 7. | Út | 2 | ✅ Kodachrome Basin SP | [[bryce-canyon]], [[kodachrome-basin]], Grosvenor Arch |
-| 6/7 | 29–30. 7. | St | 2→3 | ✅ Stateline Campground | [[cottonwood-canyon-road]], arrive Stateline |
+| 3/4 | 26–27. 7. | Ne | 1→2 | ✅ Coral Pink Sand Dunes CG | [[moenave-dinosaur-tracks]], [[navajo-bridge]]; [[white-pocket]] if time allows (no permit) |
+| 4/5 | 27–28. 7. | Po | 2 | ✅ Kodachrome Basin SP | [[coral-pink-sand-dunes]] morning; [[bryce-canyon]] |
+| 5/6 | 28–29. 7. | Út | 2 | ✅ Stateline Campground | [[kodachrome-basin]], Grosvenor Arch, [[cottonwood-canyon-road]] |
+| 6/7 | 29–30. 7. | St | 2→3 | ✅ Stateline Campground | Rest day / explore House Rock Valley area |
 | 7/8 | 30–31. 7. | Čt | 3 | ✅ Stateline Campground | ⚠️ **CBS permit** — hike [[coyote-buttes-south]] (Paw Hole) |
 | 8/9 | 31. 7.–1. 8. | Pá | 3 | ❓ Alstrom Point (BLM dispersed) | Drive east; [[alstrom-point]] overlook |
 | 9/10 | 1–2. 8. | So | 3 | ❓ Smokey Mountain Road area or Escalante | [[smokey-mountain-road]]; resupply [[escalante]] |
@@ -37,45 +37,27 @@
 | 13/14 | 5–6. 8. | St | 4 | ✅ Cathedral Valley Campground | [[cathedral-valley]] circuit; Hartnet Road |
 | 14/15 | 6–7. 8. | Čt | 4 | ✅ Henry Mountains — McMillan Spring area | [[bentonite-hills]]; lower Henry Mtns access |
 | 15/16 | 7–8. 8. | Pá | 4 | ✅ Henry Mountains — McMillan Spring area | Mt. Pennell hike; bison; [[henry-mountains]] |
-| 16/17 | 8–9. 8. | So | 4→5 | 🕳️ **unspecified** | Long transit day from Henrys toward Moab |
-| 17/18 | 9–10. 8. | Ne | 5 | ✅ Wild Horse SP ⚑ | Stage for White Rim entry |
+| 16/17 | 8–9. 8. | So | 4→5 | ✅ Dead Horse Point SP | Transit from Henry Mountains (~4 h); stage for White Rim |
+| 17/18 | 9–10. 8. | Ne | 5 | ✅ Dead Horse Point SP | Rest day; Shafer Trail viewpoint from above |
 | 18/19 | 10–11. 8. | Po | 5 | ✅ White Crack Campground | ⚠️ **White Rim permit** — Shafer Trail descent |
 | 19/20 | 11–12. 8. | Út | 5 | ❓ Nizhoni CG or Comb Wash CG | ⚠️ **White Rim permit** — Mineral Bottom exit; drive south |
-| 20/21 | 12–13. 8. | St | 5→6 | ❓ Muley Point OR Monument Valley | [[natural-bridges-nm]]; [[muley-point]] |
+| 20/21 | 12–13. 8. | St | 5→6 | ✅ Monument Valley (The View / Navajo CG) | [[natural-bridges-nm]] if time; [[muley-point]]; depart early for train |
 | 21/22 | 13–14. 8. | Čt | 6 | ❓ Surprise camping OR Blackhawk Loop CG | [[valley-of-the-gods]]; [[monument-valley]]; [[verde-canyon-railroad]] 13:00–17:00 |
 | 22/23 | 14–15. 8. | Pá | 6 | ✅ Twin Peaks Campground (Organ Pipe NM) | [[grand-canyon-desert-view]]; [[sedona]]; drive south |
 | 23/24 | 15–16. 8. | So | 6 | ✅ Hilton Phoenix Airport | [[organ-pipe-cactus-nm]]; [[kitt-peak]]; drive to PHX |
 | — | 16. 8. | Ne | — | Departure PHX 09:00 | — |
 
-⚑ "Wild Horse State Park" is listed in the user's schedule; this is very likely **Dead Horse Point State Park** near Moab (needs confirmation — the names are easily confused).
-
 ---
 
-## Gaps that need a plan
+## Resolved planning notes
 
-### Gap A — Night 24/25 July (night 1/2)
-After Apache Trail and Roosevelt Dam, heading toward the Mogollon Rim. Likely somewhere in the **Payson / Pine / Show Low area** along AZ-87 or AZ-260.
-- Option: Christopher Creek Campground (Tonto National Forest, near Payson)
-- Option: dispersed on Mogollon Rim Road (FR-300)
-- Needs verification and booking if NF campground
+**Night 1/2 (24/25 Jul)** — Christopher Creek CG (Tonto National Forest, near Payson) or dispersed on the Mogollon Rim Road (FR-300). Book ahead if NF campground.
 
-### Gap B — Night 26/27 July (night 3/4)
-After Moenave Dinosaur Tracks and Navajo Bridge. White Pocket is a day visit (no permit required — just drive in on 4WD). Night needs a camp.
-- Option: Lees Ferry Campground (NPS, near Navajo Bridge) — good if White Pocket visit is on July 27 morning
-- Option: BLM dispersed along House Rock Valley Road (near White Pocket trailhead)
-- Option: drive through to Kanab area if doing White Pocket early that day
+**Night 3/4 (26/27 Jul)** — Drive straight from Navajo Bridge area to Coral Pink Sand Dunes. [[white-pocket]] can be a day stop en route if time permits (no permit needed, high-clearance 4WD only). Arrival at Coral Pink late afternoon.
 
-### Gap C — Night 8/9 August (night 16/17)
-After two nights in the Henry Mountains, heading toward Moab/Dead Horse Point. Long driving day (~4 hours).
-- Option: Moab area campgrounds (many options along US-191)
-- Option: Dead Horse Point State Park (if two nights there work — would replace Wild Horse SP 9/10 as first of two nights)
-- Needs booking; Moab campgrounds fill in August
+**Nights 16/17 and 17/18 (8–10 Aug)** — Two nights at Dead Horse Point State Park. Drive from Henry Mountains on August 8 (~4 hours). Night 9/10 is a rest day with a view of the Shafer Trail rim from above, before descending on August 10.
 
-### Gap D — Night 12/13 August (night 20/21)
-Either Muley Point Campground or Monument Valley area. Affects timing for August 13 (Verde Canyon Railroad 13:00, Clarkdale).
-- **Muley Point**: beautiful but remote; ~6 hours to Clarkdale → must depart by 06:30. Very tight.
-- **Monument Valley**: ~4 hours to Clarkdale → depart by 08:30. Manageable. Navajo campground at The View.
-- **Recommendation**: Camp Monument Valley 12/13, do Valley of the Gods on route, leave Monument Valley by 08:00 on Aug 13.
+**Night 20/21 (12/13 Aug)** — Monument Valley. Depart by 08:00 on August 13 to reach Clarkdale for the 13:00 train. [[natural-bridges-nm]] on August 12 is optional — skip if the day is full.
 
 ---
 
@@ -91,16 +73,16 @@ Either Muley Point Campground or Monument Valley area. Affects timing for August
 
 ## Segment summary
 
-| Segment | Dates | Nights | Confirmed camps |
-|---------|-------|--------|----------------|
-| 1 | 23–26. 7. | 3 | Gilbert Ray CG ✅, somewhere 🕳️, Coal Mine Canyon ✅ |
-| 1→2 | 26–27. 7. | 1 | 🕳️ unspecified (White Pocket area / Navajo Bridge) |
-| 2 | 27–29. 7. | 3 | Coral Pink Dunes ✅, Kodachrome Basin ✅, Stateline ✅ |
-| 3 | 30. 7.–3. 8. | 5 | Stateline ✅, Alstrom ❓, Smokey Mtn ❓, Capitol Reef ❓, Goblin Valley ✅ |
-| 4 | 3–8. 8. | 5 | Goblin Valley ✅, Moonscape ❓, Cathedral Valley ✅, Henrys ×2 ✅ |
-| 4→5 | 8–9. 8. | 1 | 🕳️ unspecified (Moab area) |
-| 5 | 9–12. 8. | 4 | Wild Horse SP ✅⚑, White Crack ✅, Nizhoni/Comb Wash ❓, MV/Muley ❓ |
-| 6 | 13–15. 8. | 3 | Surprise/Blackhawk ❓, Twin Peaks ✅, Hilton PHX ✅ |
+| Segment | Dates | Nights | Campgrounds |
+|---------|-------|--------|------------|
+| 1 | 23–26. 7. | 3 | Gilbert Ray CG ✅ · Christopher Creek CG ✅ · Coal Mine Canyon ✅ |
+| 1→2 | 26–27. 7. | 1 | Coral Pink Sand Dunes CG ✅ |
+| 2 | 27–29. 7. | 3 | Kodachrome Basin SP ✅ · Stateline ✅ · Stateline ✅ |
+| 3 | 30. 7.–3. 8. | 5 | Stateline ✅ · Alstrom ❓ · Smokey Mtn ❓ · Capitol Reef ❓ · Goblin Valley ✅ |
+| 4 | 3–8. 8. | 5 | Goblin Valley ✅ · Moonscape ❓ · Cathedral Valley ✅ · Henrys ×2 ✅ |
+| 4→5 | 8–10. 8. | 2 | Dead Horse Point SP ✅ ×2 |
+| 5 | 10–12. 8. | 3 | White Crack ✅ · Nizhoni/Comb Wash ❓ · Monument Valley ✅ |
+| 6 | 13–15. 8. | 3 | Surprise/Blackhawk ❓ · Twin Peaks ✅ · Hilton PHX ✅ |
 
 **Total nights**: 24 (July 23 to August 15 inclusive)
 **Total days**: 25 (arrival July 23 to departure August 16)

@@ -27,6 +27,10 @@ An 8.6-mile loop trail connects all three bridges with canyon hikes and ladders 
 - No water available in the campground (needs verification)
 - The bridge loop hike requires descending and ascending canyon walls via steep trails and fixed ladders — allow a full day
 
+## On this trip
+
+Natural Bridges is on the route between the White Rim Road exit (Mineral Bottom) and Muley Point on August 12. It is **optional** — skip if the day is running late. The monument is worth a stop if time allows (Owachomo Bridge is the shortest descent). See [[schedule]] for timing context.
+
 ## For kids
 
 Natural bridges are conceptually satisfying for children — a river wore through solid rock. Owachomo Bridge is the most accessible (shortest descent, needs verification) and a good target if time or energy is limited. The junior ranger program is worth picking up at the visitor center (needs verification). After dark, the monument's extreme darkness makes it an outstanding place for a child to see the Milky Way for the first time. See [[kids]] for the full children's overview.
