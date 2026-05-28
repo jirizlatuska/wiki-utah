@@ -73,6 +73,7 @@
 | Page | Description |
 |------|-------------|
 | [[white-rim-road]] | Permit-required 100-mile Canyonlands 4WD route via Shafer Trail |
+| [[newspaper-rock]] | Dense petroglyph panel on UT-211; free roadside stop on exit day from White Rim |
 | [[natural-bridges-nm]] | Three natural bridges; first U.S. Dark Sky Park |
 | [[muley-point]] | Cedar Mesa rim overlook with sweeping views to Monument Valley |
 

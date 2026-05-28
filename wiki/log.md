@@ -106,6 +106,17 @@ Leg 6 destinations:
 - `wiki/permits.md` — added confirmed permit dates (CBS July 30; White Rim Aug 10–11); updated booking strategy to reflect confirmed permits
 - `wiki/index.md` — added [[schedule]] to core pages table
 
+---
+
+## 2026-05-21 — Added Newspaper Rock to Segment 5
+
+**Pages created**: `wiki/newspaper-rock.md`
+**Pages updated**: `wiki/schedule.md` (row 19/20), `wiki/index.md`, `wiki/kids.md` (added to Dinosaurs and ancient life section)
+
+Newspaper Rock sits on UT-211 and falls naturally on the August 11 exit day from White Rim Road (Mineral Bottom → south). Free roadside stop, no permit.
+
+---
+
 **Key findings from parsing the schedule**:
 - "Wild Horse State Park" (night Aug 9/10) is almost certainly Dead Horse Point State Park — needs user confirmation
 - Night 16/17 (Aug 8/9) is a transit gap between Henry Mountains and Dead Horse Point area

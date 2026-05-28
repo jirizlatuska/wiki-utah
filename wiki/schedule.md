@@ -40,7 +40,7 @@
 | 16/17 | 8–9. 8. | So | 4→5 | ✅ Dead Horse Point SP | Transit from Henry Mountains (~4 h); stage for White Rim |
 | 17/18 | 9–10. 8. | Ne | 5 | ✅ Dead Horse Point SP | Rest day; Shafer Trail viewpoint from above |
 | 18/19 | 10–11. 8. | Po | 5 | ✅ White Crack Campground | ⚠️ **White Rim permit** — Shafer Trail descent |
-| 19/20 | 11–12. 8. | Út | 5 | ❓ Nizhoni CG or Comb Wash CG | ⚠️ **White Rim permit** — Mineral Bottom exit; drive south |
+| 19/20 | 11–12. 8. | Út | 5 | ❓ Nizhoni CG or Comb Wash CG | ⚠️ **White Rim permit** — Mineral Bottom exit; [[newspaper-rock]] (UT-211); drive south |
 | 20/21 | 12–13. 8. | St | 5→6 | ✅ Monument Valley (The View / Navajo CG) | [[natural-bridges-nm]] if time; [[muley-point]]; depart early for train |
 | 21/22 | 13–14. 8. | Čt | 6 | ❓ Surprise camping OR Blackhawk Loop CG | [[valley-of-the-gods]]; [[monument-valley]]; [[verde-canyon-railroad]] 13:00–17:00 |
 | 22/23 | 14–15. 8. | Pá | 6 | ✅ Twin Peaks Campground (Organ Pipe NM) | [[grand-canyon-desert-view]]; [[sedona]]; drive south |

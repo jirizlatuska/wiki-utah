@@ -13,6 +13,9 @@
 ### Moenave Dinosaur Tracks — Leg 1
 The single best stop for a dinosaur-obsessed 7-year-old. A Navajo guide walks you across a sandstone ledge covered in three-toed theropod footprints made roughly 190 million years ago. The guide often points out tracks mid-stride, showing how the animal was moving. Free; tips for the guide are expected and appropriate. See [[moenave-dinosaur-tracks]].
 
+### Newspaper Rock — Leg 5
+Hundreds of petroglyphs carved by different peoples over 2,000 years on a single dark rock panel. Animals are easy to identify — bighorn sheep, deer, birds — and the variety of styles from different eras makes it feel like a real storybook. Free, roadside, 20 minutes. See [[newspaper-rock]].
+
 ### Escalante Petrified Forest State Park — Leg 3
 Not dinosaurs, but ancient trees turned to stone — some specimens are large enough to impress a child. The trail loops past petrified wood on a hillside overlooking a reservoir. Short and easy. See [[escalante]].
 
