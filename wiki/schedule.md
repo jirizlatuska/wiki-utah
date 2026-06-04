@@ -37,7 +37,7 @@
 | 13/14 | 5–6. 8. | St | 4 | ✅ Cathedral Valley Campground | [[cathedral-valley]] circuit; Hartnet Road |
 | 14/15 | 6–7. 8. | Čt | 4 | ✅ Henry Mountains — McMillan Spring area | [[bentonite-hills]]; lower Henry Mtns access |
 | 15/16 | 7–8. 8. | Pá | 4 | ✅ Henry Mountains — McMillan Spring area | Mt. Pennell hike; bison; [[henry-mountains]] |
-| 16/17 | 8–9. 8. | So | 4→5 | ✅ Dead Horse Point SP | Transit from Henry Mountains (~4 h); stage for White Rim |
+| 16/17 | 8–9. 8. | So | 4→5 | ✅ Dead Horse Point SP | [[green-river-overlook]] (time permitting); transit from Henry Mountains (~4 h); stage for White Rim |
 | 17/18 | 9–10. 8. | Ne | 5 | ✅ Dead Horse Point SP | Rest day; Shafer Trail viewpoint from above |
 | 18/19 | 10–11. 8. | Po | 5 | ✅ White Crack Campground | ⚠️ **White Rim permit** — Shafer Trail descent |
 | 19/20 | 11–12. 8. | Út | 5 | ❓ Nizhoni CG or Comb Wash CG | ⚠️ **White Rim permit** — Mineral Bottom exit; [[newspaper-rock]] (UT-211); drive south |

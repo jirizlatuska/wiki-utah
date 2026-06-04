@@ -104,6 +104,8 @@ Three stops require advance permits — see [[permits]] for booking details.
 
 | Stop | Notes |
 |------|-------|
+| [[green-river-overlook]] | Island in the Sky, Canyonlands; rim view to White Rim and Green River below; time permitting on transit day |
+| Dead Horse Point SP | Two-night base before White Rim descent |
 | [[white-rim-road]] via Shafer Trail | **Permit required** — Canyonlands backcountry |
 | White Crack | Mid-road camp and viewpoint |
 | Mineral Bottom Switchbacks | Dramatic descent to Green River |

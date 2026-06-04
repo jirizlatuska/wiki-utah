@@ -73,6 +73,7 @@
 
 | Page | Description |
 |------|-------------|
+| [[green-river-overlook]] | Island in the Sky rim viewpoint over the White Rim and Green River; time-permitting stop on Aug 8 transit |
 | [[white-rim-road]] | Permit-required 100-mile Canyonlands 4WD route via Shafer Trail |
 | [[newspaper-rock]] | Dense petroglyph panel on UT-211; free roadside stop on exit day from White Rim |
 | [[natural-bridges-nm]] | Three natural bridges; first U.S. Dark Sky Park |

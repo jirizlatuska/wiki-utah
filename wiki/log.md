@@ -160,3 +160,15 @@ Newspaper Rock sits on UT-211 and falls naturally on the August 11 exit day from
 - `wiki/kids.md` — added Horseshoe Canyon entry in "Dinosaurs and ancient life" section
 
 Horseshoe Canyon is a detached unit of Canyonlands NP accessed from UT-24 north of Hanksville via W Lower San Rafael Road (County Road 1000). The Great Gallery contains Barrier Canyon Style pictographs (painted, not carved) up to 6–7 feet tall dating roughly 2,000–4,000 years. Hike: ~6.5 miles RT, ~750 ft descent. Start early to beat summer heat; allow 3–4 hours before driving on to Goblin Valley.
+
+---
+
+## 2026-06-04 — Added Green River Overlook (time permitting, Aug 8)
+
+**Pages created**: `wiki/green-river-overlook.md`
+**Pages updated**:
+- `wiki/schedule.md` — row 16/17 (Aug 8): added Green River Overlook as time-permitting stop on transit from Henry Mountains to Dead Horse Point SP
+- `wiki/itinerary.md` — added to Leg 5 table before White Rim Road entry
+- `wiki/index.md` — added to Leg 5 table
+
+Green River Overlook is in the Island in the Sky district of Canyonlands NP, on UT-313 en route to Dead Horse Point. Nearly no walking required; panoramic view down to the White Rim and Green River below.
