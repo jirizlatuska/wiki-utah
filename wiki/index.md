@@ -53,6 +53,7 @@
 | [[escalante]] | Gateway town for Grand Staircase canyons; Petrified Forest SP |
 | [[muley-twist-canyon]] | Capitol Reef backcountry slot canyon through the Waterpocket Fold |
 | [[hanksville]] | Critical resupply crossroads town near Goblin Valley and Henry Mountains |
+| [[horseshoe-canyon]] | Detached Canyonlands unit with Great Gallery Barrier Canyon Style pictographs; accessed from UT-24 west of Hanksville |
 | [[goblin-valley]] | State park with hundreds of mushroom-shaped sandstone goblins |
 
 ---

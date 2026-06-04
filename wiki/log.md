@@ -148,3 +148,15 @@ Newspaper Rock sits on UT-211 and falls naturally on the August 11 exit day from
   - Pages 2–4: Paired leg diary entries (Legs 1+2, 3+4, 5+6) with date, weather picker, drawing box, per-leg spotter checklist, sentence completions, and star rating
   - Page 5: Animal spotter table (12 species, fill-in where/what columns, score tally)
   - Page 6: Awards page — Best Place, Biggest WOW, Best Animal, Best Food, Biggest Surprise, Longest Ride — plus final reflection and overall trip star rating
+
+---
+
+## 2026-06-04 — Added Horseshoe Canyon / Great Gallery to Segment 3
+
+**Pages created**: `wiki/horseshoe-canyon.md`
+**Pages updated**:
+- `wiki/schedule.md` — row 11/12 (Aug 3): added Horseshoe Canyon Great Gallery as morning stop before driving to Goblin Valley
+- `wiki/index.md` — added `[[horseshoe-canyon]]` to Leg 3 table
+- `wiki/kids.md` — added Horseshoe Canyon entry in "Dinosaurs and ancient life" section
+
+Horseshoe Canyon is a detached unit of Canyonlands NP accessed from UT-24 north of Hanksville via W Lower San Rafael Road (County Road 1000). The Great Gallery contains Barrier Canyon Style pictographs (painted, not carved) up to 6–7 feet tall dating roughly 2,000–4,000 years. Hike: ~6.5 miles RT, ~750 ft descent. Start early to beat summer heat; allow 3–4 hours before driving on to Goblin Valley.

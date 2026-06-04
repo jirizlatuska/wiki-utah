@@ -32,7 +32,7 @@
 | 8/9 | 31. 7.–1. 8. | Pá | 3 | ❓ Alstrom Point (BLM dispersed) | Drive east; [[alstrom-point]] overlook |
 | 9/10 | 1–2. 8. | So | 3 | ❓ Smokey Mountain Road area or Escalante | [[smokey-mountain-road]]; resupply [[escalante]] |
 | 10/11 | 2–3. 8. | Ne | 3 | ❓ Capitol Reef / Boulder area | [[muley-twist-canyon]] (Upper); or The Wave if permit won |
-| 11/12 | 3–4. 8. | Po | 3→4 | ✅ Goblin Valley SP Campground | Drive to [[goblin-valley]] |
+| 11/12 | 3–4. 8. | Po | 3→4 | ✅ Goblin Valley SP Campground | [[horseshoe-canyon]] Great Gallery (morning); drive to [[goblin-valley]] |
 | 12/13 | 4–5. 8. | Út | 4 | ❓ Moonscape Overlook (BLM dispersed) | [[goblin-valley]] morning; [[moonscape-overlook]] |
 | 13/14 | 5–6. 8. | St | 4 | ✅ Cathedral Valley Campground | [[cathedral-valley]] circuit; Hartnet Road |
 | 14/15 | 6–7. 8. | Čt | 4 | ✅ Henry Mountains — McMillan Spring area | [[bentonite-hills]]; lower Henry Mtns access |

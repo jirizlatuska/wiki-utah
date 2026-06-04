@@ -16,6 +16,9 @@ The single best stop for a dinosaur-obsessed 7-year-old. A Navajo guide walks yo
 ### Newspaper Rock — Leg 5
 Hundreds of petroglyphs carved by different peoples over 2,000 years on a single dark rock panel. Animals are easy to identify — bighorn sheep, deer, birds — and the variety of styles from different eras makes it feel like a real storybook. Free, roadside, 20 minutes. See [[newspaper-rock]].
 
+### Horseshoe Canyon — Great Gallery — Leg 3
+Life-sized ghostly figures painted on a canyon wall by Archaic-period people 2,000–4,000 years ago. These are pictographs (painted, not carved), and the scale is what makes them unforgettable — some figures stand 6–7 feet tall with hollow eyes and no legs, like something out of a dream. The hike to reach them is about 6.5 miles round trip with a real descent into the canyon; long for a 7-year-old but memorable. See [[horseshoe-canyon]].
+
 ### Escalante Petrified Forest State Park — Leg 3
 Not dinosaurs, but ancient trees turned to stone — some specimens are large enough to impress a child. The trail loops past petrified wood on a hillside overlooking a reservoir. Short and easy. See [[escalante]].
 
