@@ -4,7 +4,7 @@
 
 **Sources**: All six KMZ route files in `raw/`; user schedule (2026-05-20).
 
-**Last updated**: 2026-05-20.
+**Last updated**: 2026-06-04.
 
 ---
 
@@ -72,6 +72,8 @@ Three stops require advance permits — see [[permits]] for booking details.
 | [[smokey-mountain-road]] | Remote dirt road across Kaiparowits |
 | [[escalante]] | Petrified Forest SP; town services |
 | [[muley-twist-canyon]] | Capitol Reef backcountry; Upper Muley Twist |
+| [[hanksville]] | Resupply town; junction for Henry Mountains and Horseshoe Canyon |
+| [[horseshoe-canyon]] — Great Gallery | Detached Canyonlands unit; UT-24 → W Lower San Rafael Road (CR-1000); ~6.5 mi RT hike |
 | Long Dong Silver Trailhead | Hanksville area access road |
 | Mars Desert Research Station | Visible from highway near Hanksville |
 | [[goblin-valley]] | State park; bizarre mushroom-rock formations |
@@ -105,6 +107,7 @@ Three stops require advance permits — see [[permits]] for booking details.
 | [[white-rim-road]] via Shafer Trail | **Permit required** — Canyonlands backcountry |
 | White Crack | Mid-road camp and viewpoint |
 | Mineral Bottom Switchbacks | Dramatic descent to Green River |
+| [[newspaper-rock]] | Dense petroglyph panel on UT-211; free roadside stop on exit day |
 | Horse Mountain | High point between Canyonlands and Natural Bridges |
 | [[natural-bridges-nm]] | Three natural bridges; first U.S. Dark Sky Park |
 | [[muley-point]] | Cedar Mesa rim; 1,000-ft drop to the San Juan |
