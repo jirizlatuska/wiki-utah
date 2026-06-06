@@ -19,6 +19,9 @@ Hundreds of petroglyphs carved by different peoples over 2,000 years on a single
 ### Horseshoe Canyon — Great Gallery — Leg 3
 Life-sized ghostly figures painted on a canyon wall by Archaic-period people 2,000–4,000 years ago. These are pictographs (painted, not carved), and the scale is what makes them unforgettable — some figures stand 6–7 feet tall with hollow eyes and no legs, like something out of a dream. The hike to reach them is about 6.5 miles round trip with a real descent into the canyon; long for a 7-year-old but memorable. See [[horseshoe-canyon]].
 
+### Sunset Crater Volcano & Wupatki — Leg 1
+Two stops in quick succession on US-89 north of Flagstaff. At Sunset Crater, kids walk on real solidified lava — chunky, alien terrain from an eruption less than 1,000 years ago. At Wupatki, they see multi-story ancient rooms still standing, a ball court, and a blow hole in the ground that breathes air in or out as weather changes — reliably surprising. Both are short flat walks. See [[sunset-crater]].
+
 ### Escalante Petrified Forest State Park — Leg 3
 Not dinosaurs, but ancient trees turned to stone — some specimens are large enough to impress a child. The trail loops past petrified wood on a hillside overlooking a reservoir. Short and easy. See [[escalante]].
 

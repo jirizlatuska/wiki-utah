@@ -24,6 +24,7 @@
 | [[apache-trail]] | Historic AZ-88 dirt road through the Superstitions to Roosevelt Dam |
 | [[mogollon-rim]] | Southern escarpment of the Colorado Plateau |
 | [[meteor-crater]] | 50,000-year-old meteorite impact site near Winslow |
+| [[sunset-crater]] | Sunset Crater Volcano NM + Wupatki NM; cinder cone and Ancestral Puebloan ruins on US-89 north of Flagstaff |
 | [[coal-mine-canyon]] | Remote Navajo Nation canyon with striking eroded spires |
 | [[moenave-dinosaur-tracks]] | Free Navajo-guided dinosaur tracksite near Tuba City |
 

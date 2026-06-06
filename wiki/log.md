@@ -172,3 +172,16 @@ Horseshoe Canyon is a detached unit of Canyonlands NP accessed from UT-24 north 
 - `wiki/index.md` — added to Leg 5 table
 
 Green River Overlook is in the Island in the Sky district of Canyonlands NP, on UT-313 en route to Dead Horse Point. Nearly no walking required; panoramic view down to the White Rim and Green River below.
+
+---
+
+## 2026-06-04 — Added Sunset Crater & Wupatki to Leg 1
+
+**Pages created**: `wiki/sunset-crater.md`
+**Pages updated**:
+- `wiki/schedule.md` — row 2/3 (Jul 25): added as time-permitting stop between Meteor Crater and Coal Mine Canyon
+- `wiki/itinerary.md` — added to Leg 1 table
+- `wiki/index.md` — added to Leg 1 table
+- `wiki/kids.md` — added entry in "Dinosaurs and ancient life" section
+
+Sunset Crater Volcano NM and Wupatki NM share a 36-mile paved loop off US-89 north of Flagstaff — on the natural route from Winslow/Meteor Crater toward Cameron and Coal Mine Canyon. One entrance fee covers both. Flagged time permitting; adds ~45–60 min to July 25.

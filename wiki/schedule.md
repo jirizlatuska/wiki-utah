@@ -23,7 +23,7 @@
 |-------|------|-----|---------|-----------|-------------|
 | 0/1 | 23–24. 7. | Čt | 1 | ✅ Gilbert Ray Campground | Arrive PHX 19:00; drive to camp in the dark |
 | 1/2 | 24–25. 7. | Pá | 1 | ✅ Christopher Creek CG (Tonto NF, near Payson) | [[apache-trail]], Roosevelt Dam, [[mogollon-rim]] |
-| 2/3 | 25–26. 7. | So | 1 | ✅ Coal Mine Canyon (rim) | [[meteor-crater]], [[coal-mine-canyon]] |
+| 2/3 | 25–26. 7. | So | 1 | ✅ Coal Mine Canyon (rim) | [[meteor-crater]]; [[sunset-crater]] & Wupatki (time permitting); [[coal-mine-canyon]] |
 | 3/4 | 26–27. 7. | Ne | 1→2 | ✅ Coral Pink Sand Dunes CG | [[moenave-dinosaur-tracks]], [[navajo-bridge]]; [[white-pocket]] if time allows (no permit) |
 | 4/5 | 27–28. 7. | Po | 2 | ✅ Kodachrome Basin SP | [[coral-pink-sand-dunes]] morning; [[bryce-canyon]] |
 | 5/6 | 28–29. 7. | Út | 2 | ✅ Stateline Campground | [[kodachrome-basin]], Grosvenor Arch, [[cottonwood-canyon-road]] |

@@ -36,6 +36,7 @@ Three stops require advance permits — see [[permits]] for booking details.
 | Roosevelt Dam | End of the Apache Trail; paved from here |
 | [[mogollon-rim]] | High-country escarpment above the Sonoran desert |
 | [[meteor-crater]] | 50,000-year-old impact site; private land, entry fee |
+| [[sunset-crater]] & Wupatki NM | Cinder cone volcano + Ancestral Puebloan ruins on US-89; time permitting |
 | [[coal-mine-canyon]] | Isolated Navajo land canyon; rim camping available |
 | [[moenave-dinosaur-tracks]] | Free Navajo-guided site; final stop before Tuba City |
 
