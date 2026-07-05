@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<title>Můj cestovní deník — Utah</title>
+<style>
+
+/* ── Reset ─────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ── Palette ────────────────────────────────────── */
+:root {
+  --canyon:  #B5451B;
+  --sand:    #D9A55A;
+  --sky:     #4A7FB5;
+  --deep:    #1B3A5C;
+  --sage:    #5A8050;
+  --cream:   #FFFBF0;
+  --stone:   #EDE0C4;
+  --shadow:  #2C1810;
+  --gold:    #C8942A;
+  --purple:  #7A5A9A;
+  --line:    #C8B090;
+}
+
+/* ── Page setup ─────────────────────────────────── */
+@page { size: A4 portrait; margin: 15mm 15mm 12mm 15mm; }
+
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 10pt;
+  color: var(--shadow);
+  background: #999;
+}
+
+.page {
+  width: 180mm;
+  min-height: 267mm;
+  background: var(--cream);
+  page-break-after: always;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Shared components ──────────────────────────── */
+
+/* Dotted writing line */
+.line {
+  border-bottom: 1.2px dotted var(--line);
+  margin-bottom: 4.5mm;
+  min-height: 6mm;
+  display: block;
+}
+.line-sm {
+  border-bottom: 1px dotted var(--line);
+  margin-bottom: 3.5mm;
+  min-height: 5mm;
+  display: block;
+}
+
+/* Drawing box */
+.draw-box {
+  border: 1.5px dashed var(--sand);
+  border-radius: 2mm;
+  background: white;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.draw-box .draw-label {
+  font-size: 8pt;
+  color: var(--sand);
+  font-style: italic;
+  text-align: center;
+  padding: 3mm;
+  pointer-events: none;
+  user-select: none;
+}
+
+/* Checkbox items */
+.check-list { list-style: none; padding: 0; }
+.check-list li {
+  font-size: 9pt;
+  line-height: 1.3;
+  margin-bottom: 2.5mm;
+  display: flex;
+  align-items: center;
+  gap: 2.5mm;
+}
+.check-list li::before {
+  content: '';
+  display: inline-block;
+  width: 4mm;
+  height: 4mm;
+  border: 1.2px solid var(--canyon);
+  border-radius: .5mm;
+  flex-shrink: 0;
+}
+
+/* Star rating */
+.stars { font-size: 16pt; letter-spacing: 1mm; color: var(--sand); }
+
+/* Section label */
+.sec-label {
+  font-size: 7pt;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--canyon);
+  margin-bottom: 1.5mm;
+  display: block;
+}
+
+/* Coloured band at top of leg page */
+.leg-banner {
+  padding: 5mm 7mm 4mm;
+  color: white;
+  flex-shrink: 0;
+}
+.leg-banner .leg-number {
+  font-size: 7.5pt;
+  letter-spacing: .15em;
+  text-transform: uppercase;
+  opacity: .8;
+  margin-bottom: 1mm;
+}
+.leg-banner h2 {
+  font-size: 14pt;
+  line-height: 1.1;
+}
+.leg-banner .leg-sub {
+  font-size: 8pt;
+  opacity: .85;
+  margin-top: 1mm;
+  font-style: italic;
+}
+
+/* Date + weather row */
+.date-weather {
+  display: flex;
+  gap: 6mm;
+  align-items: flex-start;
+  margin-bottom: 4mm;
+}
+.date-block { flex: 1; }
+.weather-block { flex-shrink: 0; }
+.weather-icons {
+  font-size: 14pt;
+  display: flex;
+  gap: 2mm;
+}
+.weather-icons span {
+  border: 1.2px solid var(--line);
+  border-radius: 50%;
+  width: 9mm;
+  height: 9mm;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12pt;
+  cursor: default;
+  background: white;
+}
+
+/* Content area */
+.page-body {
+  padding: 5mm 7mm;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+/* Two-column layout */
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5mm;
+}
+.three-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 4mm;
+}
+
+/* ════════════════════════════════════
+   Screen helpers
+   ════════════════════════════════════ */
+@media screen {
+  body { padding: 10mm; display: flex; flex-direction: column; gap: 10mm; align-items: flex-start; }
+  .screen-label {
+    font: bold 9pt/1 sans-serif;
+    background: #444;
+    color: white;
+    padding: 2mm 4mm;
+    border-radius: 2mm;
+    margin-bottom: -6mm;
+  }
+}
+@media print {
+  body { background: none; padding: 0; }
+  .screen-label { display: none; }
+  .page { width: 100%; min-height: 100%; }
+}
+
+</style>
+</head>
+<body>
+
+
+<!-- ══════════════════════════════════════════════
+     STRANA 1 — TITULNÍ STRANA
+     ══════════════════════════════════════════════ -->
+<div class="screen-label">Strana 1 — Titulní strana</div>
+<div class="page" style="background:var(--deep);justify-content:space-between;">
+
+  <!-- Top canyon illustration -->
+  <svg viewBox="0 0 510 180" xmlns="http://www.w3.org/2000/svg" width="100%" style="flex-shrink:0;">
+    <defs>
+      <linearGradient id="ts" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#060F1E"/>
+        <stop offset="100%" stop-color="#1B3A5C"/>
+      </linearGradient>
+    </defs>
+    <rect width="510" height="180" fill="url(#ts)"/>
+    <!-- Stars -->
+    <circle cx="30" cy="18" r="1.2" fill="white" opacity=".8"/>
+    <circle cx="75" cy="8" r="1" fill="white" opacity=".9"/>
+    <circle cx="120" cy="22" r=".9" fill="white" opacity=".7"/>
+    <circle cx="180" cy="10" r="1.1" fill="white" opacity=".8"/>
+    <circle cx="240" cy="25" r=".8" fill="white" opacity=".6"/>
+    <circle cx="300" cy="8" r="1" fill="white" opacity=".9"/>
+    <circle cx="360" cy="18" r=".9" fill="white" opacity=".7"/>
+    <circle cx="420" cy="12" r="1.1" fill="white" opacity=".8"/>
+    <circle cx="480" cy="22" r=".8" fill="white" opacity=".7"/>
+    <circle cx="50" cy="40" r=".7" fill="white" opacity=".6"/>
+    <circle cx="150" cy="45" r=".8" fill="white" opacity=".5"/>
+    <circle cx="330" cy="38" r=".7" fill="white" opacity=".6"/>
+    <circle cx="460" cy="42" r=".8" fill="white" opacity=".5"/>
+    <!-- Milky Way -->
+    <ellipse cx="255" cy="50" rx="280" ry="20" fill="white" opacity=".05" transform="rotate(-5,255,50)"/>
+    <!-- Moon -->
+    <circle cx="420" cy="35" r="22" fill="#FFFDE0" opacity=".9"/>
+    <circle cx="413" cy="28" r="17" fill="#1B3A5C" opacity=".12"/>
+    <!-- Canyon walls left -->
+    <path d="M0 100 L0 180 L90 180 L90 130 L70 115 L45 105 L20 100Z" fill="#4A1208"/>
+    <!-- Canyon walls right -->
+    <path d="M510 95 L490 98 L468 108 L448 120 L420 130 L420 180 L510 180Z" fill="#4A1208"/>
+    <!-- Middle mesa shapes -->
+    <path d="M80 135 L120 115 L160 118 L200 125 L240 115 L280 120 L320 112 L360 118 L400 125 L420 130 L420 180 L80 180Z" fill="#3A1008" opacity=".9"/>
+    <!-- Monument Valley silhouettes -->
+    <path d="M150 140 L162 118 L168 124 L175 110 L188 108 L194 122 L200 140Z" fill="#1A0804"/>
+    <path d="M280 143 L290 122 L296 128 L302 116 L314 114 L318 126 L325 143Z" fill="#1A0804"/>
+    <path d="M216 148 L224 130 L234 128 L244 130 L248 148Z" fill="#1A0804"/>
+    <!-- River -->
+    <ellipse cx="255" cy="170" rx="80" ry="6" fill="#3A6A9A" opacity=".3"/>
+  </svg>
+
+  <!-- Title block -->
+  <div style="padding:8mm 10mm;text-align:center;color:white;flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5mm;">
+    <div style="font-size:8pt;letter-spacing:.2em;text-transform:uppercase;color:var(--sand);opacity:.9;">Můj osobní</div>
+    <h1 style="font-size:28pt;line-height:1.0;color:white;text-shadow:0 2px 8px rgba(0,0,0,.5);">Cestovní<br>Deník</h1>
+    <div style="font-size:12pt;color:var(--sand);font-style:italic;">Utah &amp; Kaňonová Země</div>
+
+    <!-- Name field -->
+    <div style="background:rgba(255,255,255,.08);border:1.5px solid rgba(255,255,255,.2);border-radius:2mm;padding:5mm 8mm;width:100%;max-width:100mm;text-align:left;margin-top:4mm;">
+      <div style="font-size:7.5pt;color:var(--sand);letter-spacing:.1em;text-transform:uppercase;margin-bottom:3mm;">Deník patří:</div>
+      <div style="border-bottom:1px solid rgba(255,255,255,.3);padding-bottom:1mm;margin-bottom:3.5mm;font-size:9pt;color:rgba(255,255,255,.4);font-style:italic;">jméno a příjmení</div>
+      <div style="border-bottom:1px solid rgba(255,255,255,.3);padding-bottom:1mm;margin-bottom:3.5mm;font-size:9pt;color:rgba(255,255,255,.4);font-style:italic;">věk</div>
+      <div style="border-bottom:1px solid rgba(255,255,255,.3);padding-bottom:1mm;font-size:9pt;color:rgba(255,255,255,.4);font-style:italic;">datum odjezdu</div>
+    </div>
+
+    <!-- Draw yourself box -->
+    <div style="width:100%;max-width:100mm;margin-top:2mm;">
+      <div style="font-size:7.5pt;color:var(--sand);letter-spacing:.1em;text-transform:uppercase;margin-bottom:2mm;text-align:left;">Nakresli sebe na výletě:</div>
+      <div style="border:1.5px dashed rgba(255,255,255,.25);border-radius:2mm;height:38mm;background:rgba(255,255,255,.04);display:flex;align-items:center;justify-content:center;">
+        <span style="font-size:8pt;color:rgba(255,255,255,.25);font-style:italic;">místo pro kresbu</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bottom strip -->
+  <div style="background:var(--canyon);padding:3mm 10mm;text-align:center;flex-shrink:0;">
+    <span style="font-size:8pt;color:white;letter-spacing:.08em;">PHOENIX → UTAH → NAVAJSKÁ ZEMĚ → GRAND CANYON → PHOENIX</span>
+  </div>
+
+</div>
+
+
+<!-- ══════════════════════════════════════════════
+     STRANA 2 — ÚSEK 1 & 2
+     ══════════════════════════════════════════════ -->
+<div class="screen-label">Strana 2 — Úsek 1 a 2</div>
+<div class="page">
+
+  <!-- Leg 1 -->
+  <div class="leg-banner" style="background:var(--canyon);">
+    <div class="leg-number">Úsek 1</div>
+    <h2>Phoenix → Tuba City</h2>
+    <div class="leg-sub">Stezka Apache · Meteorický kráter · Dinosauří stopy</div>
+  </div>
+
+  <div class="page-body" style="padding-bottom:3mm;">
+    <div class="date-weather" style="margin-top:3mm;">
+      <div class="date-block">
+        <span class="sec-label">Datum</span>
+        <span class="line"></span>
+      </div>
+      <div class="weather-block">
+        <span class="sec-label">Počasí</span>
+        <div class="weather-icons">
+          <span title="slunečno">☀️</span>
+          <span title="polojasno">🌤️</span>
+          <span title="oblačno">⛅</span>
+          <span title="déšť">🌧️</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="two-col" style="gap:4mm;margin-bottom:4mm;">
+      <div>
+        <span class="sec-label">Na tomto úseku hledej:</span>
+        <ul class="check-list">
+          <li>Dinosauří stopy ve skále</li>
+          <li>Meteorický kráter (z okraje)</li>
+          <li>Kaktus saguaro (ten velký)</li>
+          <li>Přehradu Roosevelt</li>
+          <li>Jeden nový anglický název: <span class="line-sm" style="display:inline-block;width:25mm;"></span></li>
+        </ul>
+      </div>
+      <div class="draw-box" style="height:38mm;">
+        <div class="draw-label">Nakresli svůj<br>oblíbený zážitek<br>dneška!</div>
+      </div>
+    </div>
+
+    <span class="sec-label">Nejlepší věc dneška byla:</span>
+    <span class="line"></span>
+
+    <span class="sec-label">Jedno zvíře nebo rostlinu, které jsem viděl/a:</span>
+    <span class="line"></span>
+
+    <div style="display:flex;align-items:center;gap:3mm;margin-top:1mm;">
+      <span class="sec-label" style="margin:0;white-space:nowrap;">Hodnocení dne:</span>
+      <span class="stars">★ ★ ★ ★ ★</span>
+      <span style="font-size:7.5pt;color:var(--line);">(zakroužkuj)</span>
+    </div>
+  </div>
+
+  <!-- Divider -->
+  <div style="border-top:2px dotted var(--sand);margin:0 7mm;flex-shrink:0;"></div>
+
+  <!-- Leg 2 -->
+  <div class="leg-banner" style="background:var(--sky);padding-top:4mm;">
+    <div class="leg-number">Úsek 2</div>
+    <h2>Tuba City → Stateline</h2>
+    <div class="leg-sub">Kondoři · Bryce Canyon · Kodachrome Basin</div>
+  </div>
+
+  <div class="page-body">
+    <div class="date-weather" style="margin-top:3mm;">
+      <div class="date-block">
+        <span class="sec-label">Datum</span>
+        <span class="line"></span>
+      </div>
+      <div class="weather-block">
+        <span class="sec-label">Počasí</span>
+        <div class="weather-icons">
+          <span>☀️</span><span>🌤️</span><span>⛅</span><span>🌧️</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="two-col" style="gap:4mm;margin-bottom:4mm;">
+      <div>
+        <span class="sec-label">Na tomto úseku hledej:</span>
+        <ul class="check-list">
+          <li>Kondora (obrovský pták!)</li>
+          <li>Prérijní psy u Bryce Canyon</li>
+          <li>Kamennou věž (hoodoo)</li>
+          <li>Prérijní zajíce</li>
+          <li>Vlastní nález: <span class="line-sm" style="display:inline-block;width:28mm;"></span></li>
+        </ul>
+      </div>
+      <div class="draw-box" style="height:38mm;">
+        <div class="draw-label">Nakresli kondora<br>nebo kamennou<br>věž!</div>
+      </div>
+    </div>
+
+    <span class="sec-label">Nejzajímavější věc dneška byla:</span>
+    <span class="line"></span>
+
+    <span class="sec-label">Jedno nové anglické slovo, které jsem se naučil/a:</span>
+    <span class="line"></span>
+
+    <div style="display:flex;align-items:center;gap:3mm;margin-top:1mm;">
+      <span class="sec-label" style="margin:0;white-space:nowrap;">Hodnocení dne:</span>
+      <span class="stars">★ ★ ★ ★ ★</span>
+      <span style="font-size:7.5pt;color:var(--line);">(zakroužkuj)</span>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- ══════════════════════════════════════════════
+     STRANA 3 — ÚSEK 3 & 4
+     ══════════════════════════════════════════════ -->
+<div class="screen-label">Strana 3 — Úsek 3 a 4</div>
+<div class="page">
+
+  <!-- Leg 3 -->
+  <div class="leg-banner" style="background:#7A5010;">
+    <div class="leg-number">Úsek 3</div>
+    <h2>Stateline → Goblin Valley</h2>
+    <div class="leg-sub">Paw Hole · Escalante · Skřítčí kaňon!</div>
+  </div>
+
+  <div class="page-body" style="padding-bottom:3mm;">
+    <div class="date-weather" style="margin-top:3mm;">
+      <div class="date-block">
+        <span class="sec-label">Datum</span>
+        <span class="line"></span>
+      </div>
+      <div class="weather-block">
+        <span class="sec-label">Počasí</span>
+        <div class="weather-icons">
+          <span>☀️</span><span>🌤️</span><span>⛅</span><span>🌧️</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="two-col" style="gap:4mm;margin-bottom:4mm;">
+      <div>
+        <span class="sec-label">Na tomto úseku hledej:</span>
+        <ul class="check-list">
+          <li>Zkamenělé dřevo</li>
+          <li>Svůj oblíbený skalní skřítek</li>
+          <li>Stopy v písčité půdě</li>
+          <li>Jezero Powell (z dálky)</li>
+          <li>Vlastní nález: <span class="line-sm" style="display:inline-block;width:28mm;"></span></li>
+        </ul>
+      </div>
+      <div class="draw-box" style="height:38mm;">
+        <div class="draw-label">Nakresli svého<br>oblíbeného<br>skřítka z Goblin<br>Valley!</div>
+      </div>
+    </div>
+
+    <span class="sec-label">Jak se jmenoval můj oblíbený skalní skřítek?</span>
+    <span class="line"></span>
+
+    <span class="sec-label">Nejlepší věc dneška byla:</span>
+    <span class="line"></span>
+
+    <div style="display:flex;align-items:center;gap:3mm;margin-top:1mm;">
+      <span class="sec-label" style="margin:0;white-space:nowrap;">Hodnocení dne:</span>
+      <span class="stars">★ ★ ★ ★ ★</span>
+      <span style="font-size:7.5pt;color:var(--line);">(zakroužkuj)</span>
+    </div>
+  </div>
+
+  <div style="border-top:2px dotted var(--sand);margin:0 7mm;flex-shrink:0;"></div>
+
+  <!-- Leg 4 -->
+  <div class="leg-banner" style="background:var(--sage);padding-top:4mm;">
+    <div class="leg-number">Úsek 4</div>
+    <h2>Goblin Valley → Mt. Pennell</h2>
+    <div class="leg-sub">Katedrální údolí · Bizoni · Hory Henry</div>
+  </div>
+
+  <div class="page-body">
+    <div class="date-weather" style="margin-top:3mm;">
+      <div class="date-block">
+        <span class="sec-label">Datum</span>
+        <span class="line"></span>
+      </div>
+      <div class="weather-block">
+        <span class="sec-label">Počasí</span>
+        <div class="weather-icons">
+          <span>☀️</span><span>🌤️</span><span>⛅</span><span>🌧️</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="two-col" style="gap:4mm;margin-bottom:4mm;">
+      <div>
+        <span class="sec-label">Na tomto úseku hledej:</span>
+        <ul class="check-list">
+          <li>Bizony (hodně jich je!)</li>
+          <li>Mládě bizona (telátko)</li>
+          <li>Pestrobarevné bentonitové kopce</li>
+          <li>Kamenný „chrám" v Katedrálním údolí</li>
+          <li>Vlastní nález: <span class="line-sm" style="display:inline-block;width:28mm;"></span></li>
+        </ul>
+      </div>
+      <div class="draw-box" style="height:38mm;">
+        <div class="draw-label">Nakresli bizona<br>jak chodí<br>kolem auta!</div>
+      </div>
+    </div>
+
+    <span class="sec-label">Kolik bizonů jsme viděli celkem?</span>
+    <span class="line"></span>
+
+    <span class="sec-label">Nejlepší věc dneška byla:</span>
+    <span class="line"></span>
+
+    <div style="display:flex;align-items:center;gap:3mm;margin-top:1mm;">
+      <span class="sec-label" style="margin:0;white-space:nowrap;">Hodnocení dne:</span>
+      <span class="stars">★ ★ ★ ★ ★</span>
+      <span style="font-size:7.5pt;color:var(--line);">(zakroužkuj)</span>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- ══════════════════════════════════════════════
+     STRANA 4 — ÚSEK 5 & 6
+     ══════════════════════════════════════════════ -->
+<div class="screen-label">Strana 4 — Úsek 5 a 6</div>
+<div class="page">
+
+  <!-- Leg 5 -->
+  <div class="leg-banner" style="background:var(--deep);">
+    <div class="leg-number">Úsek 5</div>
+    <h2>Hanksville → Muley Point</h2>
+    <div class="leg-sub">White Rim Road · Přírodní mosty · Mléčná dráha</div>
+  </div>
+
+  <div class="page-body" style="padding-bottom:3mm;">
+    <div class="date-weather" style="margin-top:3mm;">
+      <div class="date-block">
+        <span class="sec-label">Datum</span>
+        <span class="line"></span>
+      </div>
+      <div class="weather-block">
+        <span class="sec-label">Počasí</span>
+        <div class="weather-icons">
+          <span>☀️</span><span>🌤️</span><span>⛅</span><span>🌧️</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="two-col" style="gap:4mm;margin-bottom:4mm;">
+      <div>
+        <span class="sec-label">Na tomto úseku hledej:</span>
+        <ul class="check-list">
+          <li>Jeden z přírodních mostů</li>
+          <li>Horskou ovci (tlustoroh)</li>
+          <li>Kondora nebo orla</li>
+          <li>Mléčnou dráhu (v noci!)</li>
+          <li>Vlastní nález: <span class="line-sm" style="display:inline-block;width:28mm;"></span></li>
+        </ul>
+      </div>
+      <div class="draw-box" style="height:38mm;">
+        <div class="draw-label">Nakresli přírodní<br>most nebo<br>hvězdné nebe!</div>
+      </div>
+    </div>
+
+    <span class="sec-label">Nejkrásnější výhled dneška byl:</span>
+    <span class="line"></span>
+
+    <span class="sec-label">Nejlepší věc dneška byla:</span>
+    <span class="line"></span>
+
+    <div style="display:flex;align-items:center;gap:3mm;margin-top:1mm;">
+      <span class="sec-label" style="margin:0;white-space:nowrap;">Hodnocení dne:</span>
+      <span class="stars">★ ★ ★ ★ ★</span>
+      <span style="font-size:7.5pt;color:var(--line);">(zakroužkuj)</span>
+    </div>
+  </div>
+
+  <div style="border-top:2px dotted var(--sand);margin:0 7mm;flex-shrink:0;"></div>
+
+  <!-- Leg 6 -->
+  <div class="leg-banner" style="background:var(--canyon);padding-top:4mm;">
+    <div class="leg-number">Úsek 6</div>
+    <h2>Muley Point → Phoenix</h2>
+    <div class="leg-sub">Monument Valley · Velký kaňon · Vlak · Domů!</div>
+  </div>
+
+  <div class="page-body">
+    <div class="date-weather" style="margin-top:3mm;">
+      <div class="date-block">
+        <span class="sec-label">Datum</span>
+        <span class="line"></span>
+      </div>
+      <div class="weather-block">
+        <span class="sec-label">Počasí</span>
+        <div class="weather-icons">
+          <span>☀️</span><span>🌤️</span><span>⛅</span><span>🌧️</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="two-col" style="gap:4mm;margin-bottom:4mm;">
+      <div>
+        <span class="sec-label">Na tomto úseku hledej:</span>
+        <ul class="check-list">
+          <li>Slavné palcové skály Monument Valley</li>
+          <li>Velký kaňon (podívat se dolů!)</li>
+          <li>Vydru nebo volavku ve vlaku</li>
+          <li>Kaktus Organ Pipe</li>
+          <li>Vlastní nález: <span class="line-sm" style="display:inline-block;width:28mm;"></span></li>
+        </ul>
+      </div>
+      <div class="draw-box" style="height:38mm;">
+        <div class="draw-label">Nakresli vlak<br>nebo Monument<br>Valley!</div>
+      </div>
+    </div>
+
+    <span class="sec-label">Co jsem dělal/a ve vlaku Verde Canyon?</span>
+    <span class="line"></span>
+
+    <span class="sec-label">Nejlepší věc celého posledního dne:</span>
+    <span class="line"></span>
+
+    <div style="display:flex;align-items:center;gap:3mm;margin-top:1mm;">
+      <span class="sec-label" style="margin:0;white-space:nowrap;">Hodnocení dne:</span>
+      <span class="stars">★ ★ ★ ★ ★</span>
+      <span style="font-size:7.5pt;color:var(--line);">(zakroužkuj)</span>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- ══════════════════════════════════════════════
+     STRANA 5 — STOPOVAČ ZVÍŘAT
+     ══════════════════════════════════════════════ -->
+<div class="screen-label">Strana 5 — Stopovač zvířat</div>
+<div class="page">
+
+  <!-- Header -->
+  <div style="background:var(--sage);padding:5mm 7mm;flex-shrink:0;">
+    <div style="font-size:7.5pt;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.8);margin-bottom:1mm;">Celý výlet</div>
+    <h2 style="font-size:16pt;color:white;line-height:1.1;">🔭 Stopovač zvířat</h2>
+    <div style="font-size:8.5pt;color:rgba(255,255,255,.85);font-style:italic;margin-top:1mm;">Zaškrtni každé zvíře, jakmile ho uvidíš. Kdy a kde jsi ho viděl/a?</div>
+  </div>
+
+  <div class="page-body" style="gap:0;">
+
+    <!-- Animal grid -->
+    <table style="width:100%;border-collapse:collapse;font-size:9pt;margin-top:2mm;">
+      <thead>
+        <tr style="background:var(--stone);">
+          <th style="padding:2mm 3mm;text-align:left;font-size:7.5pt;letter-spacing:.06em;text-transform:uppercase;color:var(--canyon);width:8mm;border-bottom:1.5px solid var(--sand);">✓</th>
+          <th style="padding:2mm 3mm;text-align:left;font-size:7.5pt;letter-spacing:.06em;text-transform:uppercase;color:var(--canyon);width:30mm;border-bottom:1.5px solid var(--sand);">Zvíře</th>
+          <th style="padding:2mm 3mm;text-align:left;font-size:7.5pt;letter-spacing:.06em;text-transform:uppercase;color:var(--canyon);width:20mm;border-bottom:1.5px solid var(--sand);">Kde (místo)</th>
+          <th style="padding:2mm 3mm;text-align:left;font-size:7.5pt;letter-spacing:.06em;text-transform:uppercase;color:var(--canyon);border-bottom:1.5px solid var(--sand);">Co dělalo?</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- rows -->
+        <tr style="border-bottom:1px dotted var(--line);">
+          <td style="padding:2.5mm 3mm;"><span style="display:inline-block;width:4mm;height:4mm;border:1.2px solid var(--canyon);border-radius:.5mm;"></span></td>
+          <td style="padding:2.5mm 3mm;">🦬 Bizon</td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+        </tr>
+        <tr style="border-bottom:1px dotted var(--line);">
+          <td style="padding:2.5mm 3mm;"><span style="display:inline-block;width:4mm;height:4mm;border:1.2px solid var(--canyon);border-radius:.5mm;"></span></td>
+          <td style="padding:2.5mm 3mm;">🦅 Kondor</td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+        </tr>
+        <tr style="border-bottom:1px dotted var(--line);">
+          <td style="padding:2.5mm 3mm;"><span style="display:inline-block;width:4mm;height:4mm;border:1.2px solid var(--canyon);border-radius:.5mm;"></span></td>
+          <td style="padding:2.5mm 3mm;">🐿 Prérijní pes</td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+        </tr>
+        <tr style="border-bottom:1px dotted var(--line);">
+          <td style="padding:2.5mm 3mm;"><span style="display:inline-block;width:4mm;height:4mm;border:1.2px solid var(--canyon);border-radius:.5mm;"></span></td>
+          <td style="padding:2.5mm 3mm;">🐏 Horská ovce</td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+        </tr>
+        <tr style="border-bottom:1px dotted var(--line);">
+          <td style="padding:2.5mm 3mm;"><span style="display:inline-block;width:4mm;height:4mm;border:1.2px solid var(--canyon);border-radius:.5mm;"></span></td>
+          <td style="padding:2.5mm 3mm;">🦎 Ještěrka</td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+        </tr>
+        <tr style="border-bottom:1px dotted var(--line);">
+          <td style="padding:2.5mm 3mm;"><span style="display:inline-block;width:4mm;height:4mm;border:1.2px solid var(--canyon);border-radius:.5mm;"></span></td>
+          <td style="padding:2.5mm 3mm;">🐦 Volavka</td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+        </tr>
+        <tr style="border-bottom:1px dotted var(--line);">
+          <td style="padding:2.5mm 3mm;"><span style="display:inline-block;width:4mm;height:4mm;border:1.2px solid var(--canyon);border-radius:.5mm;"></span></td>
+          <td style="padding:2.5mm 3mm;">🐴 Kůň (divoký)</td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+        </tr>
+        <tr style="border-bottom:1px dotted var(--line);">
+          <td style="padding:2.5mm 3mm;"><span style="display:inline-block;width:4mm;height:4mm;border:1.2px solid var(--canyon);border-radius:.5mm;"></span></td>
+          <td style="padding:2.5mm 3mm;">🦌 Jelen nebo srnec</td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+        </tr>
+        <tr style="border-bottom:1px dotted var(--line);">
+          <td style="padding:2.5mm 3mm;"><span style="display:inline-block;width:4mm;height:4mm;border:1.2px solid var(--canyon);border-radius:.5mm;"></span></td>
+          <td style="padding:2.5mm 3mm;">🌵 Kaktus saguaro</td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+        </tr>
+        <tr style="border-bottom:1px dotted var(--line);">
+          <td style="padding:2.5mm 3mm;"><span style="display:inline-block;width:4mm;height:4mm;border:1.2px solid var(--canyon);border-radius:.5mm;"></span></td>
+          <td style="padding:2.5mm 3mm;">🌵 Kaktus Organ Pipe</td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+        </tr>
+        <tr style="border-bottom:1px dotted var(--line);">
+          <td style="padding:2.5mm 3mm;"><span style="display:inline-block;width:4mm;height:4mm;border:1.2px solid var(--canyon);border-radius:.5mm;"></span></td>
+          <td style="padding:2.5mm 3mm;font-style:italic;color:#888;">Moje vlastní: ________</td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+        </tr>
+        <tr>
+          <td style="padding:2.5mm 3mm;"><span style="display:inline-block;width:4mm;height:4mm;border:1.2px solid var(--canyon);border-radius:.5mm;"></span></td>
+          <td style="padding:2.5mm 3mm;font-style:italic;color:#888;">Moje vlastní: ________</td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+          <td style="padding:2.5mm 3mm;border-bottom:1px dotted var(--line);"></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <!-- Score box -->
+    <div style="background:var(--stone);border-radius:2mm;padding:4mm 5mm;margin-top:4mm;display:flex;align-items:center;gap:5mm;">
+      <div style="font-size:22pt;">🏆</div>
+      <div style="flex:1;">
+        <div style="font-size:8pt;font-weight:bold;color:var(--canyon);margin-bottom:1mm;">Celkové skóre stopovače:</div>
+        <div style="font-size:8pt;color:var(--shadow);">
+          Zaškrtnutá políčka: <span style="display:inline-block;width:15mm;border-bottom:1px dotted var(--line);"></span> z 10 &nbsp;·&nbsp;
+          Bonus za vlastní nálezky: <span style="display:inline-block;width:12mm;border-bottom:1px dotted var(--line);"></span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Draw favourite animal -->
+    <div style="margin-top:4mm;display:flex;gap:4mm;align-items:flex-start;flex:1;">
+      <div class="draw-box" style="flex:1;min-height:28mm;">
+        <div class="draw-label">Nakresli své<br>nejoblíbenější<br>zvíře z výletu!</div>
+      </div>
+      <div style="flex:1;">
+        <span class="sec-label">Moje nejoblíbenější zvíře z výletu bylo:</span>
+        <span class="line"></span>
+        <span class="sec-label" style="margin-top:2mm;">Proto, že:</span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- ══════════════════════════════════════════════
+     STRANA 6 — CENY & VELKÉ FINÁLE
+     ══════════════════════════════════════════════ -->
+<div class="screen-label">Strana 6 — Ceny a velké finále</div>
+<div class="page">
+
+  <!-- Header -->
+  <div style="background:var(--gold);padding:5mm 7mm;flex-shrink:0;">
+    <div style="font-size:7.5pt;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.8);margin-bottom:1mm;">Po celém výletu vyplň</div>
+    <h2 style="font-size:16pt;color:white;line-height:1.1;">🏅 Moje ceny za výlet</h2>
+    <div style="font-size:8.5pt;color:rgba(255,255,255,.85);font-style:italic;margin-top:1mm;">Ty rozhoduješ — kdo nebo co si cenu zaslouží!</div>
+  </div>
+
+  <div class="page-body" style="gap:4mm;">
+
+    <!-- Awards grid -->
+    <div class="two-col" style="gap:4mm;">
+
+      <div style="border:2px solid var(--gold);border-radius:2mm;padding:4mm;background:white;">
+        <div style="font-size:16pt;margin-bottom:1mm;">🥇</div>
+        <div style="font-size:8pt;font-weight:bold;color:var(--gold);text-transform:uppercase;letter-spacing:.06em;margin-bottom:2mm;">Nejlepší místo výletu</div>
+        <span class="line"></span>
+        <div style="font-size:7.5pt;color:#888;margin-top:1mm;">Proto, že:</div>
+        <span class="line"></span>
+      </div>
+
+      <div style="border:2px solid var(--sky);border-radius:2mm;padding:4mm;background:white;">
+        <div style="font-size:16pt;margin-bottom:1mm;">🌟</div>
+        <div style="font-size:8pt;font-weight:bold;color:var(--sky);text-transform:uppercase;letter-spacing:.06em;margin-bottom:2mm;">Největší WOW zážitek</div>
+        <span class="line"></span>
+        <div style="font-size:7.5pt;color:#888;margin-top:1mm;">Jak jsem reagoval/a:</div>
+        <span class="line"></span>
+      </div>
+
+      <div style="border:2px solid var(--canyon);border-radius:2mm;padding:4mm;background:white;">
+        <div style="font-size:16pt;margin-bottom:1mm;">🦁</div>
+        <div style="font-size:8pt;font-weight:bold;color:var(--canyon);text-transform:uppercase;letter-spacing:.06em;margin-bottom:2mm;">Nejlepší zvíře</div>
+        <span class="line"></span>
+        <div style="font-size:7.5pt;color:#888;margin-top:1mm;">Kde jsem ho viděl/a:</div>
+        <span class="line"></span>
+      </div>
+
+      <div style="border:2px solid var(--sage);border-radius:2mm;padding:4mm;background:white;">
+        <div style="font-size:16pt;margin-bottom:1mm;">🍔</div>
+        <div style="font-size:8pt;font-weight:bold;color:var(--sage);text-transform:uppercase;letter-spacing:.06em;margin-bottom:2mm;">Nejlepší jídlo na výletě</div>
+        <span class="line"></span>
+        <div style="font-size:7.5pt;color:#888;margin-top:1mm;">Kde jsem ho jedl/a:</div>
+        <span class="line"></span>
+      </div>
+
+      <div style="border:2px solid var(--purple);border-radius:2mm;padding:4mm;background:white;">
+        <div style="font-size:16pt;margin-bottom:1mm;">😱</div>
+        <div style="font-size:8pt;font-weight:bold;color:var(--purple);text-transform:uppercase;letter-spacing:.06em;margin-bottom:2mm;">Největší překvapení</div>
+        <span class="line"></span>
+        <div style="font-size:7.5pt;color:#888;margin-top:1mm;">Proč mě to překvapilo:</div>
+        <span class="line"></span>
+      </div>
+
+      <div style="border:2px solid #888;border-radius:2mm;padding:4mm;background:white;">
+        <div style="font-size:16pt;margin-bottom:1mm;">😴</div>
+        <div style="font-size:8pt;font-weight:bold;color:#666;text-transform:uppercase;letter-spacing:.06em;margin-bottom:2mm;">Nejdelší/nejnudnější jízda</div>
+        <span class="line"></span>
+        <div style="font-size:7.5pt;color:#888;margin-top:1mm;">Co jsem dělal/a v autě:</div>
+        <span class="line"></span>
+      </div>
+
+    </div>
+
+    <!-- Final reflection -->
+    <div style="background:var(--stone);border-radius:2mm;padding:5mm;margin-top:1mm;flex:1;display:flex;flex-direction:column;gap:2.5mm;">
+      <div style="font-size:9pt;font-weight:bold;color:var(--canyon);margin-bottom:1mm;">✏️ Kdybych mohl/a vzít kamaráda na jeden den tohoto výletu, vzal/a bych ho na:</div>
+      <span class="line"></span>
+      <div style="font-size:8.5pt;color:var(--shadow);">Proto, že:</div>
+      <span class="line"></span>
+      <span class="line"></span>
+      <div style="font-size:9pt;font-weight:bold;color:var(--canyon);margin-top:1mm;">Celkové hodnocení celého výletu:</div>
+      <div style="display:flex;align-items:center;gap:3mm;">
+        <span style="font-size:20pt;color:var(--sand);">★ ★ ★ ★ ★ ★ ★ ★ ★ ★</span>
+      </div>
+      <div style="font-size:7.5pt;color:#888;font-style:italic;">(zakroužkuj tolik hvězdiček, kolik si myslíš, že výlet zaslouží)</div>
+    </div>
+
+  </div>
+
+  <!-- Certificate footer -->
+  <div style="background:var(--deep);padding:4mm 7mm;flex-shrink:0;display:flex;align-items:center;justify-content:space-between;">
+    <div style="color:white;font-size:9pt;font-style:italic;">„Poznal/a jsem svět o kousek víc."</div>
+    <div style="color:var(--sand);font-size:8pt;text-align:right;">Utah &amp; Kaňonová Země<br>Velká rodinná výprava</div>
+  </div>
+
+</div>
+
+
+</body>
+</html>
