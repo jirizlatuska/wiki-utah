@@ -1,6 +1,6 @@
 # Trip Schedule — Day by Day
 
-**Summary**: Full calendar for the Utah loop, July 23 – August 16, 2026. Open items: exact Tucson motel + address for night 0/1; [[babylon-fire]] reroute details for Aug 11–13.
+**Summary**: Full calendar for the Utah loop, July 23 – August 16, 2026. Open items: exact Tucson motel + address for night 0/1; [[babylon-fire]] reroute details for Aug 11–13; [[pocket-fire]] — is the Aug 13 train ride viable?
 
 **Sources**: `raw/Časový rozvrh` (user schedule, 2026-05-20/21 — see [[casovy-rozvrh]]); KMZ route files in `raw/`; user update 2026-07-05 (first-night change, Orange Cliffs loop option).
 
@@ -42,8 +42,8 @@
 | 18/19 | 10–11. 8. | Po | 5 | ✅ White Crack Campground | ⚠️ **White Rim permit** — Shafer Trail descent |
 | 19/20 | 11–12. 8. | Út | 5 | ❓ Comb Wash CG preferred; Nizhoni CG possibly in [[babylon-fire]] closure | ⚠️ **White Rim permit** — Mineral Bottom exit; [[newspaper-rock]] (UT-211) **if open**; back to US-191, drive south |
 | 20/21 | 12–13. 8. | St | 5→6 | ✅ Monument Valley (The View / Navajo CG) | 🔥 [[babylon-fire]] reroute: US-191 → UT-95 → UT-261; [[natural-bridges-nm]] if time; [[muley-point]]; depart early for train |
-| 21/22 | 13–14. 8. | Čt | 6 | ❓ Surprise camping OR Blackhawk Loop CG | [[valley-of-the-gods]]; [[monument-valley]]; [[verde-canyon-railroad]] 13:00–17:00 |
-| 22/23 | 14–15. 8. | Pá | 6 | ✅ Twin Peaks Campground (Organ Pipe NM) | [[grand-canyon-desert-view]]; [[sedona]]; drive south |
+| 21/22 | 13–14. 8. | Čt | 6 | ❓ Surprise camping OR Blackhawk Loop CG | [[valley-of-the-gods]]; [[monument-valley]]; [[verde-canyon-railroad]] 13:00–17:00 — 🔥 **at risk from [[pocket-fire]]**; if affected, skip Sedona + train |
+| 22/23 | 14–15. 8. | Pá | 6 | ✅ Twin Peaks Campground (Organ Pipe NM) | [[grand-canyon-desert-view]]; [[sedona]] (🔥 conditional on [[pocket-fire]]); drive south |
 | 23/24 | 15–16. 8. | So | 6 | ✅ Hilton Phoenix Airport | [[organ-pipe-cactus-nm]]; [[kitt-peak]]; drive to PHX |
 | — | 16. 8. | Ne | — | Departure PHX 09:00 | — |
 
@@ -97,6 +97,8 @@
 
 ## August 13 timing note — Verde Canyon Railroad
 
+⚠️ **Pocket fire caveat**: the [[pocket-fire]] near Sedona is expected to burn for months; whether the train is affected is unknown. Check the railroad's operating status shortly before the trip. If the train is cancelled or the area is smoked out, skip Sedona and the train — Aug 13 then frees up and [[grand-canyon-desert-view]] fits naturally that day instead (source: user update 2026-07-05).
+
 The train departs Clarkdale at **13:00** and returns at **17:00**. Clarkdale is ~25 minutes from [[sedona]] and ~30 minutes from Cottonwood.
 
 If camping at **Monument Valley** (night 12/13): depart 08:00 → [[valley-of-the-gods]] (45 min loop, skip or quick) → Monument Valley photos at sunrise → drive US-163 → US-160 → US-89 → Sedona route → Clarkdale. ~4.5 hours driving. Depart by 08:00 = arrive Clarkdale ~12:30. Tight but feasible.
@@ -112,6 +114,7 @@ If camping at **Muley Point** (night 12/13): ~6 hours to Clarkdale. Must depart 
 - [[itinerary]]
 - [[casovy-rozvrh]]
 - [[babylon-fire]]
+- [[pocket-fire]]
 - [[permits]]
 - [[orange-cliffs-loop]]
 - [[coyote-buttes-south]]

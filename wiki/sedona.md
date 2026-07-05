@@ -2,11 +2,13 @@
 
 **Summary**: A red-rock canyon town in central Arizona known for dramatic butte scenery, hiking, art galleries, and New Age culture; the gateway to Oak Creek Canyon.
 
-**Sources**: `raw/Directions from Muley Point...to Phoenix Sky Harbor.kmz`
+**Sources**: `raw/Directions from Muley Point...to Phoenix Sky Harbor.kmz`; user update 2026-07-05 (Pocket fire).
 
-**Last updated**: 2026-05-19.
+**Last updated**: 2026-07-05.
 
 ---
+
+⚠️ **Pocket fire**: the [[pocket-fire]] is burning in the Sedona area (as of July 2026) and is expected to last months, until the monsoon rains. The Sedona visit is now **conditional** — if the area or the [[verde-canyon-railroad]] is affected, the plan is presumably to skip Sedona entirely (source: user update 2026-07-05).
 
 ## Overview
 

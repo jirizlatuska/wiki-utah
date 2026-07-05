@@ -2,11 +2,13 @@
 
 **Summary**: A 4-hour scenic excursion train running through the otherwise inaccessible Verde Canyon between Clarkdale and Perkinsville Ranch, AZ; one of the few ways to see the wild middle Verde River corridor.
 
-**Sources**: `raw/Directions from Muley Point...to Phoenix Sky Harbor.kmz`
+**Sources**: `raw/Directions from Muley Point...to Phoenix Sky Harbor.kmz`; user update 2026-07-05 (Pocket fire risk).
 
-**Last updated**: 2026-05-19.
+**Last updated**: 2026-07-05.
 
 ---
+
+⚠️ **Pocket fire risk**: the [[pocket-fire]] near Sedona may last for months. Whether the Aug 13 ride is affected is unknown — the railroad canyon (Verde Canyon, running northwest from Clarkdale toward Perkinsville) is a different canyon from Sedona's and hopefully outside the smoke area, but this needs verification. **Check operating status with the railroad shortly before the trip**; if cancelled, skip Sedona and the train and see [[pocket-fire]] for the fallback plan (source: user update 2026-07-05).
 
 ## Overview
 

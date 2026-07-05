@@ -83,7 +83,7 @@ These trails are short, low-hazard, and visually rewarding:
 
 ## Train ride
 
-[[verde-canyon-railroad]] — Leg 6 — is the only train on the trip and one of the best child-friendly activities. The 4-hour round trip through the Verde Canyon is entirely car-based (no hiking required), has open-air viewing cars, and passes through dramatic red-rock scenery. Bald eagles are sometimes visible in winter. Book tickets in advance.
+[[verde-canyon-railroad]] — Leg 6 — is the only train on the trip and one of the best child-friendly activities. ⚠️ Note: the ride is at risk from the [[pocket-fire]] near Sedona — verify operating status before promising it to a 7-year-old (source: user update 2026-07-05). The 4-hour round trip through the Verde Canyon is entirely car-based (no hiking required), has open-air viewing cars, and passes through dramatic red-rock scenery. Bald eagles are sometimes visible in winter. Book tickets in advance.
 
 ---
 

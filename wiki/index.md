@@ -16,6 +16,7 @@
 | [[kids]] | Child-friendly highlights: dinosaurs, live animals, best hikes, and train ride for a 7-year-old |
 | [[casovy-rozvrh]] | Summary of the raw source `Časový rozvrh` — the user's original day-by-day time plan |
 | [[babylon-fire]] | 🔥 Active constraint: fire south of Needles district forces Aug 11–13 reroute via US-191/UT-95/UT-261 |
+| [[pocket-fire]] | 🔥 Active constraint: fire near Sedona, may last months; Aug 13 train ride at risk — skip Sedona if affected |
 
 ---
 

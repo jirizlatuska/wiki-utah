@@ -222,3 +222,22 @@ Sunset Crater Volcano NM and Wupatki NM share a 36-mile paved loop off US-89 nor
 - `wiki/index.md` — added babylon-fire to core pages
 
 **Open items**: verify closure boundary and Newspaper Rock access closer to the trip (InciWeb / BLM Monticello); confirm Comb Wash vs Nizhoni for night 19/20.
+
+---
+
+## 2026-07-05 — Pocket fire (Sedona): Aug 13 train ride at risk
+
+**Source**: user update 2026-07-05 — Pocket fire burning in the Sedona area, estimated to last months (until monsoon rains). Unknown whether the Verde Canyon Railroad is affected; hope is the railroad canyon is outside the smoke area. If affected, presumably skip Sedona.
+
+**Pages created**:
+- `wiki/pocket-fire.md` — situation, Aug 13 decision tree (train on → keep plan; train off → skip Sedona + train, Desert View slots into Aug 13), pre-trip checks
+
+**Pages updated**:
+- `wiki/schedule.md` — rows 21/22 and 22/23 flagged; Pocket fire caveat added to the August 13 timing note; new open item in summary
+- `wiki/itinerary.md` — Leg 6: Sedona conditional, train flagged at risk
+- `wiki/sedona.md` — visit now conditional on the fire
+- `wiki/verde-canyon-railroad.md` — risk banner; geography note (Verde Canyon ≠ Oak Creek/Sedona canyon, ~20 mi west; plausibly outside smoke — needs verification); check status before trip
+- `wiki/kids.md` — caveat on the train entry
+- `wiki/index.md` — added pocket-fire to core pages
+
+**Open items**: verify railroad operating status and smoke conditions shortly before Aug 13; decide Aug 13–14 fallback shape only once train status is known.

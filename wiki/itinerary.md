@@ -131,8 +131,8 @@ Three stops require advance permits — see [[permits]] for booking details.
 | [[valley-of-the-gods]] | 17-mile dirt loop through sandstone buttes; free BLM |
 | [[monument-valley]] | Navajo Nation Tribal Park; entry fee |
 | [[grand-canyon-desert-view]] | South Rim east entrance; Watchtower overlook |
-| [[sedona]] | Red rock town; galleries, hiking |
-| [[verde-canyon-railroad]] | 4-hour scenic train from Clarkdale |
+| [[sedona]] | Red rock town; galleries, hiking — 🔥 conditional: skip if [[pocket-fire]] affects the area |
+| [[verde-canyon-railroad]] | 4-hour scenic train from Clarkdale — 🔥 at risk from [[pocket-fire]]; verify operating status before Aug 13 |
 | [[organ-pipe-cactus-nm]] | Sonoran Desert biosphere; remote south of Ajo |
 | [[kitt-peak]] | National Observatory; night-sky programs |
 
