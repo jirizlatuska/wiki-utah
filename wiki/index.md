@@ -2,7 +2,7 @@
 
 **Summary**: Table of contents for the Utah trip knowledge base.
 
-**Last updated**: 2026-05-20.
+**Last updated**: 2026-07-05.
 
 ---
 
@@ -14,6 +14,7 @@
 | [[schedule]] | Day-by-day calendar Jul 23 – Aug 16, 2026: campgrounds, permit dates, and unresolved gaps |
 | [[permits]] | Permit booking: CBS July 30, White Rim Road Aug 10–11 (White Pocket needs no permit) |
 | [[kids]] | Child-friendly highlights: dinosaurs, live animals, best hikes, and train ride for a 7-year-old |
+| [[casovy-rozvrh]] | Summary of the raw source `Časový rozvrh` — the user's original day-by-day time plan |
 
 ---
 
@@ -67,6 +68,7 @@
 | [[cathedral-valley]] | Remote Capitol Reef northern district with monolithic sandstone temples |
 | [[bentonite-hills]] | Vividly colored bentonite clay badlands; closes in wet conditions |
 | [[henry-mountains]] | Isolated laccolith range with free-roaming bison; includes Mt. Pennell |
+| [[orange-cliffs-loop]] | Optional 4WD loop alternative: BLM 15000 / Poison Spring / Cedar Point → Land's End or Happy Canyon camp → Flint Trail |
 
 ---
 

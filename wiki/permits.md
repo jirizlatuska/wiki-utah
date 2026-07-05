@@ -1,10 +1,10 @@
 # Permits
 
-**Summary**: Two stops on this trip require advance permits booked through Recreation.gov: Coyote Buttes South (July 30) and White Rim Road (Aug 10–11). White Pocket does not require a permit.
+**Summary**: Two stops on this trip require advance permits booked through Recreation.gov: Coyote Buttes South (July 30) and White Rim Road (Aug 10–11). White Pocket does not require a permit. A third, conditional permit (Orange Cliffs camping) applies only if the [[orange-cliffs-loop]] option is taken.
 
-**Sources**: `raw/` KMZ route files (location identification); user schedule (2026-05-20); permit details need verification against current Recreation.gov listings.
+**Sources**: `raw/` KMZ route files (location identification); `raw/Časový rozvrh` (see [[casovy-rozvrh]]); user request 2026-07-05; permit details need verification against current Recreation.gov listings.
 
-**Last updated**: 2026-05-20.
+**Last updated**: 2026-07-05.
 
 ---
 
@@ -49,6 +49,15 @@ See also: [[white-rim-road]], [[muley-point]]
 
 ---
 
+## Conditional: Orange Cliffs backcountry camping
+
+**Trip leg**: alternative around Hanksville — see [[orange-cliffs-loop]]
+**Status**: only needed if the loop option is taken; no date set
+
+Designated vehicle campsites in the Orange Cliffs Unit of Glen Canyon NRA (including Happy Canyon and Land's End) are believed to require a backcountry permit issued through Canyonlands NP, similar to Maze district permits (needs verification — check with Hans Flat Ranger Station / Recreation.gov). If the loop replaces Segment 4 nights, book this before firming up the [[schedule]] change (source: user request 2026-07-05).
+
+---
+
 ## Booking strategy
 
 Coyote Buttes South (July 30) and White Rim Road (Aug 10–11) are confirmed. White Pocket date is not yet set — see gaps in [[schedule]].
@@ -64,6 +73,7 @@ See [[schedule]] for the full day-by-day calendar and unresolved gaps.
 ## Related pages
 
 - [[itinerary]]
+- [[orange-cliffs-loop]]
 - [[white-pocket]]
 - [[coyote-buttes-south]]
 - [[white-rim-road]]

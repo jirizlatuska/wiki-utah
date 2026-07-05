@@ -1,10 +1,10 @@
 # Trip Schedule — Day by Day
 
-**Summary**: Full calendar for the Utah loop, July 23 – August 16, 2026. All overnight gaps resolved.
+**Summary**: Full calendar for the Utah loop, July 23 – August 16, 2026. One open item: exact Tucson motel + address for night 0/1.
 
-**Sources**: User-provided schedule (2026-05-20, updated 2026-05-21); KMZ route files in `raw/`.
+**Sources**: `raw/Časový rozvrh` (user schedule, 2026-05-20/21 — see [[casovy-rozvrh]]); KMZ route files in `raw/`; user update 2026-07-05 (first-night change, Orange Cliffs loop option).
 
-**Last updated**: 2026-05-21. 
+**Last updated**: 2026-07-05.
 
 ---
 
@@ -21,7 +21,7 @@
 
 | Night | Date | Day | Segment | Campground | Key activity |
 |-------|------|-----|---------|-----------|-------------|
-| 0/1 | 23–24. 7. | Čt | 1 | ✅ Gilbert Ray Campground | Arrive PHX 19:00; drive to camp in the dark |
+| 0/1 | 23–24. 7. | Čt | 1 | ❓ Motel Tucson — presumably a Wyndham property near Costco; **exact address TBD** | Arrive PHX 19:00; drive to Tucson in the dark. ~~Gilbert Ray CG~~ closed (source: user update 2026-07-05) |
 | 1/2 | 24–25. 7. | Pá | 1 | ✅ Christopher Creek CG (Tonto NF, near Payson) | [[apache-trail]], Roosevelt Dam, [[mogollon-rim]] |
 | 2/3 | 25–26. 7. | So | 1 | ✅ Coal Mine Canyon (rim) | [[meteor-crater]]; [[sunset-crater]] & Wupatki (time permitting); [[coal-mine-canyon]] |
 | 3/4 | 26–27. 7. | Ne | 1→2 | ✅ Coral Pink Sand Dunes CG | [[moenave-dinosaur-tracks]], [[navajo-bridge]]; [[white-pocket]] if time allows (no permit) |
@@ -51,9 +51,13 @@
 
 ## Resolved planning notes
 
+**Night 0/1 (23/24 Jul)** — Gilbert Ray Campground (Tucson Mountain Park) is **closed**; only BLM dispersed sites remain in the area and those have no valid registration/address. The first night in the U.S. must have a specifiable street address (required for arrival paperwork), so plan is a motel in Tucson — presumably a Wyndham property near Costco. **Open item**: confirm the exact hotel and address before travel (source: user update 2026-07-05).
+
 **Night 1/2 (24/25 Jul)** — Christopher Creek CG (Tonto National Forest, near Payson) or dispersed on the Mogollon Rim Road (FR-300). Book ahead if NF campground.
 
 **Night 3/4 (26/27 Jul)** — Drive straight from Navajo Bridge area to Coral Pink Sand Dunes. [[white-pocket]] can be a day stop en route if time permits (no permit needed, high-clearance 4WD only). Arrival at Coral Pink late afternoon.
+
+**Segment 4 alternative (Hanksville area, ~4–8 Aug)** — Optional [[orange-cliffs-loop]]: east off UT-95 via BLM 15000 (Cedar Point and/or Poison Spring Canyon, Dirty Devil ford) to a campsite around Land's End or the Happy Canyon campsite, then the Flint Trail. Possibility only — would replace or displace 1–2 nights currently at Moonscape / Henry Mountains; likely needs an Orange Cliffs backcountry permit (source: user request 2026-07-05).
 
 **Nights 16/17 and 17/18 (8–10 Aug)** — Two nights at Dead Horse Point State Park. Drive from Henry Mountains on August 8 (~4 hours). Night 9/10 is a rest day with a view of the Shafer Trail rim from above, before descending on August 10.
 
@@ -75,11 +79,11 @@
 
 | Segment | Dates | Nights | Campgrounds |
 |---------|-------|--------|------------|
-| 1 | 23–26. 7. | 3 | Gilbert Ray CG ✅ · Christopher Creek CG ✅ · Coal Mine Canyon ✅ |
+| 1 | 23–26. 7. | 3 | Motel Tucson ❓ (address TBD) · Christopher Creek CG ✅ · Coal Mine Canyon ✅ |
 | 1→2 | 26–27. 7. | 1 | Coral Pink Sand Dunes CG ✅ |
 | 2 | 27–29. 7. | 3 | Kodachrome Basin SP ✅ · Stateline ✅ · Stateline ✅ |
 | 3 | 30. 7.–3. 8. | 5 | Stateline ✅ · Alstrom ❓ · Smokey Mtn ❓ · Capitol Reef ❓ · Goblin Valley ✅ |
-| 4 | 3–8. 8. | 5 | Goblin Valley ✅ · Moonscape ❓ · Cathedral Valley ✅ · Henrys ×2 ✅ |
+| 4 | 3–8. 8. | 5 | Goblin Valley ✅ · Moonscape ❓ · Cathedral Valley ✅ · Henrys ×2 ✅ · alt: [[orange-cliffs-loop]] |
 | 4→5 | 8–10. 8. | 2 | Dead Horse Point SP ✅ ×2 |
 | 5 | 10–12. 8. | 3 | White Crack ✅ · Nizhoni/Comb Wash ❓ · Monument Valley ✅ |
 | 6 | 13–15. 8. | 3 | Surprise/Blackhawk ❓ · Twin Peaks ✅ · Hilton PHX ✅ |
@@ -104,7 +108,9 @@ If camping at **Muley Point** (night 12/13): ~6 hours to Clarkdale. Must depart 
 ## Related pages
 
 - [[itinerary]]
+- [[casovy-rozvrh]]
 - [[permits]]
+- [[orange-cliffs-loop]]
 - [[coyote-buttes-south]]
 - [[white-rim-road]]
 - [[muley-point]]

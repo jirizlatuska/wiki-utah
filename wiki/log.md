@@ -185,3 +185,22 @@ Green River Overlook is in the Island in the Sky district of Canyonlands NP, on 
 - `wiki/kids.md` — added entry in "Dinosaurs and ancient life" section
 
 Sunset Crater Volcano NM and Wupatki NM share a 36-mile paved loop off US-89 north of Flagstaff — on the natural route from Winslow/Meteor Crater toward Cameron and Coal Mine Canyon. One entrance fee covers both. Flagged time permitting; adds ~45–60 min to July 25.
+
+---
+
+## 2026-07-05 — Ingested Časový rozvrh; first-night motel change; Orange Cliffs loop option
+
+**Sources ingested**: `raw/Časový rozvrh` (was in repo since 2026-05-21 but never formally ingested)
+
+**Pages created**:
+- `wiki/casovy-rozvrh.md` — source summary + reconciliation with schedule (Wild Horse SP → Dead Horse Point interpretation, spelling normalizations)
+- `wiki/orange-cliffs-loop.md` — optional Hanksville-area 4WD loop: BLM 15000 via Cedar Point and/or Poison Spring Canyon → camp around Land's End or Happy Canyon campsite (Orange Cliffs) → Flint Trail
+
+**Pages updated**:
+- `wiki/schedule.md` — night 0/1 (23/24 Jul): Gilbert Ray CG is CLOSED; replaced with motel in Tucson (presumably a Wyndham property near Costco, exact address TBD — needed for U.S. arrival paperwork; nearby BLM dispersed sites have no valid registration). Added Segment 4 alternative note for the Orange Cliffs loop. Sources now cite `raw/Časový rozvrh`.
+- `wiki/itinerary.md` — Leg 1 first stop updated; Leg 4 alternative added
+- `wiki/permits.md` — new conditional section: Orange Cliffs backcountry camping permit (only if loop is taken; needs verification)
+- `wiki/hanksville.md` — link to the loop option
+- `wiki/index.md` — added both new pages
+
+**Open items**: confirm Tucson motel + street address; verify BLM 15000 road number, Dirty Devil ford conditions, Flint Trail status, and Orange Cliffs permit rules if the loop becomes a firm plan.

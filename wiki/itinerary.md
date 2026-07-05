@@ -2,9 +2,9 @@
 
 **Summary**: Complete loop from Phoenix covering southern Utah, the Colorado Plateau, and canyon country — July 23 to August 16, 2026 (25 days, 24 nights).
 
-**Sources**: All six KMZ route files in `raw/`; user schedule (2026-05-20).
+**Sources**: All six KMZ route files in `raw/`; `raw/Časový rozvrh` (see [[casovy-rozvrh]]); user update 2026-07-05.
 
-**Last updated**: 2026-06-04.
+**Last updated**: 2026-07-05.
 
 ---
 
@@ -30,7 +30,7 @@ Three stops require advance permits — see [[permits]] for booking details.
 
 | Stop | Notes |
 |------|-------|
-| Gilbert Ray Campground | Tucson Mountain Park; optional first night |
+| Motel Tucson (first night) | Gilbert Ray CG is closed — replaced by motel, presumably a Wyndham property near Costco; address TBD (source: user update 2026-07-05) |
 | Apache Junction, AZ | Gateway to the Superstitions |
 | [[apache-trail]] (AZ-88) | Unpaved switchback road above Canyon Lake; narrow |
 | Roosevelt Dam | End of the Apache Trail; paved from here |
@@ -95,6 +95,8 @@ Three stops require advance permits — see [[permits]] for booking details.
 | [[bentonite-hills]] | Technicolor badlands; best in low light |
 | McMillan Spring Road Turnoff | Access into Henry Mountains high country |
 | [[henry-mountains]] — Mt. Pennell | Remote summit; free-roaming bison herd |
+
+**Alternative**: [[orange-cliffs-loop]] — optional loop from Hanksville via BLM 15000 (Cedar Point / Poison Spring Canyon) to Land's End or Happy Canyon campsite, then the Flint Trail. Possibility only; would displace 1–2 Segment 4 nights (source: user request 2026-07-05).
 
 ---
 

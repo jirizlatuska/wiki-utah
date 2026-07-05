@@ -24,6 +24,8 @@ Hanksville appears as a reference point in two legs:
 - **Leg 3** (Stateline → Goblin Valley): the route passes through the Hanksville area near Long Dong Silver Trailhead before arriving at [[goblin-valley]]
 - **Leg 5** (Hanksville → Muley Point): BLM 0095 near Hanksville is the explicit starting point of Leg 5 (source: Leg 5 KMZ)
 
+There is also an optional backcountry alternative from here: the [[orange-cliffs-loop]] via BLM 15000 (Cedar Point / Poison Spring Canyon) to the Orange Cliffs and the Flint Trail (source: user request 2026-07-05).
+
 Before starting Leg 5 ([[white-rim-road]] via Shafer Trail), fill the tank completely in Hanksville and carry extra water — there is no water on the White Rim Road route.
 
 ---
@@ -31,6 +33,7 @@ Before starting Leg 5 ([[white-rim-road]] via Shafer Trail), fill the tank compl
 ## Related pages
 
 - [[itinerary]]
+- [[orange-cliffs-loop]]
 - [[goblin-valley]]
 - [[henry-mountains]]
 - [[white-rim-road]]
