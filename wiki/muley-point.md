@@ -8,7 +8,7 @@
 
 ---
 
-⚠️ **Status change (2026-07-05)**: with the Bears Ears section dropped due to the [[babylon-fire]], the original northern approach (UT-95 → UT-261 across Cedar Mesa) is out. Muley Point is now an **optional out-and-back from the south**: from the [[valley-of-the-gods]] west entrance, up the Moki Dugway on UT-261 to the turnoff — a route that touches no burned or fire-trafficked country. Whether to keep it is **to be decided** (source: user decision 2026-07-05).
+⚠️ **Status (2026-07-05): kept, via the southern approach.** With the Bears Ears section dropped due to the [[babylon-fire]], Muley Point is reached as an out-and-back from the south: from the [[valley-of-the-gods]] west entrance, up the Moki Dugway on UT-261 to the turnoff — touching no burned or fire-trafficked country. **Go/no-go is decided on the spot on Aug 12, based on cloud/smoke coverage over Cedar Mesa as seen from the Valley of the Gods** — if the view would be smoked or clouded out, skip the climb (source: user decision 2026-07-05). The southern approach is also modestly faster than the original northern crossing, mainly because the slow UT-95/Cedar Mesa segment and the Natural Bridges detour disappear (rough estimate; needs verification).
 
 ## Overview
 

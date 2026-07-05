@@ -82,7 +82,7 @@
 | [[white-rim-road]] | Permit-required 100-mile Canyonlands 4WD route via Shafer Trail |
 | [[newspaper-rock]] | Dense petroglyph panel on UT-211; only if verified open ([[babylon-fire]]) |
 | [[natural-bridges-nm]] | Three natural bridges; first U.S. Dark Sky Park — dropped with the Bears Ears section |
-| [[muley-point]] | Cedar Mesa rim overlook — now optional out-and-back via Moki Dugway from the south |
+| [[muley-point]] | Cedar Mesa rim overlook — kept via southern Moki Dugway out-and-back; go/no-go per visibility on the day |
 | [[navajo-rug]] | Raplee Anticline near Mexican Hat; Aug 12 replacement stop on US-163 |
 
 ---

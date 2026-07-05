@@ -39,7 +39,7 @@ The user's assumption (2026-07-05): the fire should not cross the Colorado River
 | Nizhoni CG (night 19/20 option, Abajo Mountains) | **Confirmed inside the closure** (entire Monticello Ranger District closed — web check 2026-07-05). Use Comb Wash CG (BLM) instead — believed outside the FS closure, but verify whether the closure extends to BLM lands south of UT-211 |
 | **Entire Bears Ears section** (UT-95 corridor, [[natural-bridges-nm]], Cedar Mesa crossing via UT-261 from the north) | **Dropped by decision (2026-07-05)** — even if the fire is contained by mid-August, firefighter traffic, burned forest, and residual closures make it unattractive. Replaced by the Mexican Hat area (below) |
 | [[valley-of-the-gods]], [[navajo-rug]] (Mexican Hat area), [[monument-valley]] | **New Aug 12 plan** — reached entirely via US-191 → US-163 through Bluff; no forest, fully clear of the fire area |
-| [[muley-point]] | **Open variant**: reachable from the *south* via UT-261 up the Moki Dugway from the Valley of the Gods west entrance — an out-and-back that touches no burned country. Keep as time-permitting option, or drop with the rest of the Bears Ears section — user to decide |
+| [[muley-point]] | **Kept (decided 2026-07-05)** — southern out-and-back via UT-261 / Moki Dugway from the Valley of the Gods west entrance; no burned country. Go/no-go decided on arrival based on cloud/smoke coverage visible from the Valley |
 
 ## Reroute (Aug 12) — revised 2026-07-05
 

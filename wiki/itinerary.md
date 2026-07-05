@@ -115,7 +115,7 @@ Three stops require advance permits — see [[permits]] for booking details.
 | [[newspaper-rock]] | Dense petroglyph panel on UT-211; free roadside stop on exit day — **if open** during [[babylon-fire]] closure |
 | ~~Horse Mountain~~ | ~~High point between Canyonlands and Natural Bridges~~ **Dropped** — Elk Ridge crossing blocked by [[babylon-fire]] closure (source: user update 2026-07-05) |
 | ~~[[natural-bridges-nm]]~~ | **Dropped** with the Bears Ears section — [[babylon-fire]] aftermath: firefighter traffic, burned forest (source: user decision 2026-07-05) |
-| [[muley-point]] | Now **optional**: out-and-back from the south via Moki Dugway from [[valley-of-the-gods]] west entrance — to be decided |
+| [[muley-point]] | **Kept**: out-and-back from the south via Moki Dugway from [[valley-of-the-gods]] west entrance; go/no-go on the spot per cloud/smoke visible from the Valley |
 | [[navajo-rug]] | Raplee Anticline near Mexican Hat — replacement stop on US-163 (needs user confirmation of identification) |
 
 **Fire reroute v2 (Aug 12)**: the entire Bears Ears section is dropped — even if the [[babylon-fire]] is contained, firefighter traffic and burned forest are expected. Leg 5 now runs Newspaper Rock (if open) → US-191 → US-163 via Bluff → [[navajo-rug]] and/or [[valley-of-the-gods]] → [[monument-valley]] (source: user decision 2026-07-05).

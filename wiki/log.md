@@ -295,3 +295,14 @@ Sunset Crater Volcano NM and Wupatki NM share a 36-mile paved loop off US-89 nor
 **Pages created**: `wiki/navajo-rug.md` — interpretation of the user's "Navajo carpet area" as the Raplee Anticline near Mexican Hat; NEEDS USER CONFIRMATION
 
 **Pages updated**: `wiki/babylon-fire.md` (impact table, reroute v2, smoke assessment), `wiki/schedule.md` (rows 20/21 and 21/22, planning note, Aug 13 timing note), `wiki/itinerary.md` (Leg 5/6), `wiki/valley-of-the-gods.md`, `wiki/muley-point.md`, `wiki/natural-bridges-nm.md`, `wiki/white-rim-road.md`, `wiki/index.md`
+
+---
+
+## 2026-07-05 — Muley Point kept via southern approach; on-the-spot go/no-go rule
+
+**Source**: user decision 2026-07-05
+
+- Muley Point stays in the plan, reached from the south (Valley of the Gods west entrance → UT-261 up the Moki Dugway → turnoff). Modestly faster than the original northern crossing since the slow UT-95 segment and Natural Bridges detour are gone.
+- Decision rule recorded: go/no-go decided on arrival on Aug 12, based on cloud/smoke coverage over Cedar Mesa as visible from the Valley of the Gods floor.
+
+**Pages updated**: `wiki/muley-point.md`, `wiki/babylon-fire.md` (impact table), `wiki/schedule.md`, `wiki/itinerary.md`, `wiki/valley-of-the-gods.md`, `wiki/index.md`
