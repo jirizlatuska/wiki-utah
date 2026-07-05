@@ -41,8 +41,8 @@
 | 17/18 | 9–10. 8. | Ne | 5 | ✅ Dead Horse Point SP | Rest day; Shafer Trail viewpoint from above |
 | 18/19 | 10–11. 8. | Po | 5 | ✅ White Crack Campground | ⚠️ **White Rim permit** — Shafer Trail descent |
 | 19/20 | 11–12. 8. | Út | 5 | ❓ Comb Wash CG (Nizhoni CG **confirmed closed** — [[babylon-fire]]) | ⚠️ **White Rim permit** — Mineral Bottom exit; [[newspaper-rock]] (UT-211) **only if verified open**; back to US-191, drive south |
-| 20/21 | 12–13. 8. | St | 5→6 | ✅ Monument Valley (The View / Navajo CG) | 🔥 [[babylon-fire]] reroute: US-191 → UT-95 → UT-261; [[natural-bridges-nm]] if time; [[muley-point]]; depart early for train |
-| 21/22 | 13–14. 8. | Čt | 6 | ❓ Surprise camping OR Blackhawk Loop CG | [[valley-of-the-gods]]; [[monument-valley]]; [[verde-canyon-railroad]] 13:00–17:00 — 🔥 **at risk from [[pocket-fire]]**; if affected, skip Sedona + train |
+| 20/21 | 12–13. 8. | St | 5→6 | ✅ Monument Valley (The View / Navajo CG) | 🔥 [[babylon-fire]] reroute v2: US-191 → US-163 via Bluff; [[navajo-rug]] and/or [[valley-of-the-gods]]; optional [[muley-point]] via Moki Dugway from south; Bears Ears section dropped |
+| 21/22 | 13–14. 8. | Čt | 6 | ❓ Surprise camping OR Blackhawk Loop CG | [[monument-valley]] sunrise; drive to Clarkdale ([[valley-of-the-gods]] already done Aug 12); [[verde-canyon-railroad]] 13:00–17:00 — 🔥 **at risk from [[pocket-fire]]**; if affected, skip Sedona + train |
 | 22/23 | 14–15. 8. | Pá | 6 | ✅ Twin Peaks Campground (Organ Pipe NM) | [[grand-canyon-desert-view]]; [[sedona]] (🔥 conditional on [[pocket-fire]]); drive south |
 | 23/24 | 15–16. 8. | So | 6 | ✅ Hilton Phoenix Airport | [[organ-pipe-cactus-nm]]; [[kitt-peak]]; drive to PHX |
 | — | 16. 8. | Ne | — | Departure PHX 09:00 | — |
@@ -61,7 +61,7 @@
 
 **Nights 16/17 and 17/18 (8–10 Aug)** — Two nights at Dead Horse Point State Park. Drive from Henry Mountains on August 8 (~4 hours). Night 9/10 is a rest day with a view of the Shafer Trail rim from above, before descending on August 10.
 
-**Nights 19/20–20/21 (11–13 Aug) — Babylon fire reroute** — The [[babylon-fire]] is burning south of the Needles district with an area closure until end of July 2026; assuming it reopens by Aug 12/13 is not a good bet (source: user update 2026-07-05). The Leg 5 KMZ crossing over Elk Ridge / Horse Mountain toward Natural Bridges is dropped. Instead: [[newspaper-rock]] **if still accessible**, then return to US-191, south through Monticello and Blanding, UT-95 west, and UT-261 south to [[muley-point]] (turnoff at the top of the Moki Dugway) — then proceed as previously planned. Nizhoni CG (Abajo Mountains) is **confirmed inside the closure** — the entire Monticello Ranger District is closed and Needles permits are cancelled through July 31 (web check 2026-07-05: ~87,500 acres, 0% contained, growing north). Comb Wash CG (BLM) is the night 19/20 plan; verify it stays outside the closure. North of the Colorado — White Rim, Island in the Sky, Dead Horse Point — is unaffected except possible smoke; White Crack faces the fire direction, so check smoke forecasts before the Aug 10 descent.
+**Nights 19/20–20/21 (11–13 Aug) — Babylon fire reroute (v2, 2026-07-05)** — The [[babylon-fire]] has closed the Needles district and the whole Monticello Ranger District. **The entire Bears Ears section is now dropped by decision** — even with containment, firefighter traffic, burned forest, and residual closures are expected; this removes Elk Ridge / Horse Mountain, [[natural-bridges-nm]], and the northern Cedar Mesa crossing. Instead, Aug 12 runs: [[newspaper-rock]] **only if verified open**, then US-191 south → US-163 through Bluff → Mexican Hat area: [[navajo-rug]] (Raplee Anticline) and/or [[valley-of-the-gods]] (east entrance), optionally [[muley-point]] as an out-and-back up the Moki Dugway from the south (to be decided) → [[monument-valley]] for the night. Doing Valley of the Gods on Aug 12 also frees the Aug 13 morning for the drive to the Clarkdale train. Nizhoni CG (Abajo Mountains) is **confirmed inside the closure** — the entire Monticello Ranger District is closed and Needles permits are cancelled through July 31 (web check 2026-07-05: ~87,500 acres, 0% contained, growing north). Comb Wash CG (BLM) is the night 19/20 plan; verify it stays outside the closure. North of the Colorado — White Rim, Island in the Sky, Dead Horse Point — is unaffected except possible smoke; White Crack faces the fire direction, so check smoke forecasts before the Aug 10 descent.
 
 **Night 20/21 (12/13 Aug)** — Monument Valley. Depart by 08:00 on August 13 to reach Clarkdale for the 13:00 train. [[natural-bridges-nm]] on August 12 is optional — skip if the day is full.
 
@@ -101,7 +101,7 @@
 
 The train departs Clarkdale at **13:00** and returns at **17:00**. Clarkdale is ~25 minutes from [[sedona]] and ~30 minutes from Cottonwood.
 
-If camping at **Monument Valley** (night 12/13): depart 08:00 → [[valley-of-the-gods]] (45 min loop, skip or quick) → Monument Valley photos at sunrise → drive US-163 → US-160 → US-89 → Sedona route → Clarkdale. ~4.5 hours driving. Depart by 08:00 = arrive Clarkdale ~12:30. Tight but feasible.
+If camping at **Monument Valley** (night 12/13): depart 08:00 → Monument Valley photos at sunrise → drive US-163 → US-160 → US-89 → I-17 → AZ-260 → Clarkdale ([[valley-of-the-gods]] is now done on Aug 12, which relaxes this morning). ~4.5 hours driving. Depart by 08:00 = arrive Clarkdale ~12:30. Feasible with margin.
 
 If camping at **Muley Point** (night 12/13): ~6 hours to Clarkdale. Must depart by 06:30. Very early start; not recommended.
 

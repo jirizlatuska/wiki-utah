@@ -2,11 +2,13 @@
 
 **Summary**: A remote Cedar Mesa rim overlook with a 1,000-foot drop to the San Juan River and sweeping views across Monument Valley, Bears Ears, and the Navajo Nation — arguably the finest viewpoint in Utah.
 
-**Sources**: `raw/Directions from BLM 0095, Hanksville...to Muley Point East.kmz`, `raw/Directions from Muley Point...to Phoenix Sky Harbor.kmz`
+**Sources**: `raw/Directions from BLM 0095, Hanksville...to Muley Point East.kmz`, `raw/Directions from Muley Point...to Phoenix Sky Harbor.kmz`; user decision 2026-07-05.
 
-**Last updated**: 2026-05-19.
+**Last updated**: 2026-07-05.
 
 ---
+
+⚠️ **Status change (2026-07-05)**: with the Bears Ears section dropped due to the [[babylon-fire]], the original northern approach (UT-95 → UT-261 across Cedar Mesa) is out. Muley Point is now an **optional out-and-back from the south**: from the [[valley-of-the-gods]] west entrance, up the Moki Dugway on UT-261 to the turnoff — a route that touches no burned or fire-trafficked country. Whether to keep it is **to be decided** (source: user decision 2026-07-05).
 
 ## Overview
 

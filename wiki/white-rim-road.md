@@ -8,7 +8,7 @@
 
 ---
 
-⚠️ **Babylon fire note**: the [[babylon-fire]] burns south of the Colorado River (Needles side) and does not threaten the White Rim itself — the river canyon separates them and only the Needles district is closed (web check 2026-07-05). The realistic impact is **smoke**: White Crack looks directly toward the confluence and the fire area, so check smoke forecasts before the Aug 10 descent.
+⚠️ **Babylon fire note**: the [[babylon-fire]] burns south of the Colorado River (Needles side) and does not threaten the White Rim itself — the river canyon separates them and only the Needles district is closed (web check 2026-07-05). The realistic impact is **smoke, and it is a visibility issue, not a safety issue**: at 40+ miles from the fire, expect at worst hazy long-distance views and a smoky smell at White Crack, not anything threatening breathing or survival. On a bad smoke-drift day air quality could be unpleasant (relevant mainly for the 7-year-old overnight), so check a smoke/AQ forecast before the Aug 10 descent — but this is a comfort call, not a go/no-go one.
 
 ## Overview
 

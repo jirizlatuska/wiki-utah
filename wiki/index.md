@@ -80,9 +80,10 @@
 |------|-------------|
 | [[green-river-overlook]] | Island in the Sky rim viewpoint over the White Rim and Green River; time-permitting stop on Aug 8 transit |
 | [[white-rim-road]] | Permit-required 100-mile Canyonlands 4WD route via Shafer Trail |
-| [[newspaper-rock]] | Dense petroglyph panel on UT-211; free roadside stop on exit day from White Rim |
-| [[natural-bridges-nm]] | Three natural bridges; first U.S. Dark Sky Park |
-| [[muley-point]] | Cedar Mesa rim overlook with sweeping views to Monument Valley |
+| [[newspaper-rock]] | Dense petroglyph panel on UT-211; only if verified open ([[babylon-fire]]) |
+| [[natural-bridges-nm]] | Three natural bridges; first U.S. Dark Sky Park — dropped with the Bears Ears section |
+| [[muley-point]] | Cedar Mesa rim overlook — now optional out-and-back via Moki Dugway from the south |
+| [[navajo-rug]] | Raplee Anticline near Mexican Hat; Aug 12 replacement stop on US-163 |
 
 ---
 

@@ -114,10 +114,11 @@ Three stops require advance permits — see [[permits]] for booking details.
 | Mineral Bottom Switchbacks | Dramatic descent to Green River |
 | [[newspaper-rock]] | Dense petroglyph panel on UT-211; free roadside stop on exit day — **if open** during [[babylon-fire]] closure |
 | ~~Horse Mountain~~ | ~~High point between Canyonlands and Natural Bridges~~ **Dropped** — Elk Ridge crossing blocked by [[babylon-fire]] closure (source: user update 2026-07-05) |
-| [[natural-bridges-nm]] | Three natural bridges; first U.S. Dark Sky Park; reached via US-191 → UT-95 reroute |
-| [[muley-point]] | Cedar Mesa rim; 1,000-ft drop to the San Juan; via UT-261, turnoff at top of Moki Dugway |
+| ~~[[natural-bridges-nm]]~~ | **Dropped** with the Bears Ears section — [[babylon-fire]] aftermath: firefighter traffic, burned forest (source: user decision 2026-07-05) |
+| [[muley-point]] | Now **optional**: out-and-back from the south via Moki Dugway from [[valley-of-the-gods]] west entrance — to be decided |
+| [[navajo-rug]] | Raplee Anticline near Mexican Hat — replacement stop on US-163 (needs user confirmation of identification) |
 
-**Fire reroute (Aug 12)**: due to the [[babylon-fire]] south of the Needles district, Leg 5 now returns from Newspaper Rock to US-191 and follows Monticello → Blanding → UT-95 → UT-261 to Muley Point, then continues as previously planned (source: user update 2026-07-05).
+**Fire reroute v2 (Aug 12)**: the entire Bears Ears section is dropped — even if the [[babylon-fire]] is contained, firefighter traffic and burned forest are expected. Leg 5 now runs Newspaper Rock (if open) → US-191 → US-163 via Bluff → [[navajo-rug]] and/or [[valley-of-the-gods]] → [[monument-valley]] (source: user decision 2026-07-05).
 
 ---
 
@@ -128,7 +129,7 @@ Three stops require advance permits — see [[permits]] for booking details.
 
 | Stop | Notes |
 |------|-------|
-| [[valley-of-the-gods]] | 17-mile dirt loop through sandstone buttes; free BLM |
+| [[valley-of-the-gods]] | 17-mile dirt loop through sandstone buttes; free BLM — **moved to Aug 12** (Leg 5 reroute) |
 | [[monument-valley]] | Navajo Nation Tribal Park; entry fee |
 | [[grand-canyon-desert-view]] | South Rim east entrance; Watchtower overlook |
 | [[sedona]] | Red rock town; galleries, hiking — 🔥 conditional: skip if [[pocket-fire]] affects the area |

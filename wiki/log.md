@@ -280,3 +280,18 @@ Sunset Crater Volcano NM and Wupatki NM share a 36-mile paved loop off US-89 nor
 - Henry Mountains: watch item added — nothing burning there so far, but extreme dryness; check fire news and campfire restrictions before Aug 6–8
 
 **Pages updated**: `wiki/babylon-fire.md` (verified status, assessment, impact table, watch item), `wiki/schedule.md`, `wiki/newspaper-rock.md`, `wiki/white-rim-road.md`, `wiki/henry-mountains.md`
+
+---
+
+## 2026-07-05 — Bears Ears section dropped entirely; Mexican Hat area replaces it; White Crack smoke calibrated
+
+**Source**: user decision 2026-07-05
+
+- **Bears Ears section is out of the question** even with containment — firefighter traffic, burned forest, residual closures expected. Removes Natural Bridges NM and the northern Cedar Mesa crossing (Elk Ridge was already dropped).
+- **Aug 12 v2**: Newspaper Rock (only if verified open) → US-191 → US-163 via Bluff → Navajo Rug (Raplee Anticline) and/or Valley of the Gods (east entrance) → Monument Valley. Muley Point survives as an optional out-and-back from the south via Moki Dugway — to be decided.
+- Side benefit: Valley of the Gods moves from the tight Aug 13 morning to Aug 12, relaxing the drive to the Clarkdale train.
+- **White Crack smoke calibrated**: visibility/haze issue at 40+ miles from the fire, not a survival/breathing threat; worst case an unpleasant night (relevant for the 7-year-old) — comfort call, not go/no-go.
+
+**Pages created**: `wiki/navajo-rug.md` — interpretation of the user's "Navajo carpet area" as the Raplee Anticline near Mexican Hat; NEEDS USER CONFIRMATION
+
+**Pages updated**: `wiki/babylon-fire.md` (impact table, reroute v2, smoke assessment), `wiki/schedule.md` (rows 20/21 and 21/22, planning note, Aug 13 timing note), `wiki/itinerary.md` (Leg 5/6), `wiki/valley-of-the-gods.md`, `wiki/muley-point.md`, `wiki/natural-bridges-nm.md`, `wiki/white-rim-road.md`, `wiki/index.md`

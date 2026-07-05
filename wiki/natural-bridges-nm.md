@@ -29,7 +29,7 @@ An 8.6-mile loop trail connects all three bridges with canyon hikes and ladders 
 
 ## On this trip
 
-Natural Bridges is on the route between the White Rim Road exit (Mineral Bottom) and Muley Point on August 12. Under the [[babylon-fire]] reroute it is reached via US-191 → UT-95 → UT-275 rather than over Elk Ridge, and is believed unaffected by the closure (needs verification). It is **optional** — skip if the day is running late. The monument is worth a stop if time allows (Owachomo Bridge is the shortest descent). See [[schedule]] for timing context.
+**Dropped from the plan (2026-07-05)**: Natural Bridges fell with the rest of the Bears Ears section under the [[babylon-fire]] reroute v2 — even if the fire is contained by mid-August, firefighter traffic, burned forest, and residual closures make the UT-95 corridor unattractive. Aug 12 now goes via US-163 and the Mexican Hat area instead (source: user decision 2026-07-05). The page is kept for reference and for any future trip. The monument is worth a stop if time allows (Owachomo Bridge is the shortest descent). See [[schedule]] for timing context.
 
 ## For kids
 

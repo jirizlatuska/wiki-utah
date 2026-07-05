@@ -28,7 +28,7 @@ Per Moab Sun News / KUTV / Fox13 / ABC4 / Salt Lake Tribune, checked 2026-07-05:
 The user's assumption (2026-07-05): the fire should not cross the Colorado River, so everything north of it should be unaffected except perhaps smoke. This looks right:
 
 - [[white-rim-road]], Island in the Sky, [[green-river-overlook]], and Dead Horse Point SP all lie **north-west of the Colorado's canyon** — a major natural firebreak between them and the fire. The NPS closure covers **only the Needles district**; no Island in the Sky or White Rim closures were found (web check 2026-07-05)
-- **Smoke is the realistic risk**: White Crack camp (night 18/19) sits at the southern tip of the White Rim looking directly toward the confluence and the Needles — with the fire uncontained, southerly winds could bring smoke and haze to exactly that viewpoint. No action needed, but check smoke forecasts before the Aug 10 descent (needs verification at trip time)
+- **Smoke is the realistic risk — and it is a viewing problem, not a safety problem**: White Crack camp (night 18/19) sits at the southern tip of the White Rim looking directly toward the confluence and the Needles. The fire is ~40+ miles away across the river canyon; at that distance smoke means haze that flattens the long views and perhaps a smoky smell — not anything threatening survival or breathing. The only caveat: on a bad day (dense smoke drift, overnight inversion settling into the canyons) air quality could reach "unhealthy for sensitive groups" levels, which for a 7-year-old would mean an unpleasant night rather than a dangerous one. If the forecast looks bad, it is a comfort decision, not an evacuation-grade concern (assessment 2026-07-05; check a smoke/AQ forecast before the Aug 10 descent)
 
 ## Impact on the plan
 
@@ -37,11 +37,17 @@ The user's assumption (2026-07-05): the fire should not cross the Colorado River
 | Elk Ridge / Horse Mountain crossing (Leg 5 KMZ route) | **Dropped** — inside/behind the closure |
 | [[newspaper-rock]] (UT-211) | **Genuinely uncertain** — the closure boundary now reaches Highway 211 itself and the fire is growing north. Keep only if verified open at trip time; be ready to drop it without regret |
 | Nizhoni CG (night 19/20 option, Abajo Mountains) | **Confirmed inside the closure** (entire Monticello Ranger District closed — web check 2026-07-05). Use Comb Wash CG (BLM) instead — believed outside the FS closure, but verify whether the closure extends to BLM lands south of UT-211 |
-| [[natural-bridges-nm]], [[muley-point]], [[valley-of-the-gods]], [[monument-valley]] | Unaffected — all reached from the highway reroute (needs verification of any closure extension) |
+| **Entire Bears Ears section** (UT-95 corridor, [[natural-bridges-nm]], Cedar Mesa crossing via UT-261 from the north) | **Dropped by decision (2026-07-05)** — even if the fire is contained by mid-August, firefighter traffic, burned forest, and residual closures make it unattractive. Replaced by the Mexican Hat area (below) |
+| [[valley-of-the-gods]], [[navajo-rug]] (Mexican Hat area), [[monument-valley]] | **New Aug 12 plan** — reached entirely via US-191 → US-163 through Bluff; no forest, fully clear of the fire area |
+| [[muley-point]] | **Open variant**: reachable from the *south* via UT-261 up the Moki Dugway from the Valley of the Gods west entrance — an out-and-back that touches no burned country. Keep as time-permitting option, or drop with the rest of the Bears Ears section — user to decide |
 
-## Reroute (Aug 12)
+## Reroute (Aug 12) — revised 2026-07-05
 
-After [[newspaper-rock]], return east to US-191 and go south through Monticello and Blanding; west on UT-95; optional side trip UT-275 to [[natural-bridges-nm]]; then **UT-261 south across Cedar Mesa** to the [[muley-point]] turnoff at the top of the Moki Dugway. From there, proceed as previously planned (Moki Dugway descent, [[valley-of-the-gods]], [[monument-valley]]). Newspaper Rock → Muley Point via this routing is roughly 105 miles / 2–2.5 hours (needs verification).
+~~First version: US-191 → UT-95 → Natural Bridges → UT-261 across Cedar Mesa to Muley Point.~~ **Superseded** — the whole Bears Ears section is out of the question even if the fire is contained: firefighter traffic, burned forest, and residual restrictions are expected to linger (source: user decision 2026-07-05).
+
+**Current plan**: after [[newspaper-rock]] (only if verified open), stay on **US-191 south, then US-163 through Bluff to the Mexican Hat area**: the [[navajo-rug]] (Raplee Anticline) along the San Juan and/or the [[valley-of-the-gods]] loop (entered from the US-163 east entrance), then on to [[monument-valley]] for night 20/21. Entirely highway + open BLM desert; no fire-area exposure. Optional variant: [[muley-point]] as an out-and-back from the Valley of the Gods west entrance via the Moki Dugway (UT-261 from the south) — to be decided.
+
+Side benefit: with [[valley-of-the-gods]] done on Aug 12, the Aug 13 morning frees up — depart Monument Valley straight for the Clarkdale train without the previously planned quick VotG loop.
 
 ## Before the trip
 
