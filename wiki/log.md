@@ -306,3 +306,15 @@ Sunset Crater Volcano NM and Wupatki NM share a 36-mile paved loop off US-89 nor
 - Decision rule recorded: go/no-go decided on arrival on Aug 12, based on cloud/smoke coverage over Cedar Mesa as visible from the Valley of the Gods floor.
 
 **Pages updated**: `wiki/muley-point.md`, `wiki/babylon-fire.md` (impact table), `wiki/schedule.md`, `wiki/itinerary.md`, `wiki/valley-of-the-gods.md`, `wiki/index.md`
+
+---
+
+## 2026-07-05 — Action items page; printable PDF working copy
+
+**Pages created**:
+- `wiki/action-items.md` — outstanding reservations (Tucson motel + address, Christopher Creek CG, Verde Canyon RR tickets, Orange Cliffs decision), confirmations to print, fire checks with when/where, and decisions deliberately left for the road
+
+**Artifacts**:
+- `brochure/utah-trip-working-copy-2026-07-05.pdf` — single printable PDF of the whole wiki in semi-chronological order: planning core (action items, schedule, itinerary, permits, both fires, kids), then Legs 1–6 in trip order, appendix with the Časový rozvrh summary. Generated from wiki md via headless Chromium.
+
+**Pages updated**: `wiki/index.md` (added action-items)
