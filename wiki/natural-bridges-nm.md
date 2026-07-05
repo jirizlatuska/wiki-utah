@@ -2,9 +2,9 @@
 
 **Summary**: The first U.S. Dark Sky Park, featuring three massive natural bridges carved from white Cedar Mesa Sandstone in a canyon system in southeastern Utah.
 
-**Sources**: `raw/Directions from BLM 0095, Hanksville...to Muley Point East.kmz`
+**Sources**: `raw/Directions from BLM 0095, Hanksville...to Muley Point East.kmz`; user update 2026-07-05 (fire reroute).
 
-**Last updated**: 2026-05-19.
+**Last updated**: 2026-07-05.
 
 ---
 
@@ -29,7 +29,7 @@ An 8.6-mile loop trail connects all three bridges with canyon hikes and ladders 
 
 ## On this trip
 
-Natural Bridges is on the route between the White Rim Road exit (Mineral Bottom) and Muley Point on August 12. It is **optional** — skip if the day is running late. The monument is worth a stop if time allows (Owachomo Bridge is the shortest descent). See [[schedule]] for timing context.
+Natural Bridges is on the route between the White Rim Road exit (Mineral Bottom) and Muley Point on August 12. Under the [[babylon-fire]] reroute it is reached via US-191 → UT-95 → UT-275 rather than over Elk Ridge, and is believed unaffected by the closure (needs verification). It is **optional** — skip if the day is running late. The monument is worth a stop if time allows (Owachomo Bridge is the shortest descent). See [[schedule]] for timing context.
 
 ## For kids
 

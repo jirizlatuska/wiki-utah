@@ -204,3 +204,21 @@ Sunset Crater Volcano NM and Wupatki NM share a 36-mile paved loop off US-89 nor
 - `wiki/index.md` — added both new pages
 
 **Open items**: confirm Tucson motel + street address; verify BLM 15000 road number, Dirty Devil ford conditions, Flint Trail status, and Orange Cliffs permit rules if the loop becomes a firm plan.
+
+---
+
+## 2026-07-05 — Babylon fire reroute (Aug 11–13)
+
+**Source**: user update 2026-07-05 — Babylon fire burning south of the Needles district; area closed until end of July 2026, and reopening by Aug 12/13 cannot be assumed.
+
+**Pages created**:
+- `wiki/babylon-fire.md` — situation, impact table, reroute, and pre-trip checks
+
+**Pages updated**:
+- `wiki/schedule.md` — rows 19/20 and 20/21: dropped the Elk Ridge / Bears Ears crossing; Newspaper Rock "if open"; reroute US-191 → Monticello → Blanding → UT-95 → UT-261 → Muley Point, then as previously planned. Comb Wash CG now preferred for night 19/20 (Nizhoni CG possibly inside the closure). New planning note.
+- `wiki/itinerary.md` — Leg 5: Horse Mountain row struck through as dropped; reroute note added
+- `wiki/newspaper-rock.md` — fire caveat: check status before driving in on UT-211
+- `wiki/natural-bridges-nm.md` — noted it is reached via the highway reroute, believed unaffected
+- `wiki/index.md` — added babylon-fire to core pages
+
+**Open items**: verify closure boundary and Newspaper Rock access closer to the trip (InciWeb / BLM Monticello); confirm Comb Wash vs Nizhoni for night 19/20.

@@ -112,10 +112,12 @@ Three stops require advance permits — see [[permits]] for booking details.
 | [[white-rim-road]] via Shafer Trail | **Permit required** — Canyonlands backcountry |
 | White Crack | Mid-road camp and viewpoint |
 | Mineral Bottom Switchbacks | Dramatic descent to Green River |
-| [[newspaper-rock]] | Dense petroglyph panel on UT-211; free roadside stop on exit day |
-| Horse Mountain | High point between Canyonlands and Natural Bridges |
-| [[natural-bridges-nm]] | Three natural bridges; first U.S. Dark Sky Park |
-| [[muley-point]] | Cedar Mesa rim; 1,000-ft drop to the San Juan |
+| [[newspaper-rock]] | Dense petroglyph panel on UT-211; free roadside stop on exit day — **if open** during [[babylon-fire]] closure |
+| ~~Horse Mountain~~ | ~~High point between Canyonlands and Natural Bridges~~ **Dropped** — Elk Ridge crossing blocked by [[babylon-fire]] closure (source: user update 2026-07-05) |
+| [[natural-bridges-nm]] | Three natural bridges; first U.S. Dark Sky Park; reached via US-191 → UT-95 reroute |
+| [[muley-point]] | Cedar Mesa rim; 1,000-ft drop to the San Juan; via UT-261, turnoff at top of Moki Dugway |
+
+**Fire reroute (Aug 12)**: due to the [[babylon-fire]] south of the Needles district, Leg 5 now returns from Newspaper Rock to US-191 and follows Monticello → Blanding → UT-95 → UT-261 to Muley Point, then continues as previously planned (source: user update 2026-07-05).
 
 ---
 

@@ -2,9 +2,9 @@
 
 **Summary**: A roadside sandstone panel covered in over 650 petroglyphs carved by multiple cultures over roughly 2,000 years; one of the densest and most accessible petroglyph sites in the American Southwest.
 
-**Sources**: `raw/Directions from BLM 0095, Hanksville...to Muley Point East.kmz` (route context); general knowledge.
+**Sources**: `raw/Directions from BLM 0095, Hanksville...to Muley Point East.kmz` (route context); user update 2026-07-05 (fire caveat); general knowledge.
 
-**Last updated**: 2026-05-21.
+**Last updated**: 2026-07-05.
 
 ---
 
@@ -26,6 +26,8 @@ The site is managed by the BLM and is free to visit. A short paved path leads fr
 ## On this trip
 
 Newspaper Rock falls naturally on the August 11 drive south after exiting [[white-rim-road]] at Mineral Bottom. The route goes east on UT-313 to US-191, then south, then turns west on UT-211 to Newspaper Rock before returning to US-191 and continuing south toward [[natural-bridges-nm]] and [[muley-point]]. It adds roughly 25 miles and 30 minutes to the day (needs verification).
+
+⚠️ **Babylon fire caveat**: the [[babylon-fire]] is burning south of the Needles district with an area closure until end of July 2026. Newspaper Rock sits near the mouth of UT-211 and is likely outside the closure, but **check current status before driving in** — visit only if still accessible (source: user update 2026-07-05).
 
 See [[schedule]] for the day-by-day context.
 
