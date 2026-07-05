@@ -2,11 +2,13 @@
 
 **Summary**: A 100-mile dirt road circling the Island in the Sky mesa in Canyonlands National Park at the White Rim sandstone bench, approximately 1,200 feet above the Colorado and Green rivers; permit required for overnight use.
 
-**Sources**: `raw/Directions from BLM 0095, Hanksville...to Muley Point East.kmz`
+**Sources**: `raw/Directions from BLM 0095, Hanksville...to Muley Point East.kmz`; user update + web check 2026-07-05 (Babylon fire).
 
-**Last updated**: 2026-05-19.
+**Last updated**: 2026-07-05.
 
 ---
+
+⚠️ **Babylon fire note**: the [[babylon-fire]] burns south of the Colorado River (Needles side) and does not threaten the White Rim itself — the river canyon separates them and only the Needles district is closed (web check 2026-07-05). The realistic impact is **smoke**: White Crack looks directly toward the confluence and the fire area, so check smoke forecasts before the Aug 10 descent.
 
 ## Overview
 

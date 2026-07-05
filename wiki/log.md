@@ -265,3 +265,18 @@ Sunset Crater Volcano NM and Wupatki NM share a 36-mile paved loop off US-89 nor
 - Train decision unchanged: confirm with the railroad shortly before Aug 13; fallback (skip Sedona + train, Desert View on Aug 13) stands
 
 **Pages updated**: `wiki/pocket-fire.md` (southward-spread note; decision tree reworded), `wiki/sedona.md` (banner strengthened), `wiki/schedule.md` (Aug 13 note)
+
+---
+
+## 2026-07-05 — Babylon fire: verified status; north-of-Colorado assessment; Henry Mtns fire watch
+
+**Sources**: user update 2026-07-05; web check 2026-07-05 (Moab Sun News, KUTV, Fox13, ABC4, SL Tribune)
+
+- Fire is far larger than first noted: ~87,500 acres, 0% contained, among the largest in the nation; growing north
+- Needles district closed; all Needles permits/reservations cancelled through July 31
+- Entire Monticello Ranger District closed ("all federal lands south of Highway 211") → **Nizhoni CG confirmed closed**; Comb Wash CG is the night 19/20 plan (verify it stays outside the closure)
+- Newspaper Rock downgraded to "genuinely uncertain" — closure boundary reaches UT-211 and fire is moving north
+- North of the Colorado (White Rim, Island in the Sky, Dead Horse Point): user's assumption confirmed — river canyon is the firebreak, no closures found; realistic risk is smoke, especially at White Crack which faces the fire direction
+- Henry Mountains: watch item added — nothing burning there so far, but extreme dryness; check fire news and campfire restrictions before Aug 6–8
+
+**Pages updated**: `wiki/babylon-fire.md` (verified status, assessment, impact table, watch item), `wiki/schedule.md`, `wiki/newspaper-rock.md`, `wiki/white-rim-road.md`, `wiki/henry-mountains.md`

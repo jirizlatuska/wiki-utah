@@ -27,7 +27,7 @@ The site is managed by the BLM and is free to visit. A short paved path leads fr
 
 Newspaper Rock falls naturally on the August 11 drive south after exiting [[white-rim-road]] at Mineral Bottom. The route goes east on UT-313 to US-191, then south, then turns west on UT-211 to Newspaper Rock before returning to US-191 and continuing south toward [[natural-bridges-nm]] and [[muley-point]]. It adds roughly 25 miles and 30 minutes to the day (needs verification).
 
-⚠️ **Babylon fire caveat**: the [[babylon-fire]] is burning south of the Needles district with an area closure until end of July 2026. Newspaper Rock sits near the mouth of UT-211 and is likely outside the closure, but **check current status before driving in** — visit only if still accessible (source: user update 2026-07-05).
+⚠️ **Babylon fire caveat**: the [[babylon-fire]] (~87,500 acres, 0% contained as of 2026-07-05) has closed the Needles district and the entire Monticello Ranger District, with the closure boundary reported as reaching Highway 211 — and the fire is growing north. Newspaper Rock's accessibility in mid-August is **genuinely uncertain**: visit only if verified open at trip time, and be ready to drop the stop without regret (source: user update 2026-07-05; web check 2026-07-05).
 
 See [[schedule]] for the day-by-day context.
 

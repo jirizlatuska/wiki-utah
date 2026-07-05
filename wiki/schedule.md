@@ -40,7 +40,7 @@
 | 16/17 | 8–9. 8. | So | 4→5 | ✅ Dead Horse Point SP | [[green-river-overlook]] (time permitting); transit from Henry Mountains (~4 h); stage for White Rim |
 | 17/18 | 9–10. 8. | Ne | 5 | ✅ Dead Horse Point SP | Rest day; Shafer Trail viewpoint from above |
 | 18/19 | 10–11. 8. | Po | 5 | ✅ White Crack Campground | ⚠️ **White Rim permit** — Shafer Trail descent |
-| 19/20 | 11–12. 8. | Út | 5 | ❓ Comb Wash CG preferred; Nizhoni CG possibly in [[babylon-fire]] closure | ⚠️ **White Rim permit** — Mineral Bottom exit; [[newspaper-rock]] (UT-211) **if open**; back to US-191, drive south |
+| 19/20 | 11–12. 8. | Út | 5 | ❓ Comb Wash CG (Nizhoni CG **confirmed closed** — [[babylon-fire]]) | ⚠️ **White Rim permit** — Mineral Bottom exit; [[newspaper-rock]] (UT-211) **only if verified open**; back to US-191, drive south |
 | 20/21 | 12–13. 8. | St | 5→6 | ✅ Monument Valley (The View / Navajo CG) | 🔥 [[babylon-fire]] reroute: US-191 → UT-95 → UT-261; [[natural-bridges-nm]] if time; [[muley-point]]; depart early for train |
 | 21/22 | 13–14. 8. | Čt | 6 | ❓ Surprise camping OR Blackhawk Loop CG | [[valley-of-the-gods]]; [[monument-valley]]; [[verde-canyon-railroad]] 13:00–17:00 — 🔥 **at risk from [[pocket-fire]]**; if affected, skip Sedona + train |
 | 22/23 | 14–15. 8. | Pá | 6 | ✅ Twin Peaks Campground (Organ Pipe NM) | [[grand-canyon-desert-view]]; [[sedona]] (🔥 conditional on [[pocket-fire]]); drive south |
@@ -61,7 +61,7 @@
 
 **Nights 16/17 and 17/18 (8–10 Aug)** — Two nights at Dead Horse Point State Park. Drive from Henry Mountains on August 8 (~4 hours). Night 9/10 is a rest day with a view of the Shafer Trail rim from above, before descending on August 10.
 
-**Nights 19/20–20/21 (11–13 Aug) — Babylon fire reroute** — The [[babylon-fire]] is burning south of the Needles district with an area closure until end of July 2026; assuming it reopens by Aug 12/13 is not a good bet (source: user update 2026-07-05). The Leg 5 KMZ crossing over Elk Ridge / Horse Mountain toward Natural Bridges is dropped. Instead: [[newspaper-rock]] **if still accessible**, then return to US-191, south through Monticello and Blanding, UT-95 west, and UT-261 south to [[muley-point]] (turnoff at the top of the Moki Dugway) — then proceed as previously planned. Nizhoni CG (Abajo Mountains) may be inside the closure; Comb Wash CG is the safer night 19/20 option (needs verification).
+**Nights 19/20–20/21 (11–13 Aug) — Babylon fire reroute** — The [[babylon-fire]] is burning south of the Needles district with an area closure until end of July 2026; assuming it reopens by Aug 12/13 is not a good bet (source: user update 2026-07-05). The Leg 5 KMZ crossing over Elk Ridge / Horse Mountain toward Natural Bridges is dropped. Instead: [[newspaper-rock]] **if still accessible**, then return to US-191, south through Monticello and Blanding, UT-95 west, and UT-261 south to [[muley-point]] (turnoff at the top of the Moki Dugway) — then proceed as previously planned. Nizhoni CG (Abajo Mountains) is **confirmed inside the closure** — the entire Monticello Ranger District is closed and Needles permits are cancelled through July 31 (web check 2026-07-05: ~87,500 acres, 0% contained, growing north). Comb Wash CG (BLM) is the night 19/20 plan; verify it stays outside the closure. North of the Colorado — White Rim, Island in the Sky, Dead Horse Point — is unaffected except possible smoke; White Crack faces the fire direction, so check smoke forecasts before the Aug 10 descent.
 
 **Night 20/21 (12/13 Aug)** — Monument Valley. Depart by 08:00 on August 13 to reach Clarkdale for the 13:00 train. [[natural-bridges-nm]] on August 12 is optional — skip if the day is full.
 
@@ -87,7 +87,7 @@
 | 3 | 30. 7.–3. 8. | 5 | Stateline ✅ · Alstrom ❓ · Smokey Mtn ❓ · Capitol Reef ❓ · Goblin Valley ✅ |
 | 4 | 3–8. 8. | 5 | Goblin Valley ✅ · Moonscape ❓ · Cathedral Valley ✅ · Henrys ×2 ✅ · alt: [[orange-cliffs-loop]] |
 | 4→5 | 8–10. 8. | 2 | Dead Horse Point SP ✅ ×2 |
-| 5 | 10–12. 8. | 3 | White Crack ✅ · Comb Wash ❓ (Nizhoni possibly closed — [[babylon-fire]]) · Monument Valley ✅ |
+| 5 | 10–12. 8. | 3 | White Crack ✅ · Comb Wash ❓ (Nizhoni confirmed closed — [[babylon-fire]]) · Monument Valley ✅ |
 | 6 | 13–15. 8. | 3 | Surprise/Blackhawk ❓ · Twin Peaks ✅ · Hilton PHX ✅ |
 
 **Total nights**: 24 (July 23 to August 15 inclusive)

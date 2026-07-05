@@ -2,11 +2,13 @@
 
 **Summary**: An isolated laccolith mountain range rising over 11,000 feet from the surrounding Colorado Plateau, home to one of the last free-roaming bison herds in the U.S.; the last mountain range in the lower 48 states to be mapped.
 
-**Sources**: `raw/Directions from Goblin Valley State Park...to Mt. Pennell Lookout.kmz`
+**Sources**: `raw/Directions from Goblin Valley State Park...to Mt. Pennell Lookout.kmz`; user update 2026-07-05 (fire watch).
 
-**Last updated**: 2026-05-19.
+**Last updated**: 2026-07-05.
 
 ---
+
+⚠️ **Fire watch (2026 season)**: conditions in the region are extremely dry ([[babylon-fire]] and [[pocket-fire]] both burning as of early July). Nothing has happened in the Henry Mountains so far, but new fire starts are possible given the dryness (source: user update 2026-07-05). Before the Aug 6–8 camps at McMillan Spring, check BLM Utah fire news and current fire restrictions — campfire bans are likely (needs verification).
 
 ## Overview
 
