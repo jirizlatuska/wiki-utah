@@ -241,3 +241,16 @@ Sunset Crater Volcano NM and Wupatki NM share a 36-mile paved loop off US-89 nor
 - `wiki/index.md` — added pocket-fire to core pages
 
 **Open items**: verify railroad operating status and smoke conditions shortly before Aug 13; decide Aug 13–14 fallback shape only once train status is known.
+
+---
+
+## 2026-07-05 — Pocket fire: verified status added from web check
+
+**Source**: web search 2026-07-05 (ein.az.gov, Coconino NF, visitsedona.com, verdecanyonrr.com)
+
+- Fire is ~7 mi north of Sedona in Red Rock–Secret Mountain Wilderness; ~25,160 acres, 31% contained
+- Oak Creek Canyon in SET status; SR-89A closed to non-local traffic between Sedona and I-17
+- Fire is on the opposite side of Sedona from Clarkdale; railroad's 2026 schedule still published, no closure found, but no explicit confirmation either — confirm with railroad before Aug 13
+- Routing implication recorded: approach Clarkdale via I-17 → AZ-260 (Camp Verde) → Cottonwood, not via Oak Creek Canyon
+
+**Pages updated**: `wiki/pocket-fire.md` (new "Verified status" section), `wiki/schedule.md` (Aug 13 timing note)
