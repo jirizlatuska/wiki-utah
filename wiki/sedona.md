@@ -8,7 +8,7 @@
 
 ---
 
-⚠️ **Pocket fire**: the [[pocket-fire]] is burning in the Sedona area (as of July 2026) and is expected to last months, until the monsoon rains. The Sedona visit is now **conditional** — if the area or the [[verde-canyon-railroad]] is affected, the plan is presumably to skip Sedona entirely (source: user update 2026-07-05).
+⚠️ **Pocket fire**: the [[pocket-fire]] is burning ~7 mi north of Sedona (as of July 2026) and is expected to last months, until the monsoon rains. Firefighters reportedly expect the fire to move **south, toward the Sedona surroundings** (source: user update 2026-07-05, citing media). The Sedona visit is now **doubtful**: SR-89A / Oak Creek Canyon — the scenic approach that is much of the reason to come — is closed, and smoke may reach the town area. If either the town or the [[verde-canyon-railroad]] is affected, the plan is presumably to skip Sedona entirely (source: user update 2026-07-05).
 
 ## Overview
 

@@ -13,6 +13,7 @@
 - Fire is burning in the [[sedona]] area; estimated to last **months** — likely until monsoon rains stop it (source: user update 2026-07-05)
 - It is **unclear whether the Verde Canyon Railroad ride (Aug 13) is affected**. The hope is that the railroad canyon is not affected and is actually outside the smoke area, but this is not known (source: user update 2026-07-05)
 - Geography in our favor: the train runs from Clarkdale **northwest into Verde Canyon toward Perkinsville** — a different canyon from Oak Creek/Sedona, on the far side of the Verde Valley (~20 miles west of Sedona). Being outside the burn area is plausible, but valley smoke could still matter (needs verification)
+- ⚠️ **Southward spread expected**: media report that firefighters presume the fire will move **toward the south** — i.e. toward the Sedona surroundings. This makes the Sedona visit itself more doubtful, and could eventually push smoke into the Verde Valley as well (source: user update 2026-07-05, citing media; needs verification against official spread projections)
 
 ## Verified status (web check, 2026-07-05)
 
@@ -29,7 +30,7 @@ Per AZ Emergency Information Network / Coconino NF (sources: ein.az.gov, fs.usda
 
 | Scenario | Plan |
 |----------|------|
-| Train running, air acceptable | Keep plan: depart Monument Valley 08:00, train 13:00–17:00 from Clarkdale; Sedona stop optional depending on smoke |
+| Train running, air acceptable | Keep the train: depart Monument Valley 08:00, train 13:00–17:00 from Clarkdale via the I-17 → AZ-260 → Cottonwood approach. The Sedona stop itself is a separate, weaker case: with SR-89A / Oak Creek Canyon closed, the scenic approach is gone — going via Sedona without 89A "would be a pity" but loses much of its point, and with the fire expected to move south toward Sedona's surroundings, the town visit is likely off regardless (source: user update 2026-07-05) |
 | Train cancelled or smoked out | **Skip Sedona and the train.** Aug 13 frees up ~5 hours — [[grand-canyon-desert-view]] then fits naturally on Aug 13 (currently flagged as hard to combine with the train), continuing south on Aug 14 toward [[organ-pipe-cactus-nm]] with time to spare (possibility, not decided) |
 
 ## Before the trip

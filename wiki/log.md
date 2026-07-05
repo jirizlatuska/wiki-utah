@@ -254,3 +254,14 @@ Sunset Crater Volcano NM and Wupatki NM share a 36-mile paved loop off US-89 nor
 - Routing implication recorded: approach Clarkdale via I-17 → AZ-260 (Camp Verde) → Cottonwood, not via Oak Creek Canyon
 
 **Pages updated**: `wiki/pocket-fire.md` (new "Verified status" section), `wiki/schedule.md` (Aug 13 timing note)
+
+---
+
+## 2026-07-05 — Pocket fire: southward spread expected; Sedona visit now doubtful
+
+**Source**: user update 2026-07-05 — media report firefighters presume the fire will move toward the south, i.e. toward Sedona's surroundings.
+
+- Sedona town stop is now doubtful in every scenario: the scenic 89A / Oak Creek Canyon approach is closed (much of the point of going via Sedona), and southward spread threatens the town area and could push smoke into the Verde Valley
+- Train decision unchanged: confirm with the railroad shortly before Aug 13; fallback (skip Sedona + train, Desert View on Aug 13) stands
+
+**Pages updated**: `wiki/pocket-fire.md` (southward-spread note; decision tree reworded), `wiki/sedona.md` (banner strengthened), `wiki/schedule.md` (Aug 13 note)

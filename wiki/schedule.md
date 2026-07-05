@@ -97,7 +97,7 @@
 
 ## August 13 timing note — Verde Canyon Railroad
 
-⚠️ **Pocket fire caveat**: the [[pocket-fire]] burns ~7 mi **north** of Sedona (31% contained as of 2026-07-05); Clarkdale is west, so the train is plausibly unaffected — but confirm with the railroad before the trip. **SR-89A through Oak Creek Canyon is closed**: approach Clarkdale via I-17 south → AZ-260 (Camp Verde) → Cottonwood instead. If the train is cancelled or the area is smoked out, skip Sedona and the train — Aug 13 then frees up and [[grand-canyon-desert-view]] fits naturally that day instead (source: user update 2026-07-05; web check 2026-07-05).
+⚠️ **Pocket fire caveat**: the [[pocket-fire]] burns ~7 mi **north** of Sedona (31% contained as of 2026-07-05); Clarkdale is west, so the train is plausibly unaffected — but confirm with the railroad before the trip. **SR-89A through Oak Creek Canyon is closed**: approach Clarkdale via I-17 south → AZ-260 (Camp Verde) → Cottonwood instead. If the train is cancelled or the area is smoked out, skip Sedona and the train — Aug 13 then frees up and [[grand-canyon-desert-view]] fits naturally that day instead. Note the Sedona town stop is doubtful in every scenario: the scenic 89A approach is closed and firefighters reportedly expect the fire to move south toward Sedona's surroundings (source: user update 2026-07-05; web check 2026-07-05).
 
 The train departs Clarkdale at **13:00** and returns at **17:00**. Clarkdale is ~25 minutes from [[sedona]] and ~30 minutes from Cottonwood.
 
