@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 980" font-family="DejaVu Sans, sans-serif">
+  <rect width="800" height="980" fill="#faf6f0"/>
+  <text x="12" y="24" font-size="15" font-weight="bold" fill="#333">Okruh z Phoenixu — 23. 7. až 16. 8. 2026</text>
+  <text x="12" y="42" font-size="10" fill="#886">SCHÉMA — polohy přibližné, neslouží k navigaci</text>
+
+  <!-- state line UT/AZ -->
+  <line x1="20" y1="285" x2="780" y2="285" stroke="#bbb" stroke-width="1.5" stroke-dasharray="8 4"/>
+  <text x="720" y="278" font-size="12" fill="#999" font-style="italic">UTAH</text>
+  <text x="700" y="302" font-size="12" fill="#999" font-style="italic">ARIZONA</text>
+
+  <!-- rivers -->
+  <path d="M 700 40 Q 690 70 688 92 Q 670 120 651 139 Q 600 200 520 250 Q 470 275 435 296 Q 420 303 416 307 Q 400 340 385 380 Q 370 400 350 420" fill="none" stroke="#7fb2d9" stroke-width="3" opacity="0.75"/>
+  <text x="694" y="60" font-size="9" fill="#5588aa" transform="rotate(70 694 60)">Colorado</text>
+  <path d="M 630 40 Q 645 90 651 139" fill="none" stroke="#8fc2e0" stroke-width="2.5" opacity="0.7"/>
+  <text x="612" y="70" font-size="9" fill="#5588aa">Green R.</text>
+  <path d="M 780 240 Q 720 245 688 251 Q 665 260 647 267 Q 560 290 470 293" fill="none" stroke="#8fc2e0" stroke-width="2" opacity="0.7"/>
+  <text x="735" y="238" font-size="9" fill="#5588aa">San Juan</text>
+
+  <!-- fire zones -->
+  <ellipse cx="655" cy="195" rx="42" ry="34" fill="#e25822" opacity="0.25" stroke="#c03a10" stroke-dasharray="4 3"/>
+  <text x="655" y="192" font-size="9" fill="#a03010" text-anchor="middle" font-weight="bold">🔥 Babylon</text>
+  <text x="655" y="203" font-size="8" fill="#a03010" text-anchor="middle">Fire</text>
+  <ellipse cx="401" cy="528" rx="18" ry="15" fill="#e25822" opacity="0.25" stroke="#c03a10" stroke-dasharray="4 3"/>
+  <text x="402" y="524" font-size="8" fill="#a03010" text-anchor="middle" font-weight="bold">🔥 Pocket</text>
+  <text x="402" y="534" font-size="8" fill="#a03010" text-anchor="middle">Fire</text>
+
+  <!-- route -->
+  <path d="M 358 721 L 502 868 L 426 724 L 477 694 L 455 625 L 495 527 L 433 486 L 467 392 L 492 405 L 467 392 L 416 307 L 380 291 L 363 285 L 298 279 L 272 281 L 345 209 L 368 221 L 363 285 L 420 190 L 443 174 L 536 117 L 537 92 L 452 105 L 524 150 L 536 117 L 663 103 L 660 130 L 663 103 L 692 163 L 688 251 L 647 267 L 630 256 L 647 267 L 615 288 L 596 318 L 443 424 L 389 403 L 443 424 L 413 506 L 387 585 L 359 559 L 387 585 L 358 721 L 270 865 L 253 905 L 270 865 L 420 903 L 358 721"
+        fill="none" stroke="#b5522a" stroke-width="2.8" opacity="0.85" stroke-linejoin="round"/>
+
+  <!-- dropped route -->
+  <path d="M 692 163 L 660 220 L 630 256" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="600" y="222" font-size="8" fill="#888">původní trasa</text>
+  <text x="600" y="232" font-size="8" fill="#888">(zrušeno – požár)</text>
+
+  <!-- stops -->
+  <g font-size="9.5" fill="#222">
+    <circle cx="358" cy="721" r="6" fill="#b5522a"/><text x="340" y="742" font-weight="bold">PHOENIX</text>
+    <circle cx="502" cy="868" r="4.5" fill="#333"/><text x="512" y="872">Tucson (1. noc)</text>
+    <circle cx="455" cy="625" r="4" fill="#333"/><text x="464" y="629">Mogollon Rim</text>
+    <circle cx="495" cy="527" r="4" fill="#333"/><text x="504" y="531">Meteor Crater</text>
+    <circle cx="433" cy="486" r="4" fill="#333"/><text x="352" y="479">Sunset Crater</text>
+    <circle cx="492" cy="405" r="4" fill="#333"/><text x="501" y="409">Coal Mine Canyon</text>
+    <circle cx="467" cy="392" r="4" fill="#333"/><text x="405" y="385">Tuba City</text>
+    <circle cx="416" cy="307" r="4" fill="#333"/><text x="424" y="320">Navajo Bridge</text>
+    <circle cx="380" cy="291" r="4" fill="#333"/><text x="388" y="298">White Pocket</text>
+    <circle cx="363" cy="285" r="4" fill="#333"/><text x="308" y="299">Stateline / CBS</text>
+    <circle cx="272" cy="281" r="4" fill="#333"/><text x="192" y="271">Coral Pink</text>
+    <circle cx="345" cy="209" r="4" fill="#333"/><text x="290" y="203">Bryce</text>
+    <circle cx="368" cy="221" r="4" fill="#333"/><text x="376" y="234">Kodachrome</text>
+    <circle cx="420" cy="190" r="4" fill="#333"/><text x="428" y="194">Escalante</text>
+    <circle cx="536" cy="117" r="4" fill="#333"/><text x="545" y="131">Hanksville</text>
+    <circle cx="537" cy="92" r="4" fill="#333"/><text x="546" y="90">Goblin Valley</text>
+    <circle cx="452" cy="105" r="4" fill="#333"/><text x="352" y="100">Cathedral Valley</text>
+    <circle cx="524" cy="150" r="4" fill="#333"/><text x="435" y="160">Henry Mtns</text>
+    <circle cx="663" cy="103" r="4" fill="#333"/><text x="672" y="99">Dead Horse Pt</text>
+    <circle cx="660" cy="130" r="4" fill="#333"/><text x="672" y="135">White Rim</text>
+    <circle cx="692" cy="163" r="4" fill="#333"/><text x="700" y="167">Newspaper Rock ?</text>
+    <circle cx="688" cy="251" r="4" fill="#333"/><text x="697" y="248">Bluff</text>
+    <circle cx="647" cy="267" r="4" fill="#333"/><text x="600" y="281">Mexican Hat</text>
+    <circle cx="630" cy="256" r="4" fill="#333"/><text x="540" y="252">Muley Pt ?</text>
+    <circle cx="615" cy="288" r="4" fill="#333"/><text x="622" y="302">Monument Valley</text>
+    <circle cx="389" cy="403" r="4" fill="#333"/><text x="292" y="399">Desert View</text>
+    <circle cx="359" cy="559" r="4" fill="#333"/><text x="268" y="556">Clarkdale 🚂</text>
+    <circle cx="253" cy="905" r="4" fill="#333"/><text x="165" y="922">Organ Pipe</text>
+    <circle cx="420" cy="903" r="4" fill="#333"/><text x="430" y="907">Kitt Peak</text>
+  </g>
+  <text x="12" y="965" font-size="9" fill="#666">— — dřívější trasa přes Bears Ears (vypuštěna kvůli Babylon Fire) · ? = podmíněné zastávky podle stavu požáru</text>
+</svg>

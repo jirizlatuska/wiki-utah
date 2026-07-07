@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="DejaVu Sans, sans-serif">
+  <rect width="800" height="420" fill="#faf6f0"/>
+  <text x="12" y="24" font-size="14" font-weight="bold" fill="#333">Lakolit: jak vznikly Henry Mountains (schéma)</text>
+
+  <!-- left: intrusion -->
+  <text x="90" y="55" font-size="11" font-weight="bold" fill="#555">1. Před ~25 miliony let</text>
+  <g>
+    <rect x="40" y="200" width="300" height="18" fill="#c8b25f"/>
+    <path d="M 40 182 L 110 182 Q 190 120 270 182 L 340 182 L 340 200 L 40 200 Z" fill="#b48fb0"/>
+    <path d="M 40 164 L 110 164 Q 190 95 270 164 L 340 164 L 340 182 L 110 182 Q 190 120 270 182 L 340 182 L 340 164" fill="#d98e4a"/>
+    <path d="M 40 164 L 110 164 Q 190 95 270 164 L 340 164" fill="none" stroke="#a06a30" stroke-width="1"/>
+    <path d="M 40 146 L 105 146 Q 190 70 275 146 L 340 146 L 340 164 L 270 164 Q 190 95 110 164 L 40 164 Z" fill="#f0e3c8"/>
+    <ellipse cx="190" cy="175" rx="75" ry="38" fill="#8a2f2f"/>
+    <path d="M 190 213 L 190 260" stroke="#8a2f2f" stroke-width="16"/>
+    <rect x="40" y="218" width="300" height="60" fill="#9fb0b5"/>
+    <text x="190" y="180" font-size="10" fill="#fff" text-anchor="middle" font-weight="bold">magma</text>
+    <text x="205" y="250" font-size="9" fill="#fff">přívod</text>
+    <text x="48" y="112" font-size="9" fill="#555">vrstvy se zvedají</text>
+    <text x="48" y="124" font-size="9" fill="#555">jako nad hydraulickým zvedákem</text>
+  </g>
+
+  <!-- right: today -->
+  <text x="470" y="55" font-size="11" font-weight="bold" fill="#555">2. Dnes, po erozi</text>
+  <g>
+    <rect x="440" y="218" width="320" height="60" fill="#9fb0b5"/>
+    <rect x="440" y="200" width="320" height="18" fill="#c8b25f"/>
+    <path d="M 440 182 L 470 182 Q 520 165 545 150 L 655 150 Q 680 165 730 182 L 760 182 L 760 200 L 440 200 Z" fill="#b48fb0"/>
+    <path d="M 545 150 Q 600 100 655 150 Z" fill="#8a2f2f"/>
+    <path d="M 470 182 Q 520 165 545 150" fill="none" stroke="#a06a30" stroke-width="2"/>
+    <path d="M 655 150 Q 680 165 730 182" fill="none" stroke="#a06a30" stroke-width="2"/>
+    <text x="600" y="140" font-size="10" fill="#7a2020" text-anchor="middle" font-weight="bold">odkryté ztuhlé magma = vrchol hory</text>
+    <text x="600" y="128" font-size="9" fill="#555" text-anchor="middle">Mt. Ellen · Mt. Pennell · Mt. Hillers</text>
+    <text x="448" y="172" font-size="9" fill="#555">zdvižené vrstvy</text>
+    <text x="448" y="184" font-size="9" fill="#555">po stranách</text>
+  </g>
+
+  <g font-size="10" fill="#333">
+    <text x="40" y="320" font-weight="bold">Proč je to slavné:</text>
+    <text x="40" y="340">Geolog Grove Karl Gilbert zde v roce 1877 poprvé popsal a pojmenoval lakolit — magma, které se</text>
+    <text x="40" y="356">vtlačilo mezi vrstvy, nadzvedlo je do klenby a nikdy neproniklo na povrch. Henry Mountains se tak</text>
+    <text x="40" y="372">staly učebnicovým příkladem, který se dodnes cituje po celém světě. Bonus: kolem se volně pase</text>
+    <text x="40" y="388">jedno z posledních divokých stád bizonů v USA.</text>
+  </g>
+</svg>

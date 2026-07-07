@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" font-family="DejaVu Sans, sans-serif">
+  <rect width="800" height="900" fill="#faf6f0"/>
+  <text x="12" y="24" font-size="15" font-weight="bold" fill="#333">Vrstevní sloupec cesty — od nejstarších (dole) po nejmladší (nahoře)</text>
+  <text x="12" y="41" font-size="10" fill="#886">Zjednodušeno; mocnosti nejsou v měřítku. Vpravo: kde vrstvu na cestě uvidíte.</text>
+
+  <!-- column x=70..300; rows from top (young) down (old) -->
+  <g font-size="10">
+    <rect x="70" y="60"  width="230" height="42" fill="#9aa5ab"/><text x="80" y="86" fill="#fff" font-weight="bold">Mancos Shale (křída, ~90–80)</text>
+    <text x="315" y="86" fill="#333">šedé „měsíční“ badlandy — Moonscape Overlook, Caineville</text>
+
+    <rect x="70" y="102" width="230" height="30" fill="#c8b25f"/><text x="80" y="122" fill="#443" font-weight="bold">Dakota Sandstone (~95)</text>
+    <text x="315" y="122" fill="#333">pobřeží vracejícího se moře; uhelné sloje — Coal Mine Canyon</text>
+
+    <rect x="70" y="132" width="230" height="46" fill="#b48fb0"/><text x="80" y="152" fill="#fff" font-weight="bold">Morrison Formation (~150)</text>
+    <text x="315" y="152" fill="#333">řeky a jezera s dinosaury; bentonit — Bentonite Hills;</text>
+    <text x="315" y="166" fill="#333">hostitel uranu (Salt Wash) ☢️</text>
+
+    <rect x="70" y="178" width="230" height="40" fill="#d98e4a"/><text x="80" y="202" fill="#fff" font-weight="bold">Entrada Sandstone (~165)</text>
+    <text x="315" y="202" fill="#333">přílivové pláně a duny — Goblin Valley, monolity Cathedral Valley</text>
+
+    <rect x="70" y="218" width="230" height="24" fill="#b06a4d"/><text x="80" y="235" fill="#fff" font-weight="bold">Carmel Formation (~168)</text>
+    <text x="315" y="235" fill="#333">mělké moře a sabcha; tmavé čepičky goblinů</text>
+
+    <rect x="70" y="242" width="230" height="60" fill="#f0e3c8"/><text x="80" y="262" fill="#875" font-weight="bold">Navajo Sandstone (~190)</text>
+    <text x="315" y="262" fill="#333">obří dunová poušť větší než Sahara —</text>
+    <text x="315" y="276" fill="#333">White Pocket, Coyote Buttes, stěny Zionu</text>
+    <text x="315" y="290" fill="#333">zkřížené zvrstvení = zkamenělé svahy dun</text>
+
+    <rect x="70" y="302" width="230" height="24" fill="#a5714f"/><text x="80" y="319" fill="#fff" font-weight="bold">Kayenta Formation (~195)</text>
+    <text x="315" y="319" fill="#333">řeky mezi dunami; římsy — a stopy dinosaurů (Moenave/Tuba City)</text>
+
+    <rect x="70" y="326" width="230" height="40" fill="#c1543c"/><text x="80" y="350" fill="#fff" font-weight="bold">Wingate Sandstone (~200)</text>
+    <text x="315" y="350" fill="#333">první velká poušť; kolmé rudé stěny — Capitol Reef, Circle Cliffs</text>
+
+    <rect x="70" y="366" width="230" height="46" fill="#8f7a9e"/><text x="80" y="386" fill="#fff" font-weight="bold">Chinle Formation (trias, ~220)</text>
+    <text x="315" y="386" fill="#333">pestré říční a jezerní vrstvy, zkamenělé dřevo;</text>
+    <text x="315" y="400" fill="#333">hostitel uranu (Shinarump) ☢️ — Painted Desert</text>
+
+    <rect x="70" y="412" width="230" height="34" fill="#8a5a44"/><text x="80" y="434" fill="#fff" font-weight="bold">Moenkopi Formation (~245)</text>
+    <text x="315" y="434" fill="#333">přílivové pláně; čokoládové vrstvy s čeřinami — okolí Capitol Reef</text>
+
+    <rect x="70" y="446" width="230" height="30" fill="#c2c6b8"/><text x="80" y="466" fill="#454" font-weight="bold">Kaibab Limestone (perm, ~270)</text>
+    <text x="315" y="466" fill="#333">dno mělkého moře — okraj Grand Canyonu, Meteor Crater</text>
+
+    <rect x="70" y="476" width="230" height="26" fill="#efe9dc"/><text x="80" y="494" fill="#875" font-weight="bold">White Rim Sandstone (~272)</text>
+    <text x="315" y="494" fill="#333">bílá pobřežní římsa — po ní jede White Rim Road</text>
+
+    <rect x="70" y="502" width="230" height="34" fill="#d9814e"/><text x="80" y="524" fill="#fff" font-weight="bold">De Chelly Sandstone (~275)</text>
+    <text x="315" y="524" fill="#333">dunová poušť — věže Monument Valley</text>
+
+    <rect x="70" y="536" width="230" height="24" fill="#a04a35"/><text x="80" y="553" fill="#fff" font-weight="bold">Organ Rock Shale (~280)</text>
+    <text x="315" y="553" fill="#333">červené podstavce věží Monument Valley</text>
+
+    <rect x="70" y="560" width="230" height="40" fill="#e8d9c2"/><text x="80" y="584" fill="#875" font-weight="bold">Cedar Mesa Sandstone (~275)</text>
+    <text x="315" y="584" fill="#333">světlé stolové hory — Valley of the Gods, Muley Point</text>
+
+    <rect x="70" y="600" width="230" height="44" fill="#9fb0b5"/><text x="80" y="620" fill="#fff" font-weight="bold">Honaker Trail Fm (karbon, ~305)</text>
+    <text x="315" y="620" fill="#333">střídání vápenců a břidlic tropického moře —</text>
+    <text x="315" y="634" fill="#333">pruhy „Navajo Rug“ / Raplee Anticline</text>
+  </g>
+
+  <!-- intrusion arrow -->
+  <path d="M 40 660 Q 55 500 60 380" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <defs><marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 z" fill="#555"/></marker></defs>
+  <text x="14" y="680" font-size="9" fill="#555">diorit Henry Mountains (~25 mil. let)</text>
+  <text x="14" y="692" font-size="9" fill="#555">se vtlačil napříč všemi vrstvami</text>
+
+  <!-- reading tips -->
+  <rect x="70" y="710" width="660" height="150" fill="#fff" stroke="#ccc" rx="8"/>
+  <text x="85" y="733" font-size="11" font-weight="bold" fill="#333">Jak číst krajinu z auta</text>
+  <g font-size="10" fill="#333">
+    <text x="85" y="755">• Kolmá stěna = tvrdý, dobře stmelený pískovec (Wingate, Navajo, De Chelly).</text>
+    <text x="85" y="773">• Měkký pruhovaný svah = jílovce a popel (Chinle, Morrison, Mancos) — erodují rychle.</text>
+    <text x="85" y="791">• Červená barva = trocha rzi: železo zoxidované na suchém vzduchu. Šedá a zelená = prostředí bez kyslíku.</text>
+    <text x="85" y="809">• Stolová hora s tvrdou čepičkou vydrží; bez čepičky se mění ve věž, pak ve sloup — a nakonec zmizí.</text>
+    <text x="85" y="827">• Stupňovitá krajina = střídání tvrdých a měkkých vrstev. Grand Staircase je z těchto schodů celé pohoří.</text>
+    <text x="85" y="845">• Uran ☢️ se váže hlavně na říční pískovce s organickou hmotou — proto doly leží v Chinle a Morrison.</text>
+  </g>
+</svg>

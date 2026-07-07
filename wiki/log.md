@@ -318,3 +318,19 @@ Sunset Crater Volcano NM and Wupatki NM share a 36-mile paved loop off US-89 nor
 - `brochure/utah-trip-working-copy-2026-07-05.pdf` — single printable PDF of the whole wiki in semi-chronological order: planning core (action items, schedule, itinerary, permits, both fires, kids), then Legs 1–6 in trip order, appendix with the Časový rozvrh summary. Generated from wiki md via headless Chromium.
 
 **Pages updated**: `wiki/index.md` (added action-items)
+
+---
+
+## 2026-07-05 — Expediční atlas „Za hranice času" (verze 1)
+
+**Source**: uživatelský plán `atlas/expedicni_atlas_plan.md` (nahrán 2026-07-05); trip wiki; webové ověření požárů 2026-07-05
+
+**Vytvořeno** (adresář `atlas/`):
+- `atlas.md` — zdrojový text knihy, česky: předmluva, 23 kapitol (přehled trasy, geologický čas, Babylon Fire × uran, uranový boom, kapitoly k zastávkám, požár jako proces, praktický appendix), deníkové stránky
+- `svg/` — 5 schémat: mapa okruhu, časová osa 320 Ma, Babylon Fire × uranové lokality, vrstevní sloupec, lakolit Henry Mountains, Grand Staircase
+- `build_atlas.py` — sestavení A4 PDF přes headless Chromium
+- `za-hranice-casu.pdf` — hotová kniha (verze 1, před cestou)
+- `README.md` — návod na doplnění fotografií po cestě (verze 2)
+- `expedicni_atlas_plan.md` — archiv původního zadání
+
+Každá kapitola má rámečky (Proč je to zajímavé / Co si všimnout z auta / Aha moment / Úkol pro vnuka / Fototip / Varování) a proužek Zápisník + rámeček na fotografii pro doplnění po cestě.

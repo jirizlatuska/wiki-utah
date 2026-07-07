@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" font-family="DejaVu Sans, sans-serif">
+  <rect width="800" height="360" fill="#faf6f0"/>
+  <text x="12" y="24" font-size="14" font-weight="bold" fill="#333">Grand Staircase — velké schodiště (schéma průřezu, jih → sever)</text>
+
+  <!-- steps -->
+  <path d="M 30 320 L 130 320 L 130 270 L 250 270 L 250 220 L 380 220 L 380 170 L 510 170 L 510 120 L 640 120 L 640 80 L 770 80 L 770 340 L 30 340 Z" fill="#e8d9c2" stroke="#a08a68"/>
+  <rect x="30"  y="320" width="100" height="20" fill="#c2c6b8"/>
+  <rect x="130" y="270" width="120" height="50" fill="#8a5a44"/>
+  <rect x="250" y="220" width="130" height="50" fill="#c1543c"/>
+  <rect x="380" y="170" width="130" height="50" fill="#f0e3c8"/>
+  <rect x="510" y="120" width="130" height="50" fill="#9aa5ab"/>
+  <rect x="640" y="80"  width="130" height="40" fill="#e8a0b4"/>
+
+  <g font-size="9.5" fill="#333">
+    <text x="40"  y="312">Kaibab — okraj</text>
+    <text x="40"  y="300" font-weight="bold">Grand Canyon</text>
+    <text x="138" y="262" font-weight="bold">Chocolate Cliffs</text>
+    <text x="138" y="250">Moenkopi/Chinle</text>
+    <text x="258" y="212" font-weight="bold">Vermilion Cliffs</text>
+    <text x="258" y="200">Wingate/Moenave</text>
+    <text x="388" y="162" font-weight="bold">White Cliffs</text>
+    <text x="388" y="150">Navajo Sandstone</text>
+    <text x="518" y="112" font-weight="bold">Gray Cliffs</text>
+    <text x="518" y="100">křídové vrstvy</text>
+    <text x="648" y="72"  font-weight="bold">Pink Cliffs</text>
+    <text x="648" y="60">Claron — Bryce</text>
+  </g>
+
+  <g font-size="9" fill="#7a5030">
+    <text x="60" y="356">← ke Grand Canyonu (starší, hlouběji)</text>
+    <text x="560" y="356">k Bryce Canyonu (mladší, výše) →</text>
+  </g>
+  <text x="30" y="50" font-size="10" fill="#555">Každý „schod“ = tvrdá vrstva, která chrání měkčí vrstvy pod sebou. Cesta 2. segmentu stoupá</text>
+  <text x="30" y="64" font-size="10" fill="#555">po tomto schodišti: Vermilion Cliffs → Coral Pink (Navajo) → Bryce (Pink Cliffs) a zase dolů.</text>
+</svg>

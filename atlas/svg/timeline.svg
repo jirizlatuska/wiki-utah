@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" font-family="DejaVu Sans, sans-serif">
+  <rect width="800" height="560" fill="#faf6f0"/>
+  <text x="12" y="24" font-size="15" font-weight="bold" fill="#333">Cesta hlubokým časem — 320 milionů let na jedné trase</text>
+  <text x="12" y="41" font-size="10" fill="#886">Kde na časové ose leží to, co uvidíte (stáří přibližná)</text>
+
+  <!-- axis 320 Ma (x=60) to 0 (x=760); scale: x = 760 - Ma*2.1875 -->
+  <g>
+    <rect x="60"  y="250" width="105" height="34" fill="#8fa8b8"/> <!-- Karbon 320-272? actually Perm start 299: Karbon 320-299 = 45.9px -->
+  </g>
+  <rect x="60" y="250" width="46" height="34" fill="#7d94a5"/>
+  <rect x="106" y="250" width="103" height="34" fill="#c96a4a"/>
+  <rect x="209" y="250" width="112" height="34" fill="#a869a4"/>
+  <rect x="321" y="250" width="122" height="34" fill="#59a8c9"/>
+  <rect x="443" y="250" width="173" height="34" fill="#7fbf6b"/>
+  <rect x="616" y="250" width="138" height="34" fill="#e8c25a"/>
+  <rect x="754" y="250" width="6" height="34" fill="#e2903f"/>
+  <g font-size="10.5" fill="#fff" font-weight="bold" text-anchor="middle">
+    <text x="83"  y="271">Karbon</text>
+    <text x="157" y="271">Perm</text>
+    <text x="265" y="271">Trias</text>
+    <text x="382" y="271">Jura</text>
+    <text x="529" y="271">Křída</text>
+    <text x="685" y="271" fill="#665">Kenozoikum</text>
+  </g>
+  <g font-size="9" fill="#555" text-anchor="middle">
+    <text x="60"  y="300">320</text><text x="106" y="300">299</text><text x="209" y="300">252</text>
+    <text x="321" y="300">201</text><text x="443" y="300">145</text><text x="616" y="300">66</text>
+    <text x="757" y="300">0</text>
+    <text x="400" y="316">milionů let před dneškem</text>
+  </g>
+
+  <!-- stops above the bar (older) -->
+  <g font-size="9" fill="#222">
+    <!-- Honaker Trail ~305 -->
+    <line x1="93" y1="250" x2="93" y2="90" stroke="#888" stroke-width="1"/>
+    <text x="93" y="82" text-anchor="middle">Raplee Anticline / „Navajo Rug“ (~305)</text>
+    <!-- Cedar Mesa ~275 -->
+    <line x1="158" y1="250" x2="140" y2="120" stroke="#888" stroke-width="1"/>
+    <text x="140" y="112" text-anchor="middle">Valley of the Gods, Muley Point (~275)</text>
+    <!-- De Chelly / White Rim / Kaibab ~272-270 -->
+    <line x1="170" y1="250" x2="240" y2="150" stroke="#888" stroke-width="1"/>
+    <text x="256" y="142" text-anchor="middle">Monument Valley · White Rim · Kaibab (~270)</text>
+    <!-- Moenkopi ~245 -->
+    <line x1="224" y1="250" x2="224" y2="180" stroke="#888" stroke-width="1"/>
+    <text x="228" y="172" text-anchor="middle">Moenkopi — dna řek a přílivové pláně (~245)</text>
+    <!-- Chinle ~220 -->
+    <line x1="279" y1="250" x2="330" y2="205" stroke="#888" stroke-width="1"/>
+    <text x="352" y="199" text-anchor="middle">Chinle — pestré vrstvy, zkamenělé dřevo (~220)</text>
+    <!-- Moenave tracks ~195 -->
+    <line x1="333" y1="250" x2="435" y2="228" stroke="#888" stroke-width="1"/>
+    <text x="492" y="226" text-anchor="middle">Moenave — stopy dinosaurů (~195)</text>
+  </g>
+
+  <!-- stops below the bar (younger) -->
+  <g font-size="9" fill="#222">
+    <!-- Navajo ~190 -->
+    <line x1="344" y1="284" x2="344" y2="360" stroke="#888" stroke-width="1"/>
+    <text x="344" y="372" text-anchor="middle">White Pocket · Coyote Buttes — jurská poušť (~190)</text>
+    <!-- Entrada ~165 -->
+    <line x1="399" y1="284" x2="399" y2="396" stroke="#888" stroke-width="1"/>
+    <text x="399" y="408" text-anchor="middle">Goblin Valley · Cathedral Valley (~165)</text>
+    <!-- Morrison ~150 -->
+    <line x1="432" y1="284" x2="500" y2="432" stroke="#888" stroke-width="1"/>
+    <text x="512" y="444" text-anchor="middle">Bentonite Hills — sopečný popel v jezerech (~150)</text>
+    <!-- Mancos ~85 -->
+    <line x1="574" y1="284" x2="600" y2="360" stroke="#888" stroke-width="1"/>
+    <text x="622" y="372" text-anchor="middle">Moonscape — dno křídového moře (~85)</text>
+    <!-- Henry ~25 -->
+    <line x1="705" y1="284" x2="680" y2="470" stroke="#888" stroke-width="1"/>
+    <text x="642" y="482" text-anchor="middle">Henry Mountains — magma, které neprorazilo (~25)</text>
+  </g>
+
+  <!-- Quaternary zoom inset -->
+  <rect x="60" y="440" width="360" height="100" fill="#fff" stroke="#c9a" rx="6"/>
+  <text x="70" y="458" font-size="10" font-weight="bold" fill="#665">Lupa: poslední okamžik (čtvrtohory)</text>
+  <line x1="80" y1="500" x2="400" y2="500" stroke="#e2903f" stroke-width="6"/>
+  <g font-size="9" fill="#222">
+    <circle cx="120" cy="500" r="4" fill="#333"/><text x="120" y="520" text-anchor="middle">Meteor Crater</text><text x="120" y="531" text-anchor="middle">(~50 000 let)</text>
+    <circle cx="330" cy="500" r="4" fill="#333"/><text x="330" y="520" text-anchor="middle">Sunset Crater</text><text x="330" y="531" text-anchor="middle">(~940 let, cca 1085 n. l.)</text>
+    <circle cx="395" cy="500" r="4" fill="#c03a10"/><text x="395" y="488" text-anchor="middle" fill="#a03010">požáry 2026</text>
+  </g>
+  <text x="440" y="530" font-size="9" fill="#666">Zářez Grand Canyonu: zhruba</text>
+  <text x="440" y="542" font-size="9" fill="#666">posledních 5–6 milionů let.</text>
+</svg>

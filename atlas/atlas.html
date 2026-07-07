@@ -1,0 +1,859 @@
+<!DOCTYPE html><html lang="cs"><head><meta charset="utf-8"><style>
+@page { size: A4; margin: 17mm 16mm; }
+body { font-family: "DejaVu Sans", sans-serif; font-size: 10pt; line-height: 1.5; color: #222; }
+h1 { page-break-before: always; font-size: 17pt; color: #7a3b1d; border-bottom: 3px solid #b5522a;
+     padding-bottom: 5px; margin: 0 0 12px; }
+h2 { font-size: 12.5pt; color: #b5522a; margin: 14px 0 6px; }
+p { margin: 6px 0; text-align: justify; }
+table { border-collapse: collapse; width: 100%; margin: 9px 0; font-size: 9pt; }
+th, td { border: 1px solid #b9a; padding: 4px 7px; text-align: left; vertical-align: top; }
+th { background: #f3e5dc; }
+ul, ol { margin: 6px 0 6px 20px; padding: 0; }
+li { margin: 3px 0; }
+.figure { margin: 12px 0; page-break-inside: avoid; }
+.figure svg { width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; }
+.box { border-radius: 6px; padding: 8px 12px; margin: 10px 0; page-break-inside: avoid; font-size: 9.5pt; }
+.box p { margin: 3px 0; }
+.why   { background: #f0e9df; border-left: 4px solid #8a7a5f; }
+.car   { background: #e8eef3; border-left: 4px solid #5a7f9f; }
+.aha   { background: #fdf3d8; border-left: 4px solid #d9a521; }
+.kid   { background: #e7f2e4; border-left: 4px solid #5f9a52; }
+.warn  { background: #fbe9e4; border-left: 4px solid #c0532a; }
+.photo { background: #eee9f4; border-left: 4px solid #7d6a9e; }
+.note  { background: #eef2ee; border-left: 4px solid #7d8f7d; }
+.fire  { background: #fdeade; border-left: 4px solid #e25822; }
+.after { display: flex; gap: 10px; margin-top: 14px; page-break-inside: avoid; }
+.after .slot { flex: 0 0 150px; height: 100px; border: 2px dashed #bba; border-radius: 6px;
+  color: #998; font-size: 9pt; display: flex; align-items: center; justify-content: center; }
+.after .lines { flex: 1; height: 100px; border-radius: 6px;
+  background: repeating-linear-gradient(#fff, #fff 23px, #cbb 24px); border-bottom: 1px solid #cbb; }
+.diarypage { page-break-before: always; }
+.diarypage h2 { font-size: 14pt; }
+.diarypage .slot.big { height: 300px; border: 2px dashed #bba; border-radius: 8px; color: #998;
+  font-size: 24pt; display: flex; align-items: center; justify-content: center; margin: 14px 0; }
+.diarypage .lines.tall { height: 480px; background: repeating-linear-gradient(#fff, #fff 27px, #cbb 28px); }
+.cover { text-align: center; padding-top: 200px; page-break-after: always; }
+.covertop { font-size: 12pt; color: #886; letter-spacing: 2px; text-transform: uppercase; }
+.covertitle { font-size: 34pt; color: #7a3b1d; border: none !important; page-break-before: avoid !important;
+  margin: 18px 0 6px !important; }
+.coversub { font-size: 15pt; color: #444; }
+.coverline { font-size: 11pt; color: #997; margin-top: 20px; }
+.coverver { font-size: 9.5pt; color: #aa9; margin-top: 60px; }
+.preface h1 { page-break-before: avoid; }
+.colophon { margin-top: 30px; font-size: 9pt; color: #555; border-top: 1px solid #ccc; padding-top: 8px; }
+del { color: #888; }
+</style></head><body><div class="cover">
+<p class="covertop">Utah &amp; Arizona · 23. července – 16. srpna 2026</p>
+<h1 class="covertitle">Za hranice času</h1>
+<p class="coversub">Geologický a historický průvodce Coloradskou plošinou</p>
+<p class="coverline">geologie · uranová historie · požáry · cesta krajinou hlubokého času</p>
+<p class="coverver">Verze 1 — před cestou · sestaveno 5. července 2026 · po návratu doplníme fotografie a zápisky</p>
+</div>
+
+<div class="preface">
+<h1>Předmluva</h1>
+<p>Za tři týdny projedete krajinou, která vypráví téměř polovinu historie složitého života na Zemi.</p>
+<p>Uvidíte zkamenělé duny staré téměř 200 milionů let. Sopku, která vybuchla teprve před tisícem let. Místo, kde dopadl meteorit. Hory, které vznikly jinak než téměř všechny ostatní hory světa. Největší uranovou provincii Spojených států. A krajinu, která se právě teď mění pod rukama požárů.</p>
+<p>A přitom během většiny cesty pojedete po silnicích, po kterých projede jen několik aut za hodinu.</p>
+<p>Tohle není běžný průvodce. Je to pokus vysvětlit, proč tato krajina vypadá právě tak, jak vypadá.</p>
+<h2>Jak číst tuto knihu</h2>
+<p>Každá kapitola patří jednomu místu nebo tématu a dá se přečíst za pět minut — večer v kempu, ráno u kávy, nebo nahlas v autě. Opakující se rámečky poznáte podle ikon:</p>
+<table>
+<thead>
+<tr>
+<th>Ikona</th>
+<th>Rámeček</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🪨</td>
+<td><strong>Proč je to zajímavé?</strong> — hlavní pointa místa</td>
+</tr>
+<tr>
+<td>🧭</td>
+<td><strong>Co si všimnout z auta</strong> — bez dlouhé túry</td>
+</tr>
+<tr>
+<td>💡</td>
+<td><strong>Aha moment</strong> — jedna věta, která zůstane v hlavě</td>
+</tr>
+<tr>
+<td>👦</td>
+<td><strong>Úkol pro vnuka</strong> — hledání, počítání, objevování</td>
+</tr>
+<tr>
+<td>📷</td>
+<td><strong>Fototip</strong></td>
+</tr>
+<tr>
+<td>⚠️</td>
+<td><strong>Praktické varování</strong> — krátké a nepanické</td>
+</tr>
+<tr>
+<td>☢️</td>
+<td><strong>Jaderná historie</strong></td>
+</tr>
+<tr>
+<td>🔥</td>
+<td><strong>Požár / aktuální stav</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Na konci každé kapitoly je prázdný proužek <strong>Zápisník</strong> — místo pro poznámku tužkou přímo na cestě a pro fotografii, kterou tam po návratu vlepíme nebo v elektronické verzi vložíme. Z první verze atlasu se tak po cestě stane kronika.</p>
+<p><em>Aktuální údaje o požárech platí k 5. červenci 2026 a je nutné je před cestou ověřit — viz praktický appendix.</em></p>
+</div>
+<h1>Kapitola 1 — Přehled celé cesty 🧭</h1>
+<p>Trasa je okruh: z Phoenixu na jih do Sonorské pouště, pak dlouhým obloukem na sever přes Mogollon Rim na Coloradskou plošinu, přes zemi Navahů a Hopiů k Vermilion Cliffs, nahoru po Grand Staircase, přes Capitol Reef k Henry Mountains, kolem Canyonlands po White Rim Road, dolů k řece San Juan a Monument Valley — a zpět přes Grand Canyon a pouštní jih.</p>
+<div class="figure"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 980" font-family="DejaVu Sans, sans-serif">
+  <rect width="800" height="980" fill="#faf6f0"/>
+  <text x="12" y="24" font-size="15" font-weight="bold" fill="#333">Okruh z Phoenixu — 23. 7. až 16. 8. 2026</text>
+  <text x="12" y="42" font-size="10" fill="#886">SCHÉMA — polohy přibližné, neslouží k navigaci</text>
+
+  <!-- state line UT/AZ -->
+  <line x1="20" y1="285" x2="780" y2="285" stroke="#bbb" stroke-width="1.5" stroke-dasharray="8 4"/>
+  <text x="720" y="278" font-size="12" fill="#999" font-style="italic">UTAH</text>
+  <text x="700" y="302" font-size="12" fill="#999" font-style="italic">ARIZONA</text>
+
+  <!-- rivers -->
+  <path d="M 700 40 Q 690 70 688 92 Q 670 120 651 139 Q 600 200 520 250 Q 470 275 435 296 Q 420 303 416 307 Q 400 340 385 380 Q 370 400 350 420" fill="none" stroke="#7fb2d9" stroke-width="3" opacity="0.75"/>
+  <text x="694" y="60" font-size="9" fill="#5588aa" transform="rotate(70 694 60)">Colorado</text>
+  <path d="M 630 40 Q 645 90 651 139" fill="none" stroke="#8fc2e0" stroke-width="2.5" opacity="0.7"/>
+  <text x="612" y="70" font-size="9" fill="#5588aa">Green R.</text>
+  <path d="M 780 240 Q 720 245 688 251 Q 665 260 647 267 Q 560 290 470 293" fill="none" stroke="#8fc2e0" stroke-width="2" opacity="0.7"/>
+  <text x="735" y="238" font-size="9" fill="#5588aa">San Juan</text>
+
+  <!-- fire zones -->
+  <ellipse cx="655" cy="195" rx="42" ry="34" fill="#e25822" opacity="0.25" stroke="#c03a10" stroke-dasharray="4 3"/>
+  <text x="655" y="192" font-size="9" fill="#a03010" text-anchor="middle" font-weight="bold">🔥 Babylon</text>
+  <text x="655" y="203" font-size="8" fill="#a03010" text-anchor="middle">Fire</text>
+  <ellipse cx="401" cy="528" rx="18" ry="15" fill="#e25822" opacity="0.25" stroke="#c03a10" stroke-dasharray="4 3"/>
+  <text x="402" y="524" font-size="8" fill="#a03010" text-anchor="middle" font-weight="bold">🔥 Pocket</text>
+  <text x="402" y="534" font-size="8" fill="#a03010" text-anchor="middle">Fire</text>
+
+  <!-- route -->
+  <path d="M 358 721 L 502 868 L 426 724 L 477 694 L 455 625 L 495 527 L 433 486 L 467 392 L 492 405 L 467 392 L 416 307 L 380 291 L 363 285 L 298 279 L 272 281 L 345 209 L 368 221 L 363 285 L 420 190 L 443 174 L 536 117 L 537 92 L 452 105 L 524 150 L 536 117 L 663 103 L 660 130 L 663 103 L 692 163 L 688 251 L 647 267 L 630 256 L 647 267 L 615 288 L 596 318 L 443 424 L 389 403 L 443 424 L 413 506 L 387 585 L 359 559 L 387 585 L 358 721 L 270 865 L 253 905 L 270 865 L 420 903 L 358 721"
+        fill="none" stroke="#b5522a" stroke-width="2.8" opacity="0.85" stroke-linejoin="round"/>
+
+  <!-- dropped route -->
+  <path d="M 692 163 L 660 220 L 630 256" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="600" y="222" font-size="8" fill="#888">původní trasa</text>
+  <text x="600" y="232" font-size="8" fill="#888">(zrušeno – požár)</text>
+
+  <!-- stops -->
+  <g font-size="9.5" fill="#222">
+    <circle cx="358" cy="721" r="6" fill="#b5522a"/><text x="340" y="742" font-weight="bold">PHOENIX</text>
+    <circle cx="502" cy="868" r="4.5" fill="#333"/><text x="512" y="872">Tucson (1. noc)</text>
+    <circle cx="455" cy="625" r="4" fill="#333"/><text x="464" y="629">Mogollon Rim</text>
+    <circle cx="495" cy="527" r="4" fill="#333"/><text x="504" y="531">Meteor Crater</text>
+    <circle cx="433" cy="486" r="4" fill="#333"/><text x="352" y="479">Sunset Crater</text>
+    <circle cx="492" cy="405" r="4" fill="#333"/><text x="501" y="409">Coal Mine Canyon</text>
+    <circle cx="467" cy="392" r="4" fill="#333"/><text x="405" y="385">Tuba City</text>
+    <circle cx="416" cy="307" r="4" fill="#333"/><text x="424" y="320">Navajo Bridge</text>
+    <circle cx="380" cy="291" r="4" fill="#333"/><text x="388" y="298">White Pocket</text>
+    <circle cx="363" cy="285" r="4" fill="#333"/><text x="308" y="299">Stateline / CBS</text>
+    <circle cx="272" cy="281" r="4" fill="#333"/><text x="192" y="271">Coral Pink</text>
+    <circle cx="345" cy="209" r="4" fill="#333"/><text x="290" y="203">Bryce</text>
+    <circle cx="368" cy="221" r="4" fill="#333"/><text x="376" y="234">Kodachrome</text>
+    <circle cx="420" cy="190" r="4" fill="#333"/><text x="428" y="194">Escalante</text>
+    <circle cx="536" cy="117" r="4" fill="#333"/><text x="545" y="131">Hanksville</text>
+    <circle cx="537" cy="92" r="4" fill="#333"/><text x="546" y="90">Goblin Valley</text>
+    <circle cx="452" cy="105" r="4" fill="#333"/><text x="352" y="100">Cathedral Valley</text>
+    <circle cx="524" cy="150" r="4" fill="#333"/><text x="435" y="160">Henry Mtns</text>
+    <circle cx="663" cy="103" r="4" fill="#333"/><text x="672" y="99">Dead Horse Pt</text>
+    <circle cx="660" cy="130" r="4" fill="#333"/><text x="672" y="135">White Rim</text>
+    <circle cx="692" cy="163" r="4" fill="#333"/><text x="700" y="167">Newspaper Rock ?</text>
+    <circle cx="688" cy="251" r="4" fill="#333"/><text x="697" y="248">Bluff</text>
+    <circle cx="647" cy="267" r="4" fill="#333"/><text x="600" y="281">Mexican Hat</text>
+    <circle cx="630" cy="256" r="4" fill="#333"/><text x="540" y="252">Muley Pt ?</text>
+    <circle cx="615" cy="288" r="4" fill="#333"/><text x="622" y="302">Monument Valley</text>
+    <circle cx="389" cy="403" r="4" fill="#333"/><text x="292" y="399">Desert View</text>
+    <circle cx="359" cy="559" r="4" fill="#333"/><text x="268" y="556">Clarkdale 🚂</text>
+    <circle cx="253" cy="905" r="4" fill="#333"/><text x="165" y="922">Organ Pipe</text>
+    <circle cx="420" cy="903" r="4" fill="#333"/><text x="430" y="907">Kitt Peak</text>
+  </g>
+  <text x="12" y="965" font-size="9" fill="#666">— — dřívější trasa přes Bears Ears (vypuštěna kvůli Babylon Fire) · ? = podmíněné zastávky podle stavu požáru</text>
+</svg>
+</div>
+
+<p>Málokterá trasa na světě protne tolik geologických prostředí: dna tropických moří, obří pouště, říční nížiny s dinosaury, ztuhlé magma, meteoritový kráter, mladou sopku i čerstvě hořící les. Následující kapitoly jdou zhruba v pořadí, v jakém místa navštívíme.</p>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 2 — Geologický čas: od moří po pouště a sopky 🪨</h1>
+<p>Nejtěžší představa celé geologie není žádný odborný pojem. Je to <strong>čas</strong>. Milion let je tisíc tisíciletí — a my se tu bavíme o stovkách milionů. Pomůže obrázek:</p>
+<div class="figure"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" font-family="DejaVu Sans, sans-serif">
+  <rect width="800" height="560" fill="#faf6f0"/>
+  <text x="12" y="24" font-size="15" font-weight="bold" fill="#333">Cesta hlubokým časem — 320 milionů let na jedné trase</text>
+  <text x="12" y="41" font-size="10" fill="#886">Kde na časové ose leží to, co uvidíte (stáří přibližná)</text>
+
+  <!-- axis 320 Ma (x=60) to 0 (x=760); scale: x = 760 - Ma*2.1875 -->
+  <g>
+    <rect x="60"  y="250" width="105" height="34" fill="#8fa8b8"/> <!-- Karbon 320-272? actually Perm start 299: Karbon 320-299 = 45.9px -->
+  </g>
+  <rect x="60" y="250" width="46" height="34" fill="#7d94a5"/>
+  <rect x="106" y="250" width="103" height="34" fill="#c96a4a"/>
+  <rect x="209" y="250" width="112" height="34" fill="#a869a4"/>
+  <rect x="321" y="250" width="122" height="34" fill="#59a8c9"/>
+  <rect x="443" y="250" width="173" height="34" fill="#7fbf6b"/>
+  <rect x="616" y="250" width="138" height="34" fill="#e8c25a"/>
+  <rect x="754" y="250" width="6" height="34" fill="#e2903f"/>
+  <g font-size="10.5" fill="#fff" font-weight="bold" text-anchor="middle">
+    <text x="83"  y="271">Karbon</text>
+    <text x="157" y="271">Perm</text>
+    <text x="265" y="271">Trias</text>
+    <text x="382" y="271">Jura</text>
+    <text x="529" y="271">Křída</text>
+    <text x="685" y="271" fill="#665">Kenozoikum</text>
+  </g>
+  <g font-size="9" fill="#555" text-anchor="middle">
+    <text x="60"  y="300">320</text><text x="106" y="300">299</text><text x="209" y="300">252</text>
+    <text x="321" y="300">201</text><text x="443" y="300">145</text><text x="616" y="300">66</text>
+    <text x="757" y="300">0</text>
+    <text x="400" y="316">milionů let před dneškem</text>
+  </g>
+
+  <!-- stops above the bar (older) -->
+  <g font-size="9" fill="#222">
+    <!-- Honaker Trail ~305 -->
+    <line x1="93" y1="250" x2="93" y2="90" stroke="#888" stroke-width="1"/>
+    <text x="93" y="82" text-anchor="middle">Raplee Anticline / „Navajo Rug“ (~305)</text>
+    <!-- Cedar Mesa ~275 -->
+    <line x1="158" y1="250" x2="140" y2="120" stroke="#888" stroke-width="1"/>
+    <text x="140" y="112" text-anchor="middle">Valley of the Gods, Muley Point (~275)</text>
+    <!-- De Chelly / White Rim / Kaibab ~272-270 -->
+    <line x1="170" y1="250" x2="240" y2="150" stroke="#888" stroke-width="1"/>
+    <text x="256" y="142" text-anchor="middle">Monument Valley · White Rim · Kaibab (~270)</text>
+    <!-- Moenkopi ~245 -->
+    <line x1="224" y1="250" x2="224" y2="180" stroke="#888" stroke-width="1"/>
+    <text x="228" y="172" text-anchor="middle">Moenkopi — dna řek a přílivové pláně (~245)</text>
+    <!-- Chinle ~220 -->
+    <line x1="279" y1="250" x2="330" y2="205" stroke="#888" stroke-width="1"/>
+    <text x="352" y="199" text-anchor="middle">Chinle — pestré vrstvy, zkamenělé dřevo (~220)</text>
+    <!-- Moenave tracks ~195 -->
+    <line x1="333" y1="250" x2="435" y2="228" stroke="#888" stroke-width="1"/>
+    <text x="492" y="226" text-anchor="middle">Moenave — stopy dinosaurů (~195)</text>
+  </g>
+
+  <!-- stops below the bar (younger) -->
+  <g font-size="9" fill="#222">
+    <!-- Navajo ~190 -->
+    <line x1="344" y1="284" x2="344" y2="360" stroke="#888" stroke-width="1"/>
+    <text x="344" y="372" text-anchor="middle">White Pocket · Coyote Buttes — jurská poušť (~190)</text>
+    <!-- Entrada ~165 -->
+    <line x1="399" y1="284" x2="399" y2="396" stroke="#888" stroke-width="1"/>
+    <text x="399" y="408" text-anchor="middle">Goblin Valley · Cathedral Valley (~165)</text>
+    <!-- Morrison ~150 -->
+    <line x1="432" y1="284" x2="500" y2="432" stroke="#888" stroke-width="1"/>
+    <text x="512" y="444" text-anchor="middle">Bentonite Hills — sopečný popel v jezerech (~150)</text>
+    <!-- Mancos ~85 -->
+    <line x1="574" y1="284" x2="600" y2="360" stroke="#888" stroke-width="1"/>
+    <text x="622" y="372" text-anchor="middle">Moonscape — dno křídového moře (~85)</text>
+    <!-- Henry ~25 -->
+    <line x1="705" y1="284" x2="680" y2="470" stroke="#888" stroke-width="1"/>
+    <text x="642" y="482" text-anchor="middle">Henry Mountains — magma, které neprorazilo (~25)</text>
+  </g>
+
+  <!-- Quaternary zoom inset -->
+  <rect x="60" y="440" width="360" height="100" fill="#fff" stroke="#c9a" rx="6"/>
+  <text x="70" y="458" font-size="10" font-weight="bold" fill="#665">Lupa: poslední okamžik (čtvrtohory)</text>
+  <line x1="80" y1="500" x2="400" y2="500" stroke="#e2903f" stroke-width="6"/>
+  <g font-size="9" fill="#222">
+    <circle cx="120" cy="500" r="4" fill="#333"/><text x="120" y="520" text-anchor="middle">Meteor Crater</text><text x="120" y="531" text-anchor="middle">(~50 000 let)</text>
+    <circle cx="330" cy="500" r="4" fill="#333"/><text x="330" y="520" text-anchor="middle">Sunset Crater</text><text x="330" y="531" text-anchor="middle">(~940 let, cca 1085 n. l.)</text>
+    <circle cx="395" cy="500" r="4" fill="#c03a10"/><text x="395" y="488" text-anchor="middle" fill="#a03010">požáry 2026</text>
+  </g>
+  <text x="440" y="530" font-size="9" fill="#666">Zářez Grand Canyonu: zhruba</text>
+  <text x="440" y="542" font-size="9" fill="#666">posledních 5–6 milionů let.</text>
+</svg>
+</div>
+
+<p>Příběh trasy v šesti dějstvích:</p>
+<ol>
+<li><strong>Karbon a perm</strong> (320–252 mil. let): tropická moře a pobřežní duny. Z této doby jsou pruhy Raplee Anticline, věže Monument Valley, bílá římsa White Rim i stolové hory Valley of the Gods.</li>
+<li><strong>Trias</strong> (252–201): řeky, bažiny a záplavové planiny plné sopečného popela — pestré vrstvy Chinle, zkamenělé dřevo, první dinosauři.</li>
+<li><strong>Jura</strong> (201–145): největší dunová poušť v dějinách kontinentu. Navajo Sandstone — White Pocket, Coyote Buttes, stěny Zionu. Později duny a pobřeží Entrady — budoucí goblini.</li>
+<li><strong>Křída</strong> (145–66): moře se vrací a zaplavuje vnitrozemí. Šedé jíly Mancos, uhlí na Kaiparowits, pobřežní písky Dakoty.</li>
+<li><strong>Třetihory</strong>: srážka desek zvedá Skalisté hory i plošinu; do vrstev se vtlačuje magma Henry Mountains (~25 mil. let).</li>
+<li><strong>Čtvrtohory</strong>: řeky řežou kaňony, dopadá meteorit (~50 000 let), vybuchuje Sunset Crater (~1085 n. l.) — a v roce 2026 krajinu přepisují požáry.</li>
+</ol>
+<p>A tohle všechno uvidíme naskládané na sobě:</p>
+<div class="figure"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" font-family="DejaVu Sans, sans-serif">
+  <rect width="800" height="900" fill="#faf6f0"/>
+  <text x="12" y="24" font-size="15" font-weight="bold" fill="#333">Vrstevní sloupec cesty — od nejstarších (dole) po nejmladší (nahoře)</text>
+  <text x="12" y="41" font-size="10" fill="#886">Zjednodušeno; mocnosti nejsou v měřítku. Vpravo: kde vrstvu na cestě uvidíte.</text>
+
+  <!-- column x=70..300; rows from top (young) down (old) -->
+  <g font-size="10">
+    <rect x="70" y="60"  width="230" height="42" fill="#9aa5ab"/><text x="80" y="86" fill="#fff" font-weight="bold">Mancos Shale (křída, ~90–80)</text>
+    <text x="315" y="86" fill="#333">šedé „měsíční“ badlandy — Moonscape Overlook, Caineville</text>
+
+    <rect x="70" y="102" width="230" height="30" fill="#c8b25f"/><text x="80" y="122" fill="#443" font-weight="bold">Dakota Sandstone (~95)</text>
+    <text x="315" y="122" fill="#333">pobřeží vracejícího se moře; uhelné sloje — Coal Mine Canyon</text>
+
+    <rect x="70" y="132" width="230" height="46" fill="#b48fb0"/><text x="80" y="152" fill="#fff" font-weight="bold">Morrison Formation (~150)</text>
+    <text x="315" y="152" fill="#333">řeky a jezera s dinosaury; bentonit — Bentonite Hills;</text>
+    <text x="315" y="166" fill="#333">hostitel uranu (Salt Wash) ☢️</text>
+
+    <rect x="70" y="178" width="230" height="40" fill="#d98e4a"/><text x="80" y="202" fill="#fff" font-weight="bold">Entrada Sandstone (~165)</text>
+    <text x="315" y="202" fill="#333">přílivové pláně a duny — Goblin Valley, monolity Cathedral Valley</text>
+
+    <rect x="70" y="218" width="230" height="24" fill="#b06a4d"/><text x="80" y="235" fill="#fff" font-weight="bold">Carmel Formation (~168)</text>
+    <text x="315" y="235" fill="#333">mělké moře a sabcha; tmavé čepičky goblinů</text>
+
+    <rect x="70" y="242" width="230" height="60" fill="#f0e3c8"/><text x="80" y="262" fill="#875" font-weight="bold">Navajo Sandstone (~190)</text>
+    <text x="315" y="262" fill="#333">obří dunová poušť větší než Sahara —</text>
+    <text x="315" y="276" fill="#333">White Pocket, Coyote Buttes, stěny Zionu</text>
+    <text x="315" y="290" fill="#333">zkřížené zvrstvení = zkamenělé svahy dun</text>
+
+    <rect x="70" y="302" width="230" height="24" fill="#a5714f"/><text x="80" y="319" fill="#fff" font-weight="bold">Kayenta Formation (~195)</text>
+    <text x="315" y="319" fill="#333">řeky mezi dunami; římsy — a stopy dinosaurů (Moenave/Tuba City)</text>
+
+    <rect x="70" y="326" width="230" height="40" fill="#c1543c"/><text x="80" y="350" fill="#fff" font-weight="bold">Wingate Sandstone (~200)</text>
+    <text x="315" y="350" fill="#333">první velká poušť; kolmé rudé stěny — Capitol Reef, Circle Cliffs</text>
+
+    <rect x="70" y="366" width="230" height="46" fill="#8f7a9e"/><text x="80" y="386" fill="#fff" font-weight="bold">Chinle Formation (trias, ~220)</text>
+    <text x="315" y="386" fill="#333">pestré říční a jezerní vrstvy, zkamenělé dřevo;</text>
+    <text x="315" y="400" fill="#333">hostitel uranu (Shinarump) ☢️ — Painted Desert</text>
+
+    <rect x="70" y="412" width="230" height="34" fill="#8a5a44"/><text x="80" y="434" fill="#fff" font-weight="bold">Moenkopi Formation (~245)</text>
+    <text x="315" y="434" fill="#333">přílivové pláně; čokoládové vrstvy s čeřinami — okolí Capitol Reef</text>
+
+    <rect x="70" y="446" width="230" height="30" fill="#c2c6b8"/><text x="80" y="466" fill="#454" font-weight="bold">Kaibab Limestone (perm, ~270)</text>
+    <text x="315" y="466" fill="#333">dno mělkého moře — okraj Grand Canyonu, Meteor Crater</text>
+
+    <rect x="70" y="476" width="230" height="26" fill="#efe9dc"/><text x="80" y="494" fill="#875" font-weight="bold">White Rim Sandstone (~272)</text>
+    <text x="315" y="494" fill="#333">bílá pobřežní římsa — po ní jede White Rim Road</text>
+
+    <rect x="70" y="502" width="230" height="34" fill="#d9814e"/><text x="80" y="524" fill="#fff" font-weight="bold">De Chelly Sandstone (~275)</text>
+    <text x="315" y="524" fill="#333">dunová poušť — věže Monument Valley</text>
+
+    <rect x="70" y="536" width="230" height="24" fill="#a04a35"/><text x="80" y="553" fill="#fff" font-weight="bold">Organ Rock Shale (~280)</text>
+    <text x="315" y="553" fill="#333">červené podstavce věží Monument Valley</text>
+
+    <rect x="70" y="560" width="230" height="40" fill="#e8d9c2"/><text x="80" y="584" fill="#875" font-weight="bold">Cedar Mesa Sandstone (~275)</text>
+    <text x="315" y="584" fill="#333">světlé stolové hory — Valley of the Gods, Muley Point</text>
+
+    <rect x="70" y="600" width="230" height="44" fill="#9fb0b5"/><text x="80" y="620" fill="#fff" font-weight="bold">Honaker Trail Fm (karbon, ~305)</text>
+    <text x="315" y="620" fill="#333">střídání vápenců a břidlic tropického moře —</text>
+    <text x="315" y="634" fill="#333">pruhy „Navajo Rug“ / Raplee Anticline</text>
+  </g>
+
+  <!-- intrusion arrow -->
+  <path d="M 40 660 Q 55 500 60 380" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <defs><marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 z" fill="#555"/></marker></defs>
+  <text x="14" y="680" font-size="9" fill="#555">diorit Henry Mountains (~25 mil. let)</text>
+  <text x="14" y="692" font-size="9" fill="#555">se vtlačil napříč všemi vrstvami</text>
+
+  <!-- reading tips -->
+  <rect x="70" y="710" width="660" height="150" fill="#fff" stroke="#ccc" rx="8"/>
+  <text x="85" y="733" font-size="11" font-weight="bold" fill="#333">Jak číst krajinu z auta</text>
+  <g font-size="10" fill="#333">
+    <text x="85" y="755">• Kolmá stěna = tvrdý, dobře stmelený pískovec (Wingate, Navajo, De Chelly).</text>
+    <text x="85" y="773">• Měkký pruhovaný svah = jílovce a popel (Chinle, Morrison, Mancos) — erodují rychle.</text>
+    <text x="85" y="791">• Červená barva = trocha rzi: železo zoxidované na suchém vzduchu. Šedá a zelená = prostředí bez kyslíku.</text>
+    <text x="85" y="809">• Stolová hora s tvrdou čepičkou vydrží; bez čepičky se mění ve věž, pak ve sloup — a nakonec zmizí.</text>
+    <text x="85" y="827">• Stupňovitá krajina = střídání tvrdých a měkkých vrstev. Grand Staircase je z těchto schodů celé pohoří.</text>
+    <text x="85" y="845">• Uran ☢️ se váže hlavně na říční pískovce s organickou hmotou — proto doly leží v Chinle a Morrison.</text>
+  </g>
+</svg>
+</div>
+
+<div class="box aha">
+<p>💡 <strong>Aha moment.</strong> Krajina Coloradské plošiny je vzácná ne proto, že by se tu dělo něco výjimečného — ale proto, že se tu skoro nic neděje. Vrstvy zůstaly vodorovné, nezprohýbané horotvornými procesy, a suchý vzduch je udržuje odkryté. Je to archiv, který nikdo nezpřeházel.</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 3 — Babylon Fire a uran 🔥☢️</h1>
+<p>Nejaktuálnější kapitola knihy — a důvod, proč naše trasa vypadá jinak než v květnu.</p>
+<h2>Co se děje (stav k 5. 7. 2026)</h2>
+<p>Babylon Fire vzpukl koncem června severně od Elk Ridge Road v národním lese Manti-La Sal, uvnitř Bears Ears National Monument. Silný vítr ho rozehnal na severovýchod přes Dark Canyon Wilderness směrem k jižnímu okraji Canyonlands. K 5. červenci má přes <strong>90 000 akrů (přes 360 km²) a 0 % kontrolováno</strong> — je to jeden ze dvou největších požárů v USA. Uzavřen je celý distrikt Needles v Canyonlands a celý Monticello Ranger District; hasiči staví obrannou linii na Elk Ridge Road s odhadem kontroly k 1. srpnu.</p>
+<p>Proto jsme z trasy vypustili přechod přes Elk Ridge, Natural Bridges a severní Cedar Mesu a jedeme po silnicích přes Bluff a Mexican Hat.</p>
+<h2>Proč se u tohohle požáru mluví o uranu</h2>
+<p>Hoří totiž přímo v srdci historické uranové oblasti. Na Elk Ridge a Deer Flat, v Dark Canyonu a hlavně v sousedním White Canyonu se v 50.–70. letech těžil uran; nejslavnější je důl <strong>Happy Jack</strong>. Stovky malých štol a odvalů tam zůstaly dodnes.</p>
+<div class="figure"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 820" font-family="DejaVu Sans, sans-serif">
+  <rect width="800" height="820" fill="#faf6f0"/>
+  <text x="12" y="24" font-size="15" font-weight="bold" fill="#333">Babylon Fire × uranová historie — jihovýchodní Utah</text>
+  <text x="12" y="41" font-size="10" fill="#886">SCHÉMA, stav k 5. 7. 2026 (~90 000 akrů, 0 % kontrolováno) — polohy přibližné, neslouží k navigaci</text>
+
+  <!-- rivers -->
+  <path d="M 510 60 Q 450 140 385 235 Q 300 300 100 370 Q 60 380 20 390" fill="none" stroke="#7fb2d9" stroke-width="4" opacity="0.7"/>
+  <text x="430" y="140" font-size="10" fill="#4477a0" transform="rotate(38 430 140)">Colorado River</text>
+  <path d="M 780 590 Q 650 600 525 625 Q 440 650 370 681 Q 250 700 20 670" fill="none" stroke="#8fc2e0" stroke-width="3" opacity="0.7"/>
+  <text x="600" y="592" font-size="10" fill="#4477a0">San Juan River</text>
+
+  <!-- roads -->
+  <g stroke="#999" stroke-width="2" fill="none">
+    <path d="M 640 60 L 630 369 L 560 478 L 525 625 L 505 790"/>
+    <path d="M 560 478 L 400 480 L 295 482 L 175 465 L 100 430"/>
+    <path d="M 630 340 L 540 317 L 480 300"/>
+    <path d="M 370 681 L 305 642 L 300 540 L 295 482"/>
+    <path d="M 525 625 L 370 681"/>
+  </g>
+  <g font-size="9" fill="#777">
+    <text x="643" y="200">US-191</text>
+    <text x="445" y="500">UT-95</text>
+    <text x="545" y="308">UT-211</text>
+    <text x="308" y="575">UT-261</text>
+    <text x="440" y="672">US-163</text>
+  </g>
+
+  <!-- fire perimeter -->
+  <path d="M 330 470 Q 280 430 285 385 Q 295 330 340 300 Q 380 260 445 255 Q 490 260 495 300 Q 500 340 465 380 Q 450 430 400 465 Q 360 485 330 470 Z"
+        fill="#e25822" opacity="0.28" stroke="#c03a10" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="390" y="368" font-size="13" fill="#a03010" font-weight="bold" text-anchor="middle">🔥 BABYLON FIRE</text>
+  <text x="390" y="384" font-size="9" fill="#a03010" text-anchor="middle">Elk Ridge · Dark Canyon · Steamboat Peak</text>
+  <text x="390" y="396" font-size="9" fill="#a03010" text-anchor="middle">šíří se SV ke Canyonlands</text>
+
+  <!-- closure hint -->
+  <path d="M 250 300 L 630 300 L 630 520 L 250 520" fill="none" stroke="#e0a020" stroke-width="1.5" stroke-dasharray="2 4"/>
+  <text x="510" y="514" font-size="8.5" fill="#b07d10">uzávěra: celý Monticello Ranger District</text>
+
+  <!-- landmarks -->
+  <g font-size="9.5" fill="#222">
+    <circle cx="510" cy="60" r="4" fill="#333"/><text x="520" y="64">Moab</text>
+    <circle cx="430" cy="95" r="4" fill="#333"/><text x="330" y="90">Dead Horse Pt ✓</text>
+    <circle cx="425" cy="238" r="4" fill="#333"/><text x="433" y="234">Needles (uzavřen)</text>
+    <circle cx="540" cy="317" r="4" fill="#333"/><text x="548" y="313">Newspaper Rock ?</text>
+    <circle cx="630" cy="369" r="4" fill="#333"/><text x="640" y="373">Monticello</text>
+    <circle cx="560" cy="478" r="4" fill="#333"/><text x="570" y="482">Blanding</text>
+    <circle cx="365" cy="463" r="4" fill="#5a4"/><text x="308" y="480" fill="#464">Bears Ears</text>
+    <circle cx="295" cy="482" r="4" fill="#333"/><text x="200" y="497">Natural Bridges ✕</text>
+    <circle cx="525" cy="625" r="4" fill="#333"/><text x="533" y="622">Bluff</text>
+    <circle cx="370" cy="681" r="4" fill="#333"/><text x="378" y="695">Mexican Hat</text>
+    <circle cx="400" cy="628" r="4" fill="#333"/><text x="408" y="626">Valley of the Gods</text>
+    <circle cx="305" cy="632" r="4" fill="#333"/><text x="215" y="628">Muley Point ?</text>
+  </g>
+
+  <!-- route -->
+  <path d="M 430 95 L 480 300 L 540 317 L 630 340 L 630 369 L 560 478 L 525 625 L 370 681 L 305 642" fill="none" stroke="#b5522a" stroke-width="3" opacity="0.8"/>
+  <path d="M 540 317 L 430 400 L 365 463 L 295 482 L 300 540 L 305 632" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="640" y="430" font-size="9" fill="#8a3d1f" font-weight="bold">— naše trasa</text>
+  <text x="640" y="444" font-size="9" fill="#888">– – zrušená trasa</text>
+
+  <!-- uranium sites: triangles mines, squares mills. red=inside, orange=edge, dim=outside -->
+  <g>
+    <path d="M 325 425 l 6 11 l -12 0 z" fill="#c03a10"/><text x="245" y="430" font-size="9" fill="#802000">Deer Flat ●uvnitř</text>
+    <path d="M 355 330 l 6 11 l -12 0 z" fill="#c03a10"/><text x="272" y="335" font-size="9" fill="#802000">Elk Ridge ●uvnitř</text>
+    <path d="M 258 415 l 6 11 l -12 0 z" fill="#e07820"/><text x="130" y="420" font-size="9" fill="#904d10">Happy Jack ◐u hranice</text>
+    <path d="M 150 428 l 6 11 l -12 0 z" fill="#e07820"/><text x="60" y="452" font-size="9" fill="#904d10">White Canyon ◐západně</text>
+    <path d="M 225 470 l 6 11 l -12 0 z" fill="#777"/><text x="150" y="492" font-size="9" fill="#555">Fry Canyon ○mimo</text>
+    <path d="M 175 512 l 6 11 l -12 0 z" fill="#777"/><text x="100" y="534" font-size="9" fill="#555">Red Canyon ○mimo</text>
+    <path d="M 685 238 l 6 11 l -12 0 z" fill="#777"/><text x="660" y="230" font-size="9" fill="#555">Mi Vida / Lisbon Valley ○mimo</text>
+    <path d="M 275 745 l 6 11 l -12 0 z" fill="#777"/><text x="180" y="770" font-size="9" fill="#555">Monument No. 2 ○daleko J</text>
+    <rect x="500" y="52" width="9" height="9" fill="#3a6" opacity="0.9" transform="translate(-25 8)"/><text x="395" y="48" font-size="9" fill="#256">Moab / Atlas Mill (odváženo)</text>
+    <rect x="648" y="380" width="9" height="9" fill="#3a6"/><text x="660" y="389" font-size="9" fill="#256">Monticello Mill (sanováno)</text>
+    <rect x="352" y="700" width="9" height="9" fill="#3a6"/><text x="364" y="709" font-size="9" fill="#256">Mexican Hat Mill / Halchita (sanováno)</text>
+  </g>
+
+  <!-- legend + scale -->
+  <rect x="20" y="55" width="205" height="120" fill="#fff" stroke="#ccc" rx="6"/>
+  <g font-size="9" fill="#333">
+    <text x="30" y="73" font-weight="bold">Legenda</text>
+    <path d="M 36 82 l 6 11 l -12 0 z" fill="#c03a10"/><text x="50" y="92">důl uvnitř požáru</text>
+    <path d="M 36 100 l 6 11 l -12 0 z" fill="#e07820"/><text x="50" y="110">důl u hranice požáru</text>
+    <path d="M 36 118 l 6 11 l -12 0 z" fill="#777"/><text x="50" y="128">důl mimo požár</text>
+    <rect x="30" y="136" width="10" height="10" fill="#3a6"/><text x="50" y="145">úpravna / úložiště (sanováno)</text>
+    <line x1="30" y1="160" x2="143" y2="160" stroke="#333" stroke-width="3"/><text x="150" y="164">≈ 20 km</text>
+  </g>
+</svg>
+</div>
+
+<h2>Co je reálné riziko — a co ne</h2>
+<p>Tady je potřeba mluvit přesně, protože rozdíl mezi kategoriemi je obrovský:</p>
+<table>
+<thead>
+<tr>
+<th>Kategorie</th>
+<th>Co to je</th>
+<th>Riziko při požáru</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Odkaliště úpravny</strong> (tailings)</td>
+<td>miliony tun jemného kalu po chemickém zpracování rudy</td>
+<td>potenciálně vážné — proto jsou sanovaná a krytá</td>
+</tr>
+<tr>
+<td><strong>Opuštěný důl + odval</strong></td>
+<td>štola a hromada vytěžené horniny</td>
+<td>lokální: prach pro toho, kdo je přímo na místě</td>
+</tr>
+<tr>
+<td><strong>Přirozeně mineralizovaná hornina</strong></td>
+<td>uran rozptýlený v pískovci</td>
+<td>prakticky žádné nové riziko</td>
+</tr>
+</tbody>
+</table>
+<p>Uranové oxidy se při teplotách lesního požáru <strong>nevypařují</strong> — na to jsou potřeba tisíce stupňů. Skutečný mechanismus je obyčejnější a méně filmový: požár spálí vegetaci, která odvaly kotvila, a <strong>prach</strong> pak roznáší vítr a splachují monzunové přívaly. To je problém především pro hasiče pracující přímo v terénu, ne pro auto projíždějící po US-191 desítky kilometrů od ohně.</p>
+<p>Velká odkaliště v okolí — <strong>Mexican Hat, Monticello, Moab</strong> — jsou mimo požár: první dvě jsou dávno sanovaná a zakrytá, moabská halda se už léta po železnici odváží do vnitrozemí. Nic z toho nehoří.</p>
+<h2>Co to znamená pro nás</h2>
+<ul>
+<li><strong>White Rim / Island in the Sky / Dead Horse Point</strong>: severně od kaňonu Colorada, oheň tam nemůže — jde jen o kouř a výhledy.</li>
+<li><strong>Bears Ears</strong>: vynecháváme, i kdyby se otevřelo — hasičský provoz, spálený les, riziko bahnotoků.</li>
+<li><strong>Bluff / Mexican Hat / Valley of the Gods / Monument Valley</strong>: mimo požární oblast; prakticky jde nanejvýš o viditelnost.</li>
+<li><strong>Newspaper Rock</strong>: jen pokud bude v den průjezdu prokazatelně otevřeno.</li>
+</ul>
+<div class="box warn">
+<p>⚠️ <strong>Prakticky.</strong> Nevstupovat do starých dolů a nelézt po odvalech — to platí požár nepožár. Největší reálné riziko starých štol není radiace, ale závaly a špatný vzduch.</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 4 — Uranový boom Coloradské plošiny ☢️</h1>
+<h2>Chemická past</h2>
+<p>Uranová ložiska plošiny nevznikla jako jedna velká žíla. Spíš jako <strong>chemická past</strong>: podzemní voda nesla rozpuštěný uran porézním pískovcem — dokud nenarazila na místo s organickou hmotou a bez kyslíku, třeba pohřbený kmen jurského stromu. Tam se uran vysrážel a zůstal uvězněný v pórech horniny. Proto doly sledují dávná říční koryta ve vrstvách Chinle a Morrison, a proto se vedle uranu vyskytuje <strong>vanad</strong> — a žlutý minerál <strong>carnotit</strong>, který oba prvky obsahuje.</p>
+<h2>Tři vlny</h2>
+<ol>
+<li><strong>Radium (asi 1898–1923).</strong> Po objevu radia Curieovými byla Coloradská plošina krátce hlavním světovým zdrojem — dokud trh nezbořila bohatá ložiska v Kongu.</li>
+<li><strong>Vanad (30.–40. léta).</strong> Tvrdí ocel; carnotitové doly ožily podruhé. Z vanadových kalů se potajmu získával uran i pro <strong>projekt Manhattan</strong>.</li>
+<li><strong>Uran (1948–1970).</strong> Stát garantoval výkupní ceny a vypukla poslední velká prospektorská horečka Ameriky: tisíce mužů s geigerem a jeepem. Geolog <strong>Charlie Steen</strong> našel roku 1952 u Moabu ložisko <strong>Mi Vida</strong> („Můj život“), přes noc zbohatl a Moab se přejmenoval na „uranové hlavní město světa“. V <strong>White Canyonu</strong> zásoboval trh důl <strong>Happy Jack</strong> — původně měděný důl, jehož majitelé dlouho nevěděli, že ta „bezcenná černá hmota“ je uraninit.</li>
+</ol>
+<h2>Dědictví</h2>
+<p>Boom skončil, když stát v 70. letech přestal vykupovat. Zůstaly stovky štol, odvaly, a hlavně úpravny s odkališti: <strong>Mexican Hat Mill</strong> (dnes sanovaná mohyla u Halchity, uvidíme ji z US-163), <strong>Monticello Mill</strong> (vzorově sanováno), <strong>Atlas Mill v Moabu</strong> (obří halda u řeky, jejíž odvoz vlakem je jedna z největších sanací v USA). Nejtěžší kapitolou je zdravotní daň navažských horníků — např. z dolu <strong>Monument No. 2</strong> u Monument Valley — kteří léta fárali bez ventilace a bez informací; odškodňovací zákon RECA přišel až v roce 1990.</p>
+<div class="box aha">
+<p>💡 <strong>Aha moment.</strong> Pojedeme krajinou, kde se psaly dějiny dvacátého století: radium pro Curieovy, vanad do pancířů, uran do bomb i elektráren. A všechno to začalo žlutým práškem v pískovci.</p>
+</div>
+<div class="box car">
+<p>🧭 <strong>Co si všimnout z auta.</strong> U Mexican Hat na jižním břehu San Juanu leží nízká, pravidelná, kamenem krytá plošina — sanované odkaliště Halchita. Nenápadná mohyla, ve které leží celá jedna epocha.</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 5 — Meteor Crater: kosmická energie v kameni ☄️</h1>
+<p>Před ~50 000 lety letěl k dnešní Arizoně kus železa a niklu o průměru kolem 50 metrů rychlostí přes 40 000 km/h. Náraz uvolnil energii stovek Hirošim, vyhloubil jámu 1,2 km širokou a 170 m hlubokou a obrátil vrstvy na okraji kráteru vzhůru nohama jako převrácenou palačinku.</p>
+<p>Tady se <strong>kosmická rychlost proměnila v geologii</strong>: během několika sekund vzniklo víc tepla, tlaku a rozbité horniny, než by běžné procesy dokázaly za miliony let. Právě zde se v 60. letech učili chodit po kráterech astronauti Apolla — a geolog Gene Shoemaker tu dokázal, že jde o impakt, ne o sopku: našel horniny šokově přeměněné tlaky, které žádná sopka nevyvine.</p>
+<div class="box why">
+<p>🪨 <strong>Proč je to zajímavé?</strong> Je to nejzachovalejší meteoritový kráter na Zemi — díky suchému podnebí a mladému věku vypadá skoro jako v den dopadu. Na Měsíci jsou takových milionů; Země je maže erozí.</p>
+</div>
+<div class="box kid">
+<p>👦 <strong>Detektivní úkol.</strong> Najdi na okraji kráteru místo, kde by se dalo představit, že se vlna vyvrženého materiálu zastavila jako zamrzlá vlna. A zkus říct: proč je kráter kulatý, i když meteorit přiletěl šikmo? (Nápověda: nevyhloubil ho náraz tělesa, ale exploze — a exploze tlačí na všechny strany stejně.)</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 6 — Sunset Crater a Wupatki: krajina po výbuchu 🌋</h1>
+<p>Kolem roku <strong>1085</strong> — v Evropě se právě chystala první křížová výprava — vyrostla u dnešního Flagstaffu během několika měsíců černá sopka. Sunset Crater je <strong>cinder cone</strong>: kužel navršený z pórovité strusky, s vrcholem zbarveným do červena zoxidovaným železem, jako by věčně zapadalo slunce.</p>
+<p>Popel pokryl stovky kilometrů čtverečních. A tady se geologie potkává s archeologií: tenká vrstva popela funguje jako mulč — drží vlhkost. Pár desetiletí po erupci vyrostla o kus dál prosperující puebla <strong>Wupatki</strong>, postavená z rudých desek Moenkopi. Sopka, která jednu krajinu zničila, jinou otevřela.</p>
+<div class="box kid">
+<p>👦 <strong>Úkol.</strong> Najdi černou lávu. Zkus najít kámen, který je plný bublinek jako ztuhlá pěna — a hádej, proč je tak lehký. (Byl to plyn v magmatu — kámen je zkamenělá limonáda.)</p>
+</div>
+<div class="box warn">
+<p>⚠️ Na sypké struskové svahy se nesmí — každá šlápota tam vydrží desítky let.</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 7 — Coal Mine Canyon: barevný okraj Painted Desert 🪨</h1>
+<p>Málo známý kaňon na navažsko-hopijském pomezí, kde eroze vyřezala les bílých, okrových a rezavých hodoo věžiček. Nahoře tmavé pruhy: <strong>uhelné sloje</strong> křídové Dakoty — pozůstatek bažinatých pobřeží, kudy postupovalo vnitrozemské moře. Jméno kaňonu není poezie; uhlí se tu skutečně kopalo.</p>
+<p>Barvy vyprávějí o chemii: rez červená a okrová = železo zoxidované na vzduchu; šedá a bílá = vrstvy uložené bez kyslíku; černá = uhlík rostlin. A když uhelná sloj kdysi vzplála (blesk stačí), vypálila okolní jíl na cihlově rudý <strong>klinker</strong> — přírodní keramiku.</p>
+<div class="box photo">
+<p>📷 <strong>Fototip.</strong> Kaňon míří k východu — nejlepší barvy jsou pozdě odpoledne a při západu, kdy hodoos vrhají dlouhé stíny. Držte se u okraje s dětmi za ruku; hrany jsou přesypané.</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 8 — Moenave: stopy dinosaurů 🦖</h1>
+<p>U Tuba City vede přes rezavou plotnu pískovce několik desítek <strong>třícípých stop</strong>. Před ~195 miliony let tudy po vlhkém písku u řeky prošli štíhlí draví dinosauři — a stopy se zachovaly, protože je rychle zavál jemný sediment, který později zkameněl jinou barvou a tvrdostí než výplň stopy.</p>
+<p>Stopa je vzácnější svědek než kost. Kost řekne, <em>jak zvíře vypadalo</em>; stopa, <strong>jak žilo</strong>: jak rychle šlo, zda běželo, jestli bylo samo. Z rozestupu stop se dá rychlost spočítat — delší krok při stejné noze znamená běh.</p>
+<div class="box kid">
+<p>👦 <strong>Úkol.</strong> Polož dlaň do stopy a spočítej, kolikrát je delší než tvoje ruka. Pak zkus jít „dinosauřím krokem“ od jedné stopy ke druhé — musíš skákat? Tak rychle to zvíře šlo.</p>
+</div>
+<div class="box note">
+<p>🏕️ Prohlídku vedou místní navažští průvodci — funguje to na dobrovolný příspěvek a stojí to za to. Jsme hosty na navažské půdě; mimo veřejné cesty jen s povolením.</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 9 — Navajo Bridge a kondoři 🦅</h1>
+<p>U Marble Canyonu překračují Colorado dva ocelové oblouky vedle sebe: most z roku 1929 (dnes pro pěší) a jeho větší dvojče z 1995. Pod nimi teče řeka <strong>150 metrů hluboko</strong> v kolmém zářezu — mladý kaňon v dávných vápencích: řeka je tu miliony let, vrstvy stovky milionů.</p>
+<p>A pak ta hlavní atrakce: <strong>kondor kalifornský</strong>, s rozpětím až 3 metry největší pták Severní Ameriky. V roce 1987 zbývalo na světě posledních 22 kusů; všechny byly odchyceny do záchranného programu a od roku 1996 se vypouštějí právě u Vermilion Cliffs. Mostní konstrukce jim slouží jako oblíbené bidlo — dívejte se pod mostovku a hledejte křídelní štítky s čísly.</p>
+<div class="box kid">
+<p>👦 <strong>Úkol.</strong> Rozpaž ruce. Kondor má křídla skoro dvakrát tak široká. Najdeš na mostě ptáka s číslem na křídle? Každé číslo je jméno — všechny kondory tu znají jménem.</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 10 — White Pocket a Coyote Buttes: zkamenělá poušť 🪨</h1>
+<p>Díváte se na písek. Jenže ne na obyčejný písek. Tohle byla poušť už v době, kdy na Zemi neexistoval jediný pták. Duny <strong>Navajo Sandstone</strong> byly vysoké jako paneláky a pokrývaly plochu větší, než má dnešní Sahara. Vítr je přesouval tisíce let; pak minerály z podzemní vody slepily zrnka a poušť zkameněla. Šikmé linie ve skále — <strong>zkřížené zvrstvení</strong> — jsou zkamenělé závětrné svahy jednotlivých dun; každá linie je jeden dávný větrný den.</p>
+<p><strong>White Pocket</strong> nevypadá jako zkamenělá poušť proto, že by se písek jen proměnil v kámen. Vypadá tak proto, že po zkamenění prošel <strong>druhým životem</strong>: vodou, chemií, minerály a erozí. Železo putovalo roztoky a vysráželo se v pruzích a boulích; některé partie ještě před ztvrdnutím ujely a zvrásnily se jako <strong>rozteklá zmrzlina</strong> — geologové tomu říkají deformace měkkého sedimentu. V <strong>Coyote Buttes South</strong> (náš permit na 30. 7., oblast Paw Hole) tvoří tytéž procesy oranžovo-krémové cukrkandlové vlny.</p>
+<div class="box kid">
+<p>👦 <strong>Úkol.</strong> Najdi skálu, která vypadá jako slon, vlna nebo zmrzlina. A najdi tři různé barvy v jedné skále — pak společně hádejme, kudy tekla voda s rozpuštěnou rzí.</p>
+</div>
+<div class="box warn">
+<p>⚠️ Příjezd jen s 4×4 v hlubokém písku; v horku vozit vodu i pro auto. Permit na CBS mít vytištěný s sebou.</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 11 — Grand Staircase: schodiště o pěti barvách 🪨</h1>
+<p>Mezi Grand Canyonem a Bryce Canyonem stoupá krajina v pěti obřích stupních — Chocolate, Vermilion, White, Gray a Pink Cliffs. Každý schod je tvrdá vrstva chránící měkčí podloží; dohromady tvoří <strong>největší odkrytý sled vrstev v Severní Americe</strong>.</p>
+<div class="figure"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" font-family="DejaVu Sans, sans-serif">
+  <rect width="800" height="360" fill="#faf6f0"/>
+  <text x="12" y="24" font-size="14" font-weight="bold" fill="#333">Grand Staircase — velké schodiště (schéma průřezu, jih → sever)</text>
+
+  <!-- steps -->
+  <path d="M 30 320 L 130 320 L 130 270 L 250 270 L 250 220 L 380 220 L 380 170 L 510 170 L 510 120 L 640 120 L 640 80 L 770 80 L 770 340 L 30 340 Z" fill="#e8d9c2" stroke="#a08a68"/>
+  <rect x="30"  y="320" width="100" height="20" fill="#c2c6b8"/>
+  <rect x="130" y="270" width="120" height="50" fill="#8a5a44"/>
+  <rect x="250" y="220" width="130" height="50" fill="#c1543c"/>
+  <rect x="380" y="170" width="130" height="50" fill="#f0e3c8"/>
+  <rect x="510" y="120" width="130" height="50" fill="#9aa5ab"/>
+  <rect x="640" y="80"  width="130" height="40" fill="#e8a0b4"/>
+
+  <g font-size="9.5" fill="#333">
+    <text x="40"  y="312">Kaibab — okraj</text>
+    <text x="40"  y="300" font-weight="bold">Grand Canyon</text>
+    <text x="138" y="262" font-weight="bold">Chocolate Cliffs</text>
+    <text x="138" y="250">Moenkopi/Chinle</text>
+    <text x="258" y="212" font-weight="bold">Vermilion Cliffs</text>
+    <text x="258" y="200">Wingate/Moenave</text>
+    <text x="388" y="162" font-weight="bold">White Cliffs</text>
+    <text x="388" y="150">Navajo Sandstone</text>
+    <text x="518" y="112" font-weight="bold">Gray Cliffs</text>
+    <text x="518" y="100">křídové vrstvy</text>
+    <text x="648" y="72"  font-weight="bold">Pink Cliffs</text>
+    <text x="648" y="60">Claron — Bryce</text>
+  </g>
+
+  <g font-size="9" fill="#7a5030">
+    <text x="60" y="356">← ke Grand Canyonu (starší, hlouběji)</text>
+    <text x="560" y="356">k Bryce Canyonu (mladší, výše) →</text>
+  </g>
+  <text x="30" y="50" font-size="10" fill="#555">Každý „schod“ = tvrdá vrstva, která chrání měkčí vrstvy pod sebou. Cesta 2. segmentu stoupá</text>
+  <text x="30" y="64" font-size="10" fill="#555">po tomto schodišti: Vermilion Cliffs → Coral Pink (Navajo) → Bryce (Pink Cliffs) a zase dolů.</text>
+</svg>
+</div>
+
+<p>Druhý segment cesty po něm stoupá skoro celý: Vermilion Cliffs u Stateline, navajský pískovec u Coral Pink Sand Dunes (dnešní duny z rozpadlého jurského pískovce — poušť recyklující sama sebe), růžové věže Bryce nahoře a barevné komíny <strong>Kodachrome Basin</strong> cestou dolů. <strong>Smoky Mountain Road</strong> pak křižuje Kaiparowits Plateau — šedou křídovou zemi uhlí, kde místy pod povrchem desítky let doutnají zapálené sloje (odtud „Smoky“) a která patří k paleontologicky nejbohatším místům kontinentu.</p>
+<div class="box aha">
+<p>💡 <strong>Aha moment.</strong> Grand Staircase znamená, že tu krajina nezmizela — jen se odstěhovala. Vrstvy, které kdysi ležely <em>nad</em> okrajem Grand Canyonu, dnes tvoří schody o sto kilometrů severněji.</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 12 — Goblin Valley: proč vznikají skřítci 🪨</h1>
+<p>Goblini nejsou vytesaní. Jsou to zbytky horniny, která odolala o trochu déle než okolí. Krajina tu není sochařem, ale <strong>sítem</strong>: měkké zmizí, tvrdší zůstane.</p>
+<p>Recept je jednoduchý: <strong>Entrada Sandstone</strong> se tu ukládal na přílivových pláních jurského moře — střídavě písek a jíl. Písek tmelí lépe; jíl podléhá. Kde nahoře drží tvrdší deska, vznikne hřib; deskou prosakuje voda k „krku“, který se zužuje… a jednoho dne hlava spadne. Údolí je plné goblinů všech generací — od boulí, co se teprve rodí z hrany plošiny, po spadlé hlavy v písku.</p>
+<div class="box kid">
+<p>👦 <strong>Úkol.</strong> Tady se smí mezi gobliny lézt! Najdi goblina, který vypadá jako něčí hlava. Pak najdi (1) goblina, co se teprve rodí, a (2) goblina, kterému už hlava spadla. Právě jsi přečetl celý životopis skály.</p>
+</div>
+<div class="box photo">
+<p>📷 <strong>Fototip.</strong> Nejlépe hodinu před západem — nízké slunce dá goblinům tváře. V noci patří údolí hvězdám; je to jedno z nejtmavších míst Utahu.</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 13 — Capitol Reef a Cathedral Valley: zvrásněná země 🪨</h1>
+<p><strong>Waterpocket Fold</strong> je stokilometrová vráska v zemské kůře — monoklina: na západě vrstvy zdvižené o víc než kilometr, na východě vodorovné. Vznikla před ~60 miliony let při stavbě Skalistých hor a eroze z ní vypreparovala dlouhé rovnoběžné hřbety, kterými se dá projet jen několika průrvami. Pro vozky 19. století to byl „reef“ — útes v cestě.</p>
+<p><strong>Cathedral Valley</strong> na severu je jiná kapitola téže knihy: osamělé monolity Entrada pískovce — Temple of the Sun, Temple of the Moon — chráněné tenkou tvrdší čepičkou, katedrály, které síto eroze ještě nestačilo prosít. Cestou tam: brody, pouštní pláně a ticho, jaké se dnes těžko hledá.</p>
+<div class="box car">
+<p>🧭 <strong>Co si všimnout z auta.</strong> Podél Hartnet Road střídavě čokoládové plotny Moenkopi s čeřinami po přílivu starém 245 milionů let — a pod Temple of the Sun třpytivé krystaly sádrovce („pouštní sklo“).</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 14 — Bentonite Hills a Moonscape: měkká, zrádná, nádherná 🪨</h1>
+<p>Duhové kopce u Caineville — fialová, šedozelená, vínová — jsou <strong>bentonit</strong>: sopečný popel z jurských erupcí na západě, spadlý do jezer a řek souvrství Morrison a zvětralý na jíl. Tentýž jíl, ve kterém jinde na plošině leží kosti dinosaurů i uranová ruda.</p>
+<p>Bentonit má vlastnost, kterou je třeba znát: <strong>saje vodu a bobtná</strong>. Po dešti se povrch změní v mazlavé mýdlo, na kterém neprojede ani 4×4 — a proto sem za mokra a před bouřkou nejezdíme. <strong>Moonscape Overlook</strong> o kus dál hledí do šedých badlandů <strong>Mancos Shale</strong> — bahna křídového moře, které tu stálo desítky milionů let. Bez vegetace, rozřezané do žeber: nejmimozemštější výhled cesty, deset minut od silnice.</p>
+<div class="box warn">
+<p>⚠️ <strong>Prakticky:</strong> za mokra nevjíždět na bentonitové cesty (Cathedral Valley, Bentonite Hills, Moonscape). Když prší nebo má pršet — otočit se. Jíl neodpouští.</p>
+</div>
+<div class="box kid">
+<p>👦 <strong>Úkol.</strong> Spočítej, kolik barev najdeš na jednom kopci. Večer a po ránu jsou barvy sytější — vlhkost je „vyvolá“ jako fotografii.</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 15 — Henry Mountains: hory, které nejsou sopky 🪨</h1>
+<p>Když se podíváte na sopku, vidíte magma, kterému se podařilo dostat ven. Henry Mountains jsou přesný opak. Díváte se na <strong>magma, které selhalo</strong>. Nikdy neprorazilo na povrch. Jen nadzvedlo vrstvy nad sebou jako hydraulický zvedák. Teprve eroze nám dovolila vidět, co se stalo uvnitř.</p>
+<div class="figure"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="DejaVu Sans, sans-serif">
+  <rect width="800" height="420" fill="#faf6f0"/>
+  <text x="12" y="24" font-size="14" font-weight="bold" fill="#333">Lakolit: jak vznikly Henry Mountains (schéma)</text>
+
+  <!-- left: intrusion -->
+  <text x="90" y="55" font-size="11" font-weight="bold" fill="#555">1. Před ~25 miliony let</text>
+  <g>
+    <rect x="40" y="200" width="300" height="18" fill="#c8b25f"/>
+    <path d="M 40 182 L 110 182 Q 190 120 270 182 L 340 182 L 340 200 L 40 200 Z" fill="#b48fb0"/>
+    <path d="M 40 164 L 110 164 Q 190 95 270 164 L 340 164 L 340 182 L 110 182 Q 190 120 270 182 L 340 182 L 340 164" fill="#d98e4a"/>
+    <path d="M 40 164 L 110 164 Q 190 95 270 164 L 340 164" fill="none" stroke="#a06a30" stroke-width="1"/>
+    <path d="M 40 146 L 105 146 Q 190 70 275 146 L 340 146 L 340 164 L 270 164 Q 190 95 110 164 L 40 164 Z" fill="#f0e3c8"/>
+    <ellipse cx="190" cy="175" rx="75" ry="38" fill="#8a2f2f"/>
+    <path d="M 190 213 L 190 260" stroke="#8a2f2f" stroke-width="16"/>
+    <rect x="40" y="218" width="300" height="60" fill="#9fb0b5"/>
+    <text x="190" y="180" font-size="10" fill="#fff" text-anchor="middle" font-weight="bold">magma</text>
+    <text x="205" y="250" font-size="9" fill="#fff">přívod</text>
+    <text x="48" y="112" font-size="9" fill="#555">vrstvy se zvedají</text>
+    <text x="48" y="124" font-size="9" fill="#555">jako nad hydraulickým zvedákem</text>
+  </g>
+
+  <!-- right: today -->
+  <text x="470" y="55" font-size="11" font-weight="bold" fill="#555">2. Dnes, po erozi</text>
+  <g>
+    <rect x="440" y="218" width="320" height="60" fill="#9fb0b5"/>
+    <rect x="440" y="200" width="320" height="18" fill="#c8b25f"/>
+    <path d="M 440 182 L 470 182 Q 520 165 545 150 L 655 150 Q 680 165 730 182 L 760 182 L 760 200 L 440 200 Z" fill="#b48fb0"/>
+    <path d="M 545 150 Q 600 100 655 150 Z" fill="#8a2f2f"/>
+    <path d="M 470 182 Q 520 165 545 150" fill="none" stroke="#a06a30" stroke-width="2"/>
+    <path d="M 655 150 Q 680 165 730 182" fill="none" stroke="#a06a30" stroke-width="2"/>
+    <text x="600" y="140" font-size="10" fill="#7a2020" text-anchor="middle" font-weight="bold">odkryté ztuhlé magma = vrchol hory</text>
+    <text x="600" y="128" font-size="9" fill="#555" text-anchor="middle">Mt. Ellen · Mt. Pennell · Mt. Hillers</text>
+    <text x="448" y="172" font-size="9" fill="#555">zdvižené vrstvy</text>
+    <text x="448" y="184" font-size="9" fill="#555">po stranách</text>
+  </g>
+
+  <g font-size="10" fill="#333">
+    <text x="40" y="320" font-weight="bold">Proč je to slavné:</text>
+    <text x="40" y="340">Geolog Grove Karl Gilbert zde v roce 1877 poprvé popsal a pojmenoval lakolit — magma, které se</text>
+    <text x="40" y="356">vtlačilo mezi vrstvy, nadzvedlo je do klenby a nikdy neproniklo na povrch. Henry Mountains se tak</text>
+    <text x="40" y="372">staly učebnicovým příkladem, který se dodnes cituje po celém světě. Bonus: kolem se volně pase</text>
+    <text x="40" y="388">jedno z posledních divokých stád bizonů v USA.</text>
+  </g>
+</svg>
+</div>
+
+<p>Byly to poslední zmapované hory kontinentálních USA (Powellova expedice je pojmenovala až 1872) a dodnes patří k nejopuštěnějším: McMillan Spring, kam jedeme spát, leží v ponderosovém lese ve výšce, kde po týdnech pouště voní pryskyřice. A kolem se pase <strong>divoké stádo bizonů</strong> — potomci 18 kusů převezených roku 1941 z Yellowstonu, jedno z mála stád na světě, které žije volně a bez plotů.</p>
+<div class="box kid">
+<p>👦 <strong>Úkol.</strong> Bizony hledej z auta na lučních svazích brzy ráno. Vypadá bizon do kopce, nebo z kopce větší? A proč se vlastně nesmí hladit? (Protože je rychlejší než ty. O hodně.)</p>
+</div>
+<div class="box fire">
+<p>🔥 V sezóně 2026 je celý region extrémně suchý. V Henryách zatím nehoří, ale před odjezdem z Hanksville zkontrolovat aktuální stav a počítat se zákazem ohňů.</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 16 — White Rim Road: ostrov mezi řekami 🪨</h1>
+<p>Island in the Sky je stolová hora vyzdvižená mezi dvěma řekami: zprava Colorado, zleva Green, dole jejich soutok. My strávíme dva dny na <strong>White Rim</strong> — bílé římse permského pískovce, která obíhá celou mesu ~360 metrů pod okrajem a ~300 metrů nad řekami. Římsa drží proto, že bílý pískovec dávného pobřeží je tvrdší než rudé vrstvy pod ním i nad ním: příroda si tu postavila vlastní balkon.</p>
+<p>Sjezd po <strong>Shafer Trail</strong> — serpentinách vysekaných do kolmé stěny těžaři uranu v 50. letech (i tahle silnice je dítě uranového boomu ☢️) — patří k nejdramatičtějším kilometrům cesty. Nocleh <strong>White Crack</strong> leží na samém jižním výběžku s výhledem na soutok a rozeklanou zemi Maze a Needles. Výjezd druhý den serpentinami Mineral Bottom nad Green River.</p>
+<div class="box fire">
+<p>🔥 <strong>Kouř z Babylon Fire.</strong> Požár je za kaňonem Colorada, desítky kilometrů daleko — sem nemůže. Reálné riziko je jen <strong>haze</strong>: mléčný vzduch a slabší výhledy, při špatném větru štiplavý večer. Je to otázka pohodlí a fotek, ne bezpečí. Před sjezdem mrknout na kouřovou předpověď.</p>
+</div>
+<div class="box kid">
+<p>👦 <strong>Úkol.</strong> Až budeme na White Crack: najdi soutok dvou řek. Která voda je zelenější? A proč se asi Green River jmenuje Green?</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 17 — San Juan a „Navajo Rug“: přeložený koberec 🪨</h1>
+<p>Mezi Bluffem a Mexican Hat se podél silnice zvedne hřbet, který vypadá, jako by někdo přes údolí přehodil obří tkaný koberec: pravidelné šedo-rudé klikaté pruhy, kilometr za kilometrem. To je <strong>Raplee Anticline</strong>.</p>
+<p>Recept na koberec: vezměte střídavé vrstvy vápenců a rudých břidlic karbonského tropického moře (~305 mil. let), ohněte je před ~60 miliony let do klenby — a nechte řeku San Juan a její přítoky rozřezat boky klenby do trojúhelníkových žeber. Vzor „navažského koberce“ je čistá geometrie: šikmé vrstvy × zářezy roklí.</p>
+<p>O kus dál balancuje <strong>Mexican Hat</strong> — sombrero o průměru 18 metrů na tenké noze — a <strong>Goosenecks</strong>, kde San Juan teče šesti kilometry meandrů, aby postoupil o jeden a půl: řeka, která meandrovala na rovině a pak byla i s meandry zaklesnuta 300 metrů do skály.</p>
+<div class="box photo">
+<p>📷 <strong>Fototip.</strong> Nejlepší světlo na Raplee: pozdní odpoledne z US-163 mezi Bluffem a Mexican Hat, pruhy svítí naproti slunci. Zastavovat jen na pull-outech.</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 18 — Valley of the Gods, Moki Dugway a Muley Point 🪨</h1>
+<p><strong>Valley of the Gods</strong> je Monument Valley bez vstupného a bez davů: sedmnáctimílová prašná smyčka mezi věžemi a stolovými horami z <strong>Cedar Mesa Sandstone</strong> — bílého pískovce permského pobřeží, který o pár kilometrů jižněji vystřídá rudý De Chelly. Jména mluví sama: Sedm námořníků, Sedící slepice, Rooster Butte.</p>
+<p>Ze západního konce smyčky stoupá <strong>Moki Dugway</strong>: tři míle šotolinových serpentin vysekaných v roce 1958 do kolmé hrany Cedar Mesy — postavených, aby náklaďáky svážely uranovou rudu z Happy Jack do úpravny v Mexican Hat ☢️. Dnes je to jedna z nejvyhlídkovějších silnic Utahu. Nahoře odbočka na <strong>Muley Point</strong>: hrana, z níž je vidět zaklesnuté meandry San Juanu 300 metrů pod nohama, Monument Valley na obzoru a při dobré viditelnosti sto kilometrů země.</p>
+<div class="box note">
+<p>🏕️ <strong>Naše pravidlo:</strong> jestli na Muley Point pojedeme, rozhodneme dole ve Valley of the Gods — podle toho, jak vypadá obloha a kouř nad hranou Cedar Mesy. Když je hrana v oparu, výhled nebude a serpentiny si necháme na příště.</p>
+</div>
+<div class="box kid">
+<p>👦 <strong>Úkol.</strong> Ve Valley of the Gods si vyber věž a pozoruj: má nahoře tvrdou čepičku? Zkus najít věž, které čepička už spadla — jak dlouho asi ještě vydrží stát?</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 19 — Monument Valley: vrstva po vrstvě 🪨</h1>
+<p>Nejfotografovanější siluety amerického Západu jsou třípatrová stavba: rudý sokl <strong>Organ Rock Shale</strong>, kolmé stěny <strong>De Chelly Sandstone</strong> — permské duny, starší sestry navajského pískovce — a tvrdá stříška zbytků Moenkopi se Shinarumpem. Butty a věže jsou poslední ostrůvky plošiny, která tu kdysi byla celá; East a West Mitten jsou dva snímky téhož filmu, jen v různém čase.</p>
+<p>A pak je tu druhá vrstva významu: jsme v <strong>Navajo Nation</strong>, největší indiánské rezervaci USA, a Tse'Bii'Ndzisgaii je pro Navahy posvátná země, ne kulisa. Že „takhle vypadá Divoký západ“, si svět myslí hlavně proto, že sem John Ford od roku 1939 jezdil točit westerny s Johnem Waynem. Skutečnost je zajímavější než film: mezi monumenty se dodnes bydlí, pase a tká.</p>
+<div class="box photo">
+<p>📷 <strong>Fototip.</strong> Klasika od The View za úsvitu — Mittens proti vycházejícímu slunci. My tam právě budeme spát.</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 20 — Grand Canyon, Desert View: nejhlubší pohled do času 🪨</h1>
+<p>Grand Canyon není „největší díra na světě“ — je to <strong>nejlépe otevřená kniha planety</strong>. Z Desert View je vidět skoro dva kilometry vrstev: nahoře Kaibab (~270 mil. let, tentýž, po kterém jsme chodili u Meteor Crateru), dole u řeky horniny staré skoro <strong>dvě miliardy let</strong>. A mezi nimi slavná <strong>Great Unconformity</strong>: plocha, kde na sobě leží vrstvy, mezi nimiž chybí přes miliardu let záznamu — nejdelší „vytržená stránka“ v knize Země.</p>
+<p>Samotný zářez je přitom bleskový: Colorado prořezává plošinu zhruba <strong>posledních 5–6 milionů let</strong>. Kámen starý, kaňon mladý. <strong>Watchtower</strong> na hraně není historická stavba, ale poklona architektky Mary Colter (1932) věžím Ancestral Puebloans — a její vyhlídkové patro je nejlepší učebna geologie na trase.</p>
+<div class="box aha">
+<p>💡 <strong>Aha moment.</strong> Kdyby celá historie Země byla jeden den, vrstvy viditelné z Desert View pokrývají jeho polovinu — a celé lidstvo je poslední zlomek vteřiny před půlnocí.</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 21 — Sonorská poušť: inženýrství přežití 🌵</h1>
+<p>Poslední dny patří jiné planetě: dolů z plošiny, do horka Sonorské pouště. Je to paradoxně <strong>nejzelenější poušť světa</strong> — má dvě období dešťů ročně — a její obyvatelé jsou mistři inženýrství:</p>
+<ul>
+<li><strong>Saguaro</strong> je vodárenská věž: harmonikové žebrování se po dešti roztáhne a kmen pojme tuny vody; mělké kořeny sahají daleko do stran. Boky mu zpevňuje dřevěná kostra jako výztuž betonu. Roste pomalu — první „ruka“ až kolem sedmdesátky.</li>
+<li><strong>Organ pipe cactus</strong>, píšťalový kaktus, roste v USA prakticky jen v národním monumentu, kam jedeme — tady prochází severní hranice jeho světa, daná mrazem.</li>
+<li><strong>Ocotillo</strong> hraje jinou hru: po většinu roku svazek suchých prutů, po dešti do týdne obalený lístky, které zase shodí. Listy si kupuje jen, když jsou levné.</li>
+</ul>
+<p>Cestou domů ještě <strong>Kitt Peak</strong> — hora observatoří v zemi kmene Tohono O'odham, s největší sbírkou dalekohledů na jednom vrcholu. Pouštní nebe, které v noci uvidíme z kempu Twin Peaks, patří k nejtmavším na jihu USA.</p>
+<div class="box kid">
+<p>👦 <strong>Úkol.</strong> Najdi saguaro, které má víc rukou, než máš ty prstů na jedné ruce. Bude starší než sto let. A večer: kolik napočítáš hvězd za minutu?</p>
+</div>
+<div class="box warn">
+<p>⚠️ Srpen v Sonorské poušti = přes 40 °C. Voda, elektrolyty, klobouky; túry jen za svítání. Nikdy nesahat do děr a pod kameny.</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 22 — Požár jako geologický proces 🔥</h1>
+<p>Požáry nejsou jen překážka v itineráři — jsou to geologické síly v přímém přenosu, a my letos pojedeme kolem dvou.</p>
+<p>Co požár dělá s krajinou:</p>
+<ol>
+<li><strong>Odstraní vegetaci</strong>, která držela svahy. Kořeny přestanou kotvit půdu.</li>
+<li>Žár může vytvořit <strong>vodoodpudivou vrstvu</strong> těsně pod povrchem: vosky z rostlin se vypaří a srazí v půdě jako neviditelná fólie.</li>
+<li>Přijde monzun — a voda, která se dřív vsákla, <strong>steče po povrchu naráz</strong>. Výsledkem jsou bleskové povodně a <strong>debris flows</strong>: bahnotoky nesoucí balvany, schopné přehradit silnici během minut.</li>
+</ol>
+<p>Proto platí, že <strong>rok po požáru bývá nebezpečnější než požár sám</strong> — a proto se vyhýbáme i znovuotevřeným spáleništím (Bears Ears): nejde jen o plameny, ale o hasičský provoz, padající stromy, nestabilní svahy a bahno po každé bouřce. Kouř je pak kapitola sama pro sebe: částice cestují stovky kilometrů, večer klesají do kaňonů s inverzí a ráno se zase zvedají. Odtud naše pravidlo sledovat AQI a kouřovou předpověď.</p>
+<div class="box aha">
+<p>💡 <strong>Aha moment.</strong> Až za pár let pojede někdo přes Elk Ridge, uvidí erozní rýhy, nové vějíře sedimentů a mladý les. Stejné procesy, které vytvořily barevné vrstvy, jimiž jsme celou cestu projížděli — jen tentokrát v reálném čase.</p>
+</div>
+<div class="after"><div class="slot">📷 fotografie</div><div class="lines"></div></div>
+
+<h1>Kapitola 23 — Praktický appendix 🏕️</h1>
+<h2>Před odletem (do 23. 7.)</h2>
+<ul>
+<li>☐ Motel Tucson — rezervace + <strong>adresa pro vstupní formuláře</strong></li>
+<li>☐ Christopher Creek CG (24/25. 7.) — rezervace, jinak FR-300</li>
+<li>☐ Verde Canyon Railroad — stav (Pocket Fire!) → teprve pak koupit lístky</li>
+<li>☐ Vytisknout permity: <strong>CBS 30. 7.</strong>, <strong>White Rim 10.–11. 8.</strong></li>
+<li>☐ Rozhodnout smyčku Orange Cliffs (permit!)</li>
+<li>☐ Ověřit potvrzení: Coral Pink, Kodachrome, Goblin Valley, Dead Horse Pt ×2, Monument Valley, Twin Peaks, Hilton PHX</li>
+</ul>
+<h2>Kontroly požárů cestou</h2>
+<table>
+<thead>
+<tr>
+<th>Kdy</th>
+<th>Co</th>
+<th>Kde</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>týden předem + průběžně</td>
+<td>Babylon Fire — perimetr, uzávěry</td>
+<td>InciWeb, BLM Monticello, Utah Fire Info</td>
+</tr>
+<tr>
+<td>před 11. 8.</td>
+<td>Newspaper Rock / UT-211 otevřeno? Comb Wash mimo uzávěru?</td>
+<td>BLM Monticello</td>
+</tr>
+<tr>
+<td>9.–10. 8.</td>
+<td>kouř/AQI pro White Rim</td>
+<td>fire.airnow.gov</td>
+</tr>
+<tr>
+<td>před 13. 8.</td>
+<td>Pocket Fire, SR-89A, vlak jede?</td>
+<td>Verde Canyon RR přímo, Coconino NF</td>
+</tr>
+<tr>
+<td>před 5. 8.</td>
+<td>Henry Mountains — nové požáry, zákaz ohňů</td>
+<td>BLM Utah fire news</td>
+</tr>
+</tbody>
+</table>
+<h2>Zlatá pravidla</h2>
+<ul>
+<li>Voda: v horku 4+ litry na osobu a den; v autě vždy zásoba navíc a elektrolyty.</li>
+<li>Bentonit a bouřky: za mokra ani metr; nikdy nestát a nespat ve washi (koryto) — bouřka 30 km daleko stačí.</li>
+<li>Kouř: štípe-li večer vzduch, spát dál od kaňonových den, kam kouř klesá.</li>
+<li>Navajo/Hopi land: mimo veřejné cesty jen s povolením; fotit lidi jen se svolením.</li>
+<li>Staré doly: nevstupovat, nelézt po odvalech, nic nesbírat. ☢️</li>
+<li>Divoká zvířata: bizon vypadá pomalý. Není.</li>
+</ul>
+<h1>Deník cesty ✏️</h1>
+<p><em>Následující stránky jsou schválně skoro prázdné. Patří tomu, co se nedá naplánovat.</em></p>
+<div class="diarypage"><h2>Co nás nejvíc překvapilo</h2><div class="slot big">📷</div><div class="lines tall"></div></div>
+
+<div class="diarypage"><h2>Nejlepší tábořiště / nejlepší jídlo / nejhorší cesta</h2><div class="slot big">📷</div><div class="lines tall"></div></div>
+
+<div class="diarypage"><h2>Co jsme si slíbili příště</h2><div class="slot big">📷</div><div class="lines tall"></div></div>
+
+<div class="colophon">
+<h2>O této knize</h2>
+<p>Sestaveno z rodinné „trip wiki“ před cestou (stav k 5. 7. 2026). Údaje o požárech pocházejí z veřejných zpráv k témuž datu a <strong>je nutné je ověřit</strong> (InciWeb, BLM, NPS); geologie a historie vycházejí z běžně dostupných materiálů USGS, Utah Geological Survey, NPS a DOE Legacy Management — zjednodušeno pro čtení na cestě, stáří vrstev zaokrouhlena. Mapy jsou schémata, ne navigační podklad.</p>
+<p>Zdrojový text knihy je v adresáři <code>atlas/</code> rodinného repozitáře — po návratu do něj doplníme fotografie (rámečky 📷), přepíšeme zápisky z okrajů a vydáme verzi 2: kroniku toho, jak to všechno doopravdy bylo.</p>
+</div></body></html>
