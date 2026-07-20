@@ -47,6 +47,8 @@ Pěšky San Rafael Reef a Henry Mountains (source: Časový rozvrh).
 
 Permity na 10. a 11. 8. (White Rim) (source: Časový rozvrh). K tomuto segmentu se váže [[moab-reserve-list]] — rezervní zastávky kolem Moabu a doporučení doplnit zásoby před White Rim.
 
+⚠️ Přejezd 11.–12. 8. přes Elk Ridge / Bears Ears závisí na uzávěrách po požáru — Needles se 18. 7. otevřel, ale uzávěra Forest Service zatím platí; viz [[babylon-fire]].
+
 - Wild Horse State Park 9/10
 - White Crack Campground 10/11 (permit)
 - Nizhoni Campground (s jezerem) 11/12, nebo Comb Wash Campground

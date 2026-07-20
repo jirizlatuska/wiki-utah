@@ -40,7 +40,7 @@ Seznam se váže k moabské části cesty — v [[casovy-rozvrh]] jde o segment 
 ## Praktické poznámky
 
 - Petroglyfické lokality jsou málo citlivé na kouř — pohyb přímo pod skalním panelem, zážitek nezávisí na dálkové viditelnosti (na rozdíl od Dead Horse Point nebo Green River Overlook) (source: Moab reserve list).
-- Před odjezdem ověřit: stav Kane Creek Road, lokální uzávěry, riziko bleskových povodní po bouřkách. Nesouvisí přímo s Babylon Fire, ale mohou ovlivnit přístup (source: Moab reserve list).
+- Před odjezdem ověřit: stav Kane Creek Road, lokální uzávěry, riziko bleskových povodní po bouřkách. Nesouvisí přímo s [[babylon-fire]], ale mohou ovlivnit přístup (source: Moab reserve list).
 - Po expedici doplnit: fotografie, skutečné časy, GPS parkovišť, denní doby, návštěvnost, kvalitu světla, nové bonusové lokality (source: Moab reserve list).
 
 ## Related pages

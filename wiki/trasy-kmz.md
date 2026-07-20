@@ -30,7 +30,7 @@ Goblin Valley → Moonscape Overlook → Cathedral Valley → Cathedral Valley C
 
 Hanksville → Shafer Trail Viewpoint → White Crack (White Rim, permit) → Mineral Bottom Switchbacks → Horse Mountain → Natural Bridges NM → Muley Point East (source: Directions from BLM 0095 Hanksville to Muley Point East.kmz).
 
-K tomuto úseku se váže [[moab-reserve-list]] (rezervní zastávky kolem Moabu).
+K tomuto úseku se váže [[moab-reserve-list]] (rezervní zastávky kolem Moabu). ⚠️ Úsek přes Horse Mountain (Elk Ridge) leží v oblasti uzávěry po Babylon Fire — viz [[babylon-fire]] (záloha: US-191/UT-95 přes Blanding).
 
 Pozn.: Pro segment 6 (Muley Point → Sedona → Phoenix) KMZ trasa v raw/ není — viz [[segment-6-revised-plan]].
 

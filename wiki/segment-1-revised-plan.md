@@ -67,8 +67,8 @@ Beze změny — navazuje segment 2 podle [[casovy-rozvrh]] (Pink Coral Dunes 27/
 
 ## Akční kroky (deadline 21. 7.)
 
-1. **Koupit/přebookovat jízdenky** na Classic Canyon Ride pá 24. 7. 13:00 ([[verde-canyon-railroad]], tel. 800 582 7245).
-2. **Zrušit Gilbert Ray 23/24, rezervovat Dead Horse Ranch SP 23/24** (záloha: Clear Creek CG).
+1. ~~Jízdenky na Classic Canyon Ride pá 24. 7. 13:00~~ **koupeno ✅** (source: uživatel 20. 7.).
+2. ~~Zrušit Gilbert Ray 23/24~~ — kemp měl zavřeno, nebylo co rušit ✅. **Zbývá rezervovat Dead Horse Ranch SP 23/24** (záloha: Clear Creek CG); web rezervačního systému 20. 7. vykazoval chybu — zkusit později, nebo telefonicky Arizona State Parks: 1-877-697-2757 (needs verification čísla).
 3. ~~Nocleh 22/23~~ vyřešeno: Lake Pleasant, Desert Tortoise (Bajada) rezervováno ✅.
 4. Ověřit: konkrétní pobočku REI v Phoenixu, fire restrictions na Mogollon Rim.
 5. Zvážit America the Beautiful pas (80 USD) — zaplatí se během cesty (Sunset Crater/Wupatki, Natural Bridges, Canyonlands...).

@@ -9,7 +9,7 @@
 ---
 
 - Odjezd denních vlaků ve 13:00, jízda ~4 hodiny (13:00–17:00); v létě (červen–září) jezdí i večerní vlaky v 17:30 (source: verdecanyonrr.com).
-- **Pátek 24. 7. 2026 potvrzen**: pravidelný odjezd ve 13:00, Classic Canyon Ride, ~4 hodiny (source: upřesnění uživatele 20. 7. 2026). Zbývá koupit/přebookovat jízdenky z 13. 8. — tel. **(800) 582-7245** nebo online.
+- **Pátek 24. 7. 2026 potvrzen**: pravidelný odjezd ve 13:00, Classic Canyon Ride, ~4 hodiny. **Jízdenky koupeny ✅** (source: uživatel 20. 7. 2026).
 - Nástup se doporučuje hodinu před odjezdem, tj. ~12:00.
 - Dojezd: Gilbert Ray Campground → Clarkdale ~215 mil / ~3 h 45 min; Clarkdale → Sedona ~30 min.
 
