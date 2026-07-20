@@ -10,8 +10,8 @@
 
 - [[casovy-rozvrh]] — celkový itinerář v šesti segmentech (přílet 23. 7., odlet 16. 8.)
 - [[trasy-kmz]] — přehled pěti KMZ tras z Google Maps a jejich bodů
-- [[segment-1-revised-plan]] — upravený začátek cesty (23.–26. 7.) po uzavření Apache Trail; varianty A a B a akční kroky
-- [[segment-6-revised-plan]] — navazující úprava konce cesty (13.–15. 8.) pro obě varianty
+- [[segment-1-revised-plan]] — zvolený začátek cesty (23.–26. 7.): Saguaro East → vlak → Mogollon Rim → Meteor Crater; záložní varianta B
+- [[segment-6-revised-plan]] — navazující úprava konce cesty (13.–15. 8.): celý den 13. 8. na Sedonu
 
 ## Aktuální situace
 

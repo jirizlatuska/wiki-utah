@@ -12,3 +12,4 @@ Append-only záznam operací ve wiki.
 - Ingest zdroje „Časový rozvrh": vytvořena stránka [[casovy-rozvrh]] (všech 6 segmentů) a [[trasy-kmz]] (přehled pěti KMZ tras z raw/).
 - Připravena navazující úprava konce cesty: [[segment-6-revised-plan]] (řešení pro variantu A i B, otevřené body).
 - Aktualizován [[index|wiki/index.md]]; jako neingestovaný zbývá takeout-20260518T231412Z-3-001.zip.
+- Na pokyn uživatele zvolena finální varianta začátku: Phoenix → Saguaro NP East (za svítání pěšky) → Verde Canyon Railroad 24. 7. → Mogollon Rim (noc 24/25 dispersed na FR 300) → 25. 7. Meteor Crater → Coal Mine Canyon; noci podle původního plánu. Přepsán [[segment-1-revised-plan]], zjednodušen [[segment-6-revised-plan]] (13. 8. celý na Sedonu), upraven [[verde-canyon-railroad]] a index. Zůstává podmínka: telefonicky potvrdit vlak na pátek 24. 7.
