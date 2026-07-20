@@ -10,7 +10,7 @@
 
 - [[casovy-rozvrh]] — celkový itinerář v šesti segmentech (přílet 23. 7., odlet 16. 8.)
 - [[trasy-kmz]] — přehled pěti KMZ tras z Google Maps a jejich bodů
-- [[segment-1-revised-plan]] — finální začátek cesty (22.–26. 7.): Phoenix → Saguaro West → vlak → Mogollon Rim → Sunset Crater/Wupatki/Meteor Crater → Coal Mine Canyon
+- [[segment-1-revised-plan]] — finální začátek cesty (22.–26. 7.): Lake Pleasant → nákupy + Prescott/Jerome → vlak → Mogollon Rim → Meteor Crater/Sunset Crater/Wupatki → Coal Mine Canyon
 - [[segment-6-revised-plan]] — navazující úprava konce cesty (13.–15. 8.): celý den 13. 8. na Sedonu
 
 ## Aktuální situace

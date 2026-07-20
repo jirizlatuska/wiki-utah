@@ -1,6 +1,6 @@
 # Segment 1 — upravený plán začátku cesty (22.–26. 7.)
 
-**Summary**: Finální přestavba začátku po uzavření Apache Trail, s přehozeným pořadím prvních dnů: Phoenix (22. 7.) → nákupy + Saguaro West → kemp u Verde Canyon Railroad → vlak + Mogollon Rim (24. 7.) → Sunset Crater, Wupatki, Meteor Crater → Coal Mine Canyon (25. 7.).
+**Summary**: Finální přestavba začátku po uzavření Apache Trail: Phoenix / Lake Pleasant (22. 7.) → nákupy + přejezd ke Clarkdale (volitelně přes Prescott a Jerome) → vlak + Mogollon Rim (24. 7.) → Meteor Crater, Sunset Crater, Wupatki → Coal Mine Canyon (25. 7.). Saguaro NP vypuštěn na pokyn uživatele.
 
 **Sources**: Časový rozvrh; Directions from Phoenix Sky Harbor International Airport (PHX)... to Navajo Moenave Dinosaur Tracks... .kmz; upřesnění uživatele 20. 7. 2026; web (ADOT, azfamily.com, verdecanyonrr.com, phoenix.gov — viz [[apache-trail-closure]] a [[verde-canyon-railroad]])
 
@@ -16,27 +16,20 @@ Původní první etapa vedla přes Apache Trail a Roosevelt Dam (source: Directi
 
 Vlak: pátek 24. 7. 2026 má pravidelný odjezd ve 13:00 (Classic Canyon Ride, ~4 hodiny) (source: upřesnění uživatele 20. 7.). Zbývá koupit/přebookovat jízdenky.
 
-## Den 1 — středa 22. 7.: Phoenix
+## Den 1 — středa 22. 7.: Phoenix / Lake Pleasant
 
-- Krátký večerní výlet: **Dreamy Draw Recreation Area** (doporučeno — ~15 min od letiště, snadné krátké okruhy) před North Mountain Preserve (dále, visitor centrum zavírá dřív).
-- ⚠️ Brány parkovišť u trailheadů celé Phoenix Mountains Preserve **zavírají v 19:00** (vjezd od 5:00); kdo je uvnitř, může po trailech zůstat do 23:00 (source: phoenix.gov / visitphoenix.com). **Při příletu v 19:00 se tedy večerní výlet nestihne** — buď přesunout procházku na čtvrteční svítání (Dreamy Draw/Piestewa 5:30–7:00 před nákupy), nebo počítat jen s večeří a spánkem. Platí-li pro 22. 7. dřívější přílet, vjet na parkoviště před 19:00.
-- **Noc 22/23: Phoenix — nocleh nespecifikován (otevřený bod, ideálně poblíž jihovýchodu města kvůli rannímu odjezdu).**
+- **Noc 22/23: Lake Pleasant Regional Park, kemp Desert Tortoise (Bajada) — rezervováno ✅** (source: uživatel 20. 7.). Z letiště ~45–55 min severozápadně; kemp leží mezi saguary nad jezerem — večer/za svítání částečně nahradí vypuštěné Saguaro NP.
+- Případný krátký večerní výlet (Dreamy Draw / North Mountain) jen při příletu před ~18:00: brány parkovišť Phoenix Mountains Preserve **zavírají v 19:00** (kdo je uvnitř, může po trailech do 23:00) (source: phoenix.gov / visitphoenix.com). Při příletu v 19:00 rovnou do kempu — západ slunce nad jezerem, hvězdy.
 
-## Den 2 — čtvrtek 23. 7.: nákupy, Saguaro West, přejezd pod Verde Canyon
+## Den 2 — čtvrtek 23. 7.: nákupy a přejezd ke Clarkdale
 
-Program dne (source: upřesnění uživatele): nákup Costco a REI; Saguaro NP West; přejezd do kempu u Verde Canyon Railroad.
-
-Doporučené pořadí kvůli vedru (Tucson ~40 °C):
+Saguaro NP **vypuštěn** (source: korekce uživatele 20. 7. — záměna místa, cesta na jih odpadá). Den je tím volný: nákupy a přejezd ~100 mil na sever.
 
 | Čas | Program |
 |---|---|
-| 6:00 | odjezd z Phoenixu na jih (I-10) |
-| 7:45–10:15 | **Saguaro NP West** (Bajada Loop Drive, krátké procházky, Red Hills VC otevírá 8:00) — v ranním chladu |
-| 10:15–12:30 | nákupy: Costco Marana (přímo u I-10) + REI Tucson (needs verification — existenci/otvírací dobu obou ověřit; jistá záloha: Costco+REI v Phoenixu/Tempe cestou na sever) |
-| 12:30–16:15 | přejezd Tucson → Cottonwood (I-10/I-17, ~230 mil) — přes poledne v klimatizaci auta |
-| večer | kemp, případně lagunky Dead Horse Ranch / řeka Verde |
-
-Alternativa v pořadí uživatele (nákupy dopoledne, Saguaro odpoledne + západ slunce u Gates Pass ~19:30) znamená příjezd do kempu ~23:00 — ověřit, do kolika kemp pouští pozdní příjezdy.
+| ráno | klidné ráno u jezera; 9:00–11:00 nákupy **Costco + REI** v severním Phoenixu (Costco u I-17/Happy Valley Rd je při cestě; konkrétní REI pobočku ověřit — needs verification) |
+| 11:00–16:00 | přejezd ke Clarkdale — dvě možnosti: **(a) scénická** přes Wickenburg → Prescott (oběd) → AZ-89A přes Mingus Mountain → **Jerome** (hornické městečko) → sjezd přímo do Clarkdale (~3 h čisté jízdy; částečná náhrada za ztracený scénický Apache Trail), **(b) rychlá** po I-17 (~1 h 45 min) |
+| večer | kemp; lagunky Dead Horse Ranch / řeka Verde |
 
 **Noc 23/24: kemp u Verde Canyon Railroad** — doporučen **Dead Horse Ranch State Park** (Cottonwood, ~10 min k nádraží, sprchy, rezervovatelný online) před Clear Creek Campground (Camp Verde, ~25 min, jednodušší). ⚠️ **Zrušit Gilbert Ray 23/24 a rezervovat nový kemp — deadline změny je 21. 7.**
 
@@ -68,17 +61,17 @@ Beze změny — navazuje segment 2 podle [[casovy-rozvrh]] (Pink Coral Dunes 27/
 
 ## Co plán zachovává a co vypouští
 
-- Zachováno z původní trasy: Mogollon Rim, Meteor Crater, Coal Mine Canyon, Moenave; navíc přibývá Sunset Crater, Wupatki, Tuzigoot a den v Phoenixu.
-- Vypuštěno: Apache Trail + Roosevelt Dam (uzavírka) a Gilbert Ray/Saguaro East-ranní varianta (nahrazeno Saguaro West v klidnějším režimu).
+- Zachováno z původní trasy: Mogollon Rim, Meteor Crater, Coal Mine Canyon, Moenave; navíc přibývá Sunset Crater, Wupatki, Tuzigoot, případně Prescott a Jerome.
+- Vypuštěno: Apache Trail + Roosevelt Dam (uzavírka) a Saguaro NP včetně Gilbert Ray (korekce uživatele — záměna místa; saguarovou kulisu částečně nahradí kemp Desert Tortoise u Lake Pleasant).
 - Dopad na segment 6: vlak i Meteor Crater odbaveny → 13. 8. celý na Sedonu, viz [[segment-6-revised-plan]].
 
 ## Akční kroky (deadline 21. 7.)
 
 1. **Koupit/přebookovat jízdenky** na Classic Canyon Ride pá 24. 7. 13:00 ([[verde-canyon-railroad]], tel. 800 582 7245).
 2. **Zrušit Gilbert Ray 23/24, rezervovat Dead Horse Ranch SP 23/24** (záloha: Clear Creek CG).
-3. Vyřešit nocleh 22/23 v Phoenixu.
-4. Ověřit: REI/Costco v Tucsonu, fire restrictions na Mogollon Rim, pozdní check-in kempu (při alternativním pořadí dne 2).
-5. Zvážit America the Beautiful pas (80 USD) — zaplatí se během cesty (Saguaro, Sunset Crater/Wupatki, Natural Bridges, Canyonlands...).
+3. ~~Nocleh 22/23~~ vyřešeno: Lake Pleasant, Desert Tortoise (Bajada) rezervováno ✅.
+4. Ověřit: konkrétní pobočku REI v Phoenixu, fire restrictions na Mogollon Rim.
+5. Zvážit America the Beautiful pas (80 USD) — zaplatí se během cesty (Sunset Crater/Wupatki, Natural Bridges, Canyonlands...).
 
 ## Related pages
 
