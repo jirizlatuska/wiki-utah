@@ -16,6 +16,8 @@ Přílet 23. 7. v 19:00 (západ slunce 19:30), odlet 16. 8. v 9:00 ráno (source
 
 Původně: Gilbert Ray Campground 23/24, „somewhere" 24/25, Coal Mine Canyon 25/26 (source: Časový rozvrh); trasa vedla přes Apache Trail, Roosevelt Dam, Mogollon Rim a Meteor Crater (source: Directions from PHX to Moenave Dinosaur Tracks.kmz).
 
+⚠️ Rozpor: zdroj uvádí segment 1 od 23. 7., nový plán začíná už 22. 7. večer v Phoenixu (source: upřesnění uživatele 20. 7. 2026) — segment 1 má nyní 5 dnů (22.–26. 7.).
+
 ## Segment 2 — 3 dny (27.–29. 7.)
 
 - Pink Coral Dunes 27/28
