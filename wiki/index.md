@@ -17,6 +17,7 @@
 
 - [[apache-trail-closure]] — fakta o uzavírce SR 88 (od 17. 7. 2026) a její dopad na trasu
 - [[babylon-fire]] — požár u Bears Ears: Needles od 18. 7. otevřen, uzávěra Forest Service na Elk Ridge trvá; dopad na segment 5
+- [[segment-5-bears-ears-plan]] — úniková varianta (Newspaper Rock + objetí) a otevřený bod nocleh mimo spáleniště; ověřit k 8. 8.
 - [[verde-canyon-railroad]] — vyhlídkový vlak v Clarkdale; pátek 24. 7. 13:00, jízdenky koupeny
 
 ## Rezervní zastávky kolem Moabu

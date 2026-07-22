@@ -30,8 +30,11 @@
 2. Needles VC 435-259-4711 — přístup, stav cest, Newspaper Rock.
 3. Kvalita ovzduší/kouř — dohořívající vnitřek požářiště může při inverzi stále kouřit; rezervní program viz [[moab-reserve-list]] (petroglyfické lokality kouř snášejí dobře).
 
+⚠️ **Připomínka na 8. 8. 2026**: k tomuto datu znovu ověřit stav uzávěry a rozhodnout mezi přímým průjezdem Elk Ridge a únikovou variantou — podrobný postup viz [[segment-5-bears-ears-plan]].
+
 ## Related pages
 
 - [[casovy-rozvrh]]
 - [[trasy-kmz]]
 - [[moab-reserve-list]]
+- [[segment-5-bears-ears-plan]]
