@@ -43,13 +43,15 @@ Pěšky San Rafael Reef a Henry Mountains (source: Časový rozvrh).
 - Cathedral Valley Campground 5/6
 - Henry Mountains 6/7 a 7/8
 
+⚠️ Přejezd 8/9 (Henry Mountains → Moab) byl ve zdroji otevřený bod; doplněn návrh trasy přes San Rafael Swell — viz [[san-rafael-swell-route]].
+
 ## Segment 5 — 4 dny (9.–12. 8.)
 
 Permity na 10. a 11. 8. (White Rim) (source: Časový rozvrh). K tomuto segmentu se váže [[moab-reserve-list]] — rezervní zastávky kolem Moabu a doporučení doplnit zásoby před White Rim.
 
 ⚠️ Přejezd 11.–12. 8. přes Elk Ridge / Bears Ears závisí na uzávěrách po požáru — Needles se 18. 7. otevřel, ale uzávěra Forest Service zatím platí; viz [[babylon-fire]].
 
-- Wild Horse State Park 9/10
+- Wild Horse State Park 9/10 (pravděpodobný překlep za Dead Horse Point State Park — needs verification; uživatel 20. 7. cíl trasy uvedl jako Dead Horse Point, viz [[san-rafael-swell-route]])
 - White Crack Campground 10/11 (permit)
 - Nizhoni Campground (s jezerem) 11/12, nebo Comb Wash Campground
 - Muley Point Campground 12/13, nebo Monument Valley
