@@ -32,7 +32,7 @@
 ## Praktické poznámky
 
 - **Stav cest**: Buckhorn Draw Road je podle nezávislých zdrojů dobře udržovaná gravel/hlína, místy sjízdná i rychlostí dálnice, běžně dostupná pro všechna vozidla za sucha — ale nebezpečná za mokra/náledí. Temple Mountain Road je místy hrubší, obecně zvládnutelná i menšími vozy (source: alltrails.com, americansouthwest.net). Vzhledem k monzunové sezóně (viz [[apache-trail-closure]] — blesková povodeň jinde už uzavřela silnici) **ověřit počasí a stav cest těsně před odjezdem**.
-- ⚠️ **Smluvní riziko půjčovny vozu**: standardní smlouvy (Avis, Hertz, Enterprise, Alamo, Dollar, National) zakazují jízdu mimo zpevněné komunikace; při škodě na neasfaltované cestě běžně padá pojistné krytí (needs verification u konkrétní půjčovny a typu vozu — pokud je na cestu stejně potřeba 4x4/high-clearance kvůli White Rim v segmentu 5, je to už řešeno jinde a tento bod je jen na kontrolu).
+- ✅ **Smluvní riziko půjčovny vozu vyřešeno**: [[vehicle]] — najatý Jeep Wagoneer 4x4 s plnou náhradní pneumatikou a terénními převody, jízda po gravel/dirt cestách je počítaná (source: uživatel 20. 7. 2026).
 - Časová náročnost: se zastávkami (Little Wild Horse Canyon, Buckhorn Wash, Swinging Bridge, Dinosaur Footprint, Fisher Towers) jde o plnohodnotný den; needs verification přesná kilometráž/doba jízdy (odhad řádu 6–8 hodin čistého přejezdu + zastávky, bez ověření mapovým nástrojem).
 - Podél trasy žádné permity nejsou potřeba (veřejné cesty BLM/kraj).
 
