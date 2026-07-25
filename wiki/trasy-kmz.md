@@ -26,6 +26,8 @@ Stateline → Paw Hole (South Coyote Buttes) → Alstrom Point → Smokey Mounta
 
 Goblin Valley → Moonscape Overlook → Cathedral Valley → Cathedral Valley Campground → Hartnet/Cathedral Road → Bentonite Hills → McMillan Spring Road → Mount Pennell / Mt. Pennell Lookout, Henry Mountains (source: Directions from Goblin Valley to Mt. Pennell Lookout.kmz).
 
+⚠️ Bentonite Hills / Hartnet Road je při dešti neprůjezdná i pro 4x4 — viz [[vehicle]].
+
 ## 5. Hanksville (BLM 0095) → Muley Point East (segment 5)
 
 Hanksville → Shafer Trail Viewpoint → White Crack (White Rim, permit) → Mineral Bottom Switchbacks → Horse Mountain → Natural Bridges NM → Muley Point East (source: Directions from BLM 0095 Hanksville to Muley Point East.kmz).
