@@ -12,6 +12,8 @@
 
 Trasa segmentu 5 (source: Directions from BLM 0095 Hanksville to Muley Point East.kmz) vede přes Horse Mountain — tedy přímo přes oblast uzávěry Forest Service po Babylon Fire (viz [[babylon-fire]]). Needles District se 18. 7. znovu otevřel, ale uzávěra lesních pozemků (Dark Canyon Wilderness, Bears Ears NM na Monticello RD) k tomuto datu formálně platila dál, s platností do 31. 8., pokud nebude odvolána dřív.
 
+⚠️ **Aktualizace 25. 7.**: BAER hodnocení ukázalo 51 % plochy se střední mírou spálení půdy — zvýšené riziko eroze/odtoku, zejména na strmých svazích (Elk Ridge je hornatý terén). Detaily viz [[babylon-fire]]. To spíš posiluje pravděpodobnost, že se úniková varianta níže využije, než že se do 8. 8. otevře přímý průjezd bez omezení. Navíc i po případném otevření hrozí při dešti bahenní/suťové proudy na spáleništi — sledovat počasí i těsně před odjezdem.
+
 ## Úniková varianta (rozhodnuto 20. 7.)
 
 Pokud bude Elk Ridge / Horse Mountain k 8.–10. 8. stále uzavřen: **Newspaper Rock → objetí uzavřené oblasti** (source: uživatel 20. 7. 2026).
@@ -27,10 +29,11 @@ Pokud bude Elk Ridge / Horse Mountain k 8.–10. 8. stále uzavřen: **Newspaper
 
 ## Úkol k 8. 8. 2026
 
-1. Ověřit aktuální stav uzávěry Forest Service (Manti-La Sal NF, Monticello Ranger District — fs.usda.gov, nebo telefonicky Needles VC 435-259-4711).
+1. Ověřit aktuální stav uzávěry Forest Service (Manti-La Sal NF, Monticello Ranger District — fs.usda.gov, nebo telefonicky Needles VC 435-259-4711) a případná nová BAER doporučení (needs verification — sledovat InciWeb/Facebook Manti-La Sal NF v týdnech před odjezdem).
 2. Podle výsledku potvrdit: průjezd přes Horse Mountain (pokud odvoláno), nebo únikovou variantu Newspaper Rock + objetí (viz výše).
 3. Vybrat a zarezervovat konkrétní kemp mimo spáleniště pro noc/noci na objízdné trase.
-4. Zapsat výsledek do této stránky a do [[babylon-fire]], aktualizovat [[log]].
+4. I při otevřené cestě ověřit čerstvou předpověď — po dešti riziko debris flow na spáleništi bez ohledu na formální stav uzávěry.
+5. Zapsat výsledek do této stránky a do [[babylon-fire]], aktualizovat [[log]].
 
 ## Related pages
 
