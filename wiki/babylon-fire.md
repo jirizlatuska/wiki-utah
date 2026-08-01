@@ -1,10 +1,10 @@
 # Babylon Fire a uzávěry kolem Bears Ears
 
-**Summary**: Stav požáru Babylon Fire (San Juan County, UT) a z něj plynoucích uzávěr; rozhoduje o průjezdnosti trasy segmentu 5 přes Elk Ridge / Bears Ears (Horse Mountain) a o dostupnosti Newspaper Rock.
+**Summary**: Stav požáru Babylon Fire (San Juan County, UT) a z něj plynoucích uzávěr; rozhoduje o průjezdnosti trasy segmentu 5 přes Elk Ridge / Bears Ears (Horse Mountain) a o dostupnosti Newspaper Rock. K 31. 7. platí nový, zmenšený příkaz uzávěry #04-10-26-05-05; přesný stav Horse Mountain/Elk Ridge zatím needs verification.
 
-**Sources**: zpráva NPS předaná uživatelem 20. 7. 2026; web — moabtimes.com, abc4.com, fs.usda.gov, backpacker.com
+**Sources**: zpráva NPS předaná uživatelem 20. 7. 2026; BAER update sdílený uživatelem 25. 7. 2026; zpráva Manti-La Sal NF o novém příkazu sdílená uživatelem 31. 7. 2026; web — moabtimes.com, abc4.com, fs.usda.gov, backpacker.com
 
-**Last updated**: 2026-07-20
+**Last updated**: 2026-07-31
 
 ---
 
@@ -33,7 +33,9 @@ Z mapy: spáleniště leží severozápadně/západně od Monticella a Blandingu
 ## Uzávěry a znovuotevření
 
 - **Needles District (Canyonlands NP) znovu otevřen v sobotu 18. 7. v 8:00** — o 10 dní dříve, než se čekalo. Cesty Elephant Hill, Lavender a Davis Canyon zůstávají uzavřené pro motorová vozidla i kola. Dotazy: Needles Visitor Center 435-259-4711 (source: zpráva NPS předaná uživatelem 20. 7.).
-- **Uzávěra Forest Service trvá**: příkaz #04-10-26-05-01 z 28. 6. uzavírá veškeré pozemky FS v Dark Canyon Wilderness a Bears Ears NM na Monticello Ranger District, **platnost do 31. 8. 2026, nebude-li odvolán dříve** (source: fs.usda.gov). K 20. 7. nebyla nalezena zpráva o odvolání.
+- **Nový příkaz Forest Service #04-10-26-05-05, účinný od 31. 7. 2026 8:00** nahrazuje původní #04-10-26-05-01 a **zmenšuje hranice uzávěry na aktuální skutečný půdorys požáru** — tedy otevírá další pozemky (source: zpráva Manti-La Sal NF sdílená uživatelem 31. 7. 2026). Odůvodnění: uzávěra chrání návštěvníky, zatímco pokračuje BAER hodnocení a opravy cest; omezení se soustředí tam, kde právě probíhají práce.
+- ⚠️ **Přesný stav Horse Mountain / Elk Ridge k 31. 7. neověřen** — plný text příkazu a mapa jsou na fs.usda.gov/r04/manti-lasal/alerts, ale stránka blokuje automatizovaný přístup (403). Z dřívějších dílčích zpráv (cca týden před 31. 7.) byl trend otevírání: BLM otevřel většinu Monticello Field Office kromě severu od Brushy Basin Road; Forest Service otevřel oblasti jižně od Elk Mountain/South Elk roads, jihozápadně od Powerline Road a severovýchodně od Hart's Draw Road — přímé potvrzení pro Horse Mountain/Elk Ridge z toho ale nevyplývá (needs verification).
+- **Kontakty k ověření** (source: zpráva sdílená uživatelem 31. 7.): Monticello Ranger District **435-636-3340**; Manti-La Sal NF Supervisor's Office (Price) **435-636-3561**.
 
 ## Dopad na segment 5 (přejezd 11.–12. 8.)
 
@@ -43,9 +45,11 @@ Z mapy: spáleniště leží severozápadně/západně od Monticella a Blandingu
 
 ## Kdy a co ověřit (kolem 8.–10. 8., před segmentem 5)
 
-1. Stav uzávěry Monticello RD (fs.usda.gov / Manti-La Sal NF, Monticello Ranger District).
-2. Needles VC 435-259-4711 — přístup, stav cest, Newspaper Rock.
-3. Kvalita ovzduší/kouř — dohořívající vnitřek požářiště může při inverzi stále kouřit; rezervní program viz [[moab-reserve-list]] (petroglyfické lokality kouř snášejí dobře).
+1. Stav uzávěry Monticello RD podle aktuálního příkazu (k 31. 7. #04-10-26-05-05) — zavolat přímo **Monticello RD 435-636-3340**, případně Supervisor's Office (Price) 435-636-3561; web fs.usda.gov/r04/manti-lasal/alerts pro mapu.
+2. Konkrétně se zeptat na stav Horse Mountain / Elk Ridge (trasa segmentu 5, viz [[trasy-kmz]]) — z dostupných zpráv k 31. 7. neověřeno.
+3. Needles VC 435-259-4711 — přístup, stav cest, Newspaper Rock.
+4. Kvalita ovzduší/kouř — dohořívající vnitřek požářiště může při inverzi stále kouřit; rezervní program viz [[moab-reserve-list]] (petroglyfické lokality kouř snášejí dobře).
+5. I při otevřené cestě zvážit riziko debris flow po dešti na spáleništi (viz sekce BAER výše) — ověřit čerstvou předpověď těsně před odjezdem.
 
 ⚠️ **Připomínka na 8. 8. 2026**: k tomuto datu znovu ověřit stav uzávěry a rozhodnout mezi přímým průjezdem Elk Ridge a únikovou variantou — podrobný postup viz [[segment-5-bears-ears-plan]].
 
