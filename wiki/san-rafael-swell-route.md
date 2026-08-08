@@ -1,10 +1,10 @@
 # Trasa San Rafael Swell — Henry Mountains → Moab / Dead Horse Point (přejezd 8./9. 8.)
 
-**Summary**: Scénická trasa vyplňující přejezd mezi koncem segmentu 4 (Henry Mountains, noc 7/8) a začátkem segmentu 5 (Dead Horse Point / „Wild Horse State Park" 9/10): z okolí Goblin Valley na sever přes Temple Mountain Road a Buckhorn Draw Road (San Rafael Swell), obchází I-70 na první části trasy, pak I-70 na Cisco a UT-128 podél řeky Colorado kolem Fisher Towers do Moabu.
+**Summary**: Scénická trasa vyplňující přejezd mezi koncem segmentu 4 (Henry Mountains, noc 7/8) a začátkem segmentu 5 (Dead Horse Point / „Wild Horse State Park" 9/10): z okolí Goblin Valley na sever přes San Rafael Swell, pak I-70 na Cisco a UT-128 podél řeky Colorado kolem Fisher Towers do Moabu. Dvě varianty průjezdu Swellem: přes Buckhorn Draw Road (gravel, Buckhorn Wash Pictographs, Swinging Bridge), nebo přes Taylor's Flat Cutoff a Head of Sinbad Road (písčitější 4x4 trasa, Head of Sinbad/Locomotive Point pictographs, Dutchman Arch).
 
-**Sources**: web obsah vložený uživatelem 20. 7. 2026 (needs verification — sekundární zdroj, AI shrnutí Google Search, bez přímého odkazu na primární zdroj); doplňkové ověření cestovního odboru (alltrails.com, americansouthwest.net) a rizika pronájmu vozu (needs verification u konkrétní půjčovny); [[casovy-rozvrh]]
+**Sources**: web obsah vložený uživatelem 20. 7. 2026 (needs verification — sekundární zdroj, AI shrnutí Google Search, bez přímého odkazu na primární zdroj); alternativa Taylor's Flat/Head of Sinbad navržena uživatelem 31. 7. 2026; doplňkové ověření (alltrails.com, americansouthwest.net, girlonahike.com, discoverallcorners.com); [[casovy-rozvrh]]; [[vehicle]]
 
-**Last updated**: 2026-07-20
+**Last updated**: 2026-07-31
 
 ---
 
@@ -12,7 +12,15 @@
 
 „Časový rozvrh" nemá pro přejezd mezi Henry Mountains (končí 7/8) a začátkem segmentu 5 („Wild Horse State Park 9/10") žádný podrobný plán — den 8/9 byl otevřený. Cíl segmentu 5 „Wild Horse State Park" je pravděpodobně překlep za **Dead Horse Point State Park** — uživatel v zadání 20. 7. tento cíl výslovně použil (needs verification u finálního zápisu do rozvrhu, zdroj `raw/Časový rozvrh` zůstává needs-verification, ale neupravuje se — je immutable).
 
-## Navržená trasa
+## Alternativa: vnitřní trasa přes Taylor's Flat Cutoff a Head of Sinbad Road
+
+Uživatel navrhl 31. 7. 2026 variantu kroku 2–3 (viz níže) přes **Temple Mountain Road → Taylor's Flat Cutoff → Head of Sinbad Road** místo přes Buckhorn Draw Road.
+
+- **Head of Sinbad Road** vede k pískovcovým panelům s piktogramy u Locomotive Point a k Dutchman Arch, v centrální části Swellu těsně severně od I-70; napojuje se na I-70 u Temple Mountain Road (needs verification přesné číslo exitu — orientačně kolem Exitu 131/Ranch exit). Zdroje výslovně vyžadují **high-clearance 4x4 kvůli hlubokému písku a nerovnému povrchu** (source: girlonahike.com, discoverallcorners.com) — na rozdíl od Buckhorn Draw Road, která je dobrý gravel zvládnutelný i běžným autem za sucha. To dobře sedí na [[vehicle]] (Jeep Wagoneer s terénním převodem pro písek).
+- **Taylor's Flat / Taylor Flat**: potvrzena existence místa mezi Temple Mountain a Sinbad Country (zmíněno v popisu cyklotrasy Temple Wash → uranové doly → Temple Mountain → Taylor Flat → Sinbad Country → Eagle Canyon), ale přesný průběh „Taylor's Flat Cutoff" jako samostatné cesty se nepodařilo dohledat (needs verification — ověřit na papírové/offline mapě BLM San Rafael Swell před odjezdem, GPS signál v oblasti nespolehlivý).
+- ⚠️ **Tato trasa je jiný koridor než Buckhorn Draw** — vede jinudy než Buckhorn Wash Pictograph Panel a San Rafael Swinging Bridge (ty leží severněji podél kaňonu San Rafael River). Je to tedy spíš **alternativa k zastávkám 2–4 v tabulce níže** (jiné panely s piktogramy — Head of Sinbad/Locomotive Point a Dutchman Arch místo Buckhorn Wash — a jiný výjezd na I-70), ne doplněk navíc k již dlouhému dni. Rozhodnutí mezi oběma trasami nechat na místě podle chuti (kulturní panely vs. gravel scenery) a stavu cest.
+
+## Navržená trasa (výchozí varianta přes Buckhorn Draw Road)
 
 1. **Henry Mountains (Mt. Pennell) → Goblin Valley** — zpět po trase segmentu 4 (Bentonite Hills, Hartnet/Cathedral Road) nebo rychleji přes Notom-Bullfrog Road → UT-24 → Hanksville → Goblin Valley (needs verification, které je rychlejší/sjízdnější po případných monzunových deštích).
 2. **Goblin Valley → sever přes Swell**: Temple Mountain Road → San Rafael Swell → Buckhorn Draw Road, obchází I-70 na první části trasy (source: web obsah vložený uživatelem).
